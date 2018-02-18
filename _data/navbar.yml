@@ -1,0 +1,47 @@
+elements:
+  - name: 'Home'
+    url: '/'
+  - name: 'About'
+    sub-pages:
+      - name: 'About Us'
+        url: '/about/'
+      - name: 'div'
+      - name: 'Getting Involved'
+        url: '/about/get-involved/'
+      - name: 'The Executives'
+        url: '/about/executives/'
+      - name: 'The Subcommittee'
+        url: '/about/subcommittee/'
+  - name: 'Events'
+    sub-pages:
+      - events:
+        name: 'Our Events'
+        url: '/events/'
+      - div:
+        name: 'div'
+      - integration-bee-champions:
+        name: 'Integration Bee Champions'
+        url: '/events/integration-bee-champions/'
+  - name: 'Resources'
+    sub-pages:
+      - resources:
+        name: 'Our Resources'
+        url: '/resources/'
+      - div:
+        name: 'div'
+      - first-year-solutions:
+        name: 'First Year Exam Bank'
+        url: '/resources/first-year-solutions/'
+      - revision:
+        name: 'Revision Lectures'
+        url: '/resources/revision-lectures/'
+      - latex-guide:
+        name: 'LaTeX Guide'
+        url: '/resources/latex-guide/'
+      - careers-advice:
+        name: 'Careers Advice'
+        url: '/resources/careers-advice/'
+  - name: 'Sponsors'
+    url: '/sponsors/'
+  - name: 'Contact'
+    url: '/contact/'

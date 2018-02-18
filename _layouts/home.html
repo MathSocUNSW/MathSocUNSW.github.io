@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include header.html %}
+	</head>
+	<body>
+		{% include navbar.html %}
+        
+		<main class="bd-masthead" id="content" role="main" style="background: #eeeeee;">
+			<div class="container">
+				<div class="row-md">
+					<div class="mx-auto py-3 w-75">
+						<img class="img-fluid mb-40 mb-md-0 center-block" src="{{ site.images }}/logo_full.png" alt="">
+					</div>
+				</div>
+				<div class="row">
+					<div class="container mathsoc-body mb-5 pb-3 col-md-9">
+						<div class="text-left mx-4">
+							<h1 class="my-3 mt-4">Welcome to MathSoc!</h1>
+							<p class="lead">
+								{{ site.description }}
+							</p>
+							<p class="lead">
+								If you’re not a member already, join now (don’t forget to join us on OrgSync too)!
+							</p>
+							<p class="lead">
+								Check out our other pages to learn more about our society, what we do and grab our free solutions to the first year mathematics quizzes!
+							</p>
+						</div>
+					</div>
+					<div class="container mathsoc-sponsors col-md-3 text-center mb-5 pb-3">
+						{% include sponsors.html %}
+					</div>
+				</div>
+			</div>
+		</main>
+        
+        {% include footer.html %}
+        {% include scripts.html %}
+    </body>
+</html>

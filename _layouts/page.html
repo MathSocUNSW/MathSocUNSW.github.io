@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<main class="bd-masthead" id="content" role="main" style="background: #eeeeee;">
+	<div class="container">
+		<div class="row-md">
+			<div class="mx-auto py-3 w-75">
+				<img class="img-fluid mb-40 mb-md-0 center-block" src="{{ site.images }}/logo_full.png" alt="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="container mathsoc-body mb-5 pb-3 col-md-9">
+				<div class="text-left mx-4">
+					<h1 class="my-3 mt-4">{{ page.title }}</h1>
+					{% if page.title_text %}
+					<p class="lead">
+						{{ page.title_text }}
+					</p>
+					{% endif %}
+					{{ content }}
+				</div>
+			</div>
+			<div class="container mathsoc-sponsors col-md-3 text-center mb-5 pb-3">
+				{% include sponsors.html %}
+			</div>
+		</div>
+	</div>
+</main>
