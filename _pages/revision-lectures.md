@@ -10,5 +10,7 @@ Huge thanks to our Education Directors who worked tirelessly alongside our subco
 Despite our best efforts in keeping our resources error-free, occasionally, one may slip past us. If you do happen to notice one, please do let us know ASAP by [clicking here]({{ site.url }}/contact/)!
 
 These resources are **NOT** endorsed by the School of Mathematics and Statistics.
+	
+[Algebra Revision Slides]({{ site.url }}/assets/revision/2017_S1_Algebra_Revision_slides_MATH1131-41.pdf)
 
-<div class="text-danger">These resources are temporarily unavailable, thank you for your patience!</div>
+[Calculus Revision Slides]({{ site.url }}/assets/revision/Calculus_revision_lecture_2018.pdf)
