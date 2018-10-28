@@ -11,7 +11,7 @@ Despite our best efforts in keeping our resources error-free, occasionally, one 
 
 These resources are **NOT** endorsed by the School of Mathematics and Statistics.
 	
-[Algebra Revision Slides]({{ site.url }}/assets/revision/2017_S1_Algebra_Revision_slides_MATH1131-41.pdf)  [(solutions)]({{ site.url }}/assets/revision/Algebra_revision_session_solutions_S1_2017-1.pdf)
+[Algebra Revision Slides]({{ site.url }}/assets/revision/Algebra Slides.pdf)  [(solutions)]({{ site.url }}/assets/revision/Algebra Solutions.pdf)
 
 
-[Calculus Revision Slides]({{ site.url }}/assets/revision/Calculus_revision_lecture_2018.pdf) [(solutions)]({{ site.url }}/assets/revision/Calculus_revision_session_solutions_S1_2017.pdf)
+[Calculus Revision Slides]({{ site.url }}/assets/revision/Calculus.pptx) [(solutions)]({{ site.url }}/assets/revision/Calculus.pdf)
