@@ -13,14 +13,15 @@ Congratulations to all winners on this amazing accomplishment.
 - [2015](#2015)
 - [2014](#2014)
 - [2013](#2013)
+
 ---------------------------
 <a id="2019"></a>
 ###### 2019 Integration Bee
 
 Thanks to everyone who came to the annual MathSoc Integration Bee for 2019! Well done to all competitors, and congratulations to our prize winners:
 
-1st - Johnny Lim
-2nd - Jake Edwards
+1st - Johnny Lim<br>
+2nd - Jake Edwards<br>
 3rd - Jack Lam
 
 A massive thank you to Edited by Bea for photographing our event!
@@ -35,6 +36,8 @@ This year, we are releasing the questions and answers for the questions. Feel fr
 		<li data-target="#2019-carousel" data-slide-to="1"></li>
 		<li data-target="#2019-carousel" data-slide-to="2"></li>
 		<li data-target="#2019-carousel" data-slide-to="3"></li>
+		<li data-target="#2019-carousel" data-slide-to="4"></li>
+		<li data-target="#2019-carousel" data-slide-to="5"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
