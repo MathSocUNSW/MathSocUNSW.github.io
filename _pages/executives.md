@@ -2,7 +2,7 @@
 layout: page
 title: Meet the Executives
 permalink: /about/executives/
-title_text: The 2018 Executive of the UNSW Mathematics Society
+title_text: The 2019 Executive of the UNSW Mathematics Society
 ---
 <!-- TODO descriptions, formatting -->
 ### The Executive Body
