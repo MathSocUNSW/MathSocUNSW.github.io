@@ -4,6 +4,10 @@ title: Integration Bee Champions
 permalink: /events/integration-bee-champions/
 title_text: Our annual integration bee attracts the brightest, fastest, and most cunning integrators every year.
 ---
+
+
+{% capture solutions_url %}{{ site.url }}/assets/solutions{% endcapture %}
+
 **Coming first is no easy task.**
 
 Congratulations to all winners on this amazing accomplishment.
@@ -27,7 +31,8 @@ Thanks to everyone who came to the annual MathSoc Integration Bee for 2019! Well
 A massive thank you to Edited by Bea for photographing our event!
 
 This year, we are releasing the questions and answers for the questions. Feel free to use them and give your brain a workout:
-<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Questions.pdf">2019 Integration Bee Questions</a>
+
+<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Questions.pdf">2019 Integration Bee Questions</a> <br>
 <a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Answers.pdf">2019 Integration Bee Answers</a>
 
 <div id="2019-carousel" class="carousel slide">
