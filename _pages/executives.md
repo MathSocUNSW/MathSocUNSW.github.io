@@ -20,7 +20,7 @@ Fourth year actuarial / advanced maths student. I find after a reverse pyramid c
 Crawling through my 4th year of Mechatronics Engineering and Mathematics. A passionate advocate for STEM studies, professional development and overall networking meme. Outside all that, I enjoy hiking, volunteering, karaoke, Netflix and eating, because food is a necessity.
 
 ###### Stephanie Tong - Arc Delegate
-
+Hello :)
 
 ### The Board of Directors
 ----------------------
@@ -33,7 +33,7 @@ A 4th year Actuarial/Applied Mathematics student hoping for an optometry major f
 ###### Arnav Roy - Events Director
 3rd year Actuarial/Commerce student. Passionate advocate for proper Mathematics education, tangible social impact, and HUGE dog lover.
 
-###### Derek Yang - Events Director
+###### Derek Sun - Events Director
 
 
 ###### Lucy Qiu - IT Director
@@ -43,7 +43,7 @@ Fourth year Software Engineering student.
 
 
 ###### Spencer Yang - Marketing Director
-
+3rd year Actuarial/Pure Math student with employability comparable to art students. Catch me living in the red centre labs or at hursy drinking milk tea and making other poor lifestyle choices.
 
 ###### Odelia Sze-To - Sponsorship Director
 
