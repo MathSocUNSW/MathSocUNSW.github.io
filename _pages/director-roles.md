@@ -43,9 +43,3 @@ permalink: /director-roles/
  - Lead and direct volunteers to ensure the event runs smoothly
  - Assist in planning for future events
  
- ## HR Director
- - Oversee all team members performance and productivities
- - Assist with recruitment of society subcommittee
- - Assist in the resolution of grievances and internal strife as they arise
- - Keep the executives abreast of new occurrences
- - Organise bonding events within the society’s committee

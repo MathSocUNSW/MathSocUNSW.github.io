@@ -5,13 +5,13 @@ permalink: /events/integration-bee-champions/
 title_text: Our annual integration bee attracts the brightest, fastest, and most cunning integrators every year.
 ---
 
-
 {% capture solutions_url %}{{ site.url }}/assets/solutions{% endcapture %}
 
 **Coming first is no easy task.**
 
 Congratulations to all winners on this amazing accomplishment.
 - [2019](#2019)
+- [2018](#2018)
 - [2017](#2017)
 - [2016](#2016)
 - [2015](#2015)
@@ -77,6 +77,32 @@ This year, we are releasing the questions and answers for the questions. Feel fr
 	<a href="#">Back to top</a>
 </p>
 
+---------------------------
+<a id="2018"></a>
+###### 2018 Integration Bee
+What a great O-Week to start the semester! Thank you to all the volunteers that have made running this week possible. We would also like to congratulate the MathSoc Integration Bee Winner Johnny Lim and runner-up Cameron Eggins. 
+
+<div id="2018-carousel" class="carousel slide">
+	<ol class="carousel-indicators">
+		<li data-target="#2018-carousel" data-slide-to="0" class="active"></li>
+	</ol>
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2018/1.jpg">
+		</div>
+	</div>
+	<a class="carousel-control-prev" href="#2018-carousel" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#2018-carousel" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
+<p class="text-right">
+	<a href="#">Back to top</a>
+</p>
 ---------------------------
 
 <a id="2017"></a>

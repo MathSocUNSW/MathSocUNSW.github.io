@@ -3,6 +3,7 @@ layout: page
 title: Executive Role Descriptions
 permalink: /exec-roles/
 ---
+
 ## President
  - To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society;
  - To oversee and coordinate the activities and administration of the club;

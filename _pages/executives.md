@@ -11,7 +11,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
 Surviving 3rd year Commerce/Science. From NZ; here to steal your jobs. Will love a dog more than a bae and will shock you with the amount of food I am capable of consuming.
 
 ###### Andrew Antony - Vice President
-3rd year advanced maths/computer science student. Keen on chess, tennis and STEM. Name does not reflect ethnicity. Gets called "Anthony" too often for my own liking.
+4th year maths/computer science student. Longest standing member of the current team. Keen on chess, drums and tennis. Spends long hours in the gym with very little return.
 
 ###### David Wassef - Treasurer
 Fourth year actuarial / advanced maths student. I find after a reverse pyramid chest day, a set of differential equations is the perfect recovery remedy. You may typically find me in Quad foodcourt getting a HSP. Rubix cube PB: 13.83s. Dislikes long walks on the beach.
@@ -20,7 +20,7 @@ Fourth year actuarial / advanced maths student. I find after a reverse pyramid c
 Crawling through my 4th year of Mechatronics Engineering and Mathematics. A passionate advocate for STEM studies, professional development and overall networking meme. Outside all that, I enjoy hiking, volunteering, karaoke, Netflix and eating, because food is a necessity.
 
 ###### Stephanie Tong - Arc Delegate
-Hello :)
+"can u reuse my last year's description"
 
 ### The Board of Directors
 ----------------------
@@ -34,19 +34,19 @@ A 4th year Actuarial/Applied Mathematics student hoping for an optometry major f
 3rd year Actuarial/Commerce student. Passionate advocate for proper Mathematics education, tangible social impact, and HUGE dog lover.
 
 ###### Derek Sun - Events Director
-
+Brb, being creative rn 
 
 ###### Lucy Qiu - IT Director
 Fourth year Software Engineering student. 
 
 ###### Grace Li - Marketing Director
-
+I like pork belly 
 
 ###### Spencer Yang - Marketing Director
 3rd year Actuarial/Pure Math student with employability comparable to art students. Catch me living in the red centre labs or at hursy drinking milk tea and making other poor lifestyle choices.
 
 ###### Odelia Sze-To - Sponsorship Director
-
+coming soon
 
 ###### James Lu - Sponsorship Director
 I am a 2nd year Commerce/Mathematics student. You will most likely find me working or binging netflix like a pro. (I am married to work. Buy my master mind course for $10,000 per month, where I show you how to grow your business and how to grind)
