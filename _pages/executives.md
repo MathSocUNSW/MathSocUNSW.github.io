@@ -20,7 +20,7 @@ Fourth year actuarial / advanced maths student. I find after a reverse pyramid c
 Crawling through my 4th year of Mechatronics Engineering and Mathematics. A passionate advocate for STEM studies, professional development and overall networking meme. Outside all that, I enjoy hiking, volunteering, karaoke, Netflix and eating, because food is a necessity.
 
 ###### Stephanie Tong - Arc Delegate
-"can u reuse my last year's description"
+Fourth year Engineering/Law student. Probably never going to graduate. Really into superhero movies and Brooklyn Nine-Nine, but also helping people with mental health issues
 
 ### The Board of Directors
 ----------------------
