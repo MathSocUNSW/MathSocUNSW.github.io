@@ -22,7 +22,7 @@ Huge thanks to our Education Directors who worked tirelessly alongside our subco
 
 [Chapter 3,4 - Proofs & Combinatorics]({{ site.url }}/assets/revision/1081_Proofs_Combi.pdf)
 
-##### 2019T1 MATH2011/2111 (Multivariable Calculus) Revsion Seminar Slides
+##### 2019T1 MATH2011/2111 (Multivariable Calculus) Revision Seminar Slides
 
 [Differential Calculus/Multiple Integrals (Seminar 1)]({{ site.url }}/assets/revision/Second_Year_Calculus_Part_1.pdf)
 
