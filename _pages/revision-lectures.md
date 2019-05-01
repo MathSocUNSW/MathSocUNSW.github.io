@@ -5,9 +5,9 @@ permalink: /resources/revision-lectures/
 title_text: Here, you’ll find the slides and solutions for the revision seminars we held for UNSW Mathematics courses. All the best for your revision :)
 ---
 
-Huge thanks to our Education Directors who worked tirelessly alongside our subcommittee members to bring you this material and present the classes.
+Huge thanks to our Education team who worked tirelessly to bring you this material and present the revision seminars.
 
-**Directors:** **James Gao** and Rui Tong
+**Directors:** James Gao and Rui Tong
 
 **Subcommittee:** Kabir Agarwal, Ethan Brown, Gerald Huang, Abdellah Islam, Laeeque Jamdar, Yasin Khan, Supriya Segal and Jeffrey Yang
 
