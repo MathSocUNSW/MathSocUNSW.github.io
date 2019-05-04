@@ -32,7 +32,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Differential Calculus/Multiple Integrals (Seminar 1)]({{ site.url }}/assets/revision/2_01_11_Calculus_Part_1.pdf)
 
-[Vector Calculus/Analysis (Seminar 2)]({{ site.url }}/assets/revision/2_01_11_Calculus_Part_2.pdf)
+[Vector Calculus/Analysis (Seminar 2)]({{ site.url }}/assets/revision/2_01_11_Calculus_Part_2.pdf) - updated 4/05/19
 
 <!-- **2017s2 MATH1131/1141 Revision Slides**
 
