@@ -20,7 +20,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 [Algebra]({{ site.url }}/assets/revision/11_34_1_Algebra.pdf)
 
 [Calculus]({{ site.url }}/assets/revision/11_34_1_Calculus.pdf)
-[ (Solutions)]({{ site.url }}/assets/revision/11_34_1_Calculus_Solutions.pdf)
+[<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/11_34_1_Calculus_Solutions.pdf)
 
 ##### 2019T1 MATH1081 (Discrete Maths) Revision Seminar Slides
 
@@ -33,6 +33,8 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 [Differential Calculus/Multiple Integrals (Seminar 1)]({{ site.url }}/assets/revision/2_01_11_Calculus_Part_1.pdf)
 
 [Vector Calculus/Analysis (Seminar 2)]({{ site.url }}/assets/revision/2_01_11_Calculus_Part_2.pdf) - updated 4/05/19
+
+[<span style="color:#F94DF3">MATH2011/2111 Solutions</span>]({{ site.url }}/assets/revision/2_01_11_Calculus_Solutions_all.pdf)
 
 <!-- **2017s2 MATH1131/1141 Revision Slides**
 
