@@ -36,15 +36,9 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [<span style="color:#F94DF3">MATH2011/2111 Solutions</span>]({{ site.url }}/assets/revision/2_01_11_Calculus_Solutions_all.pdf)
 
-##### 2017S2 MATH1131/1141 Revision Seminar Slides
+##### 2017S2 MATH1231/1241 Revision Seminar Slides
 
 [Algebra]({{ site.url }}/assets/revision/2017/Algebra Slides.pdf)  [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/Algebra Solutions.pdf)
 
 [Calculus]({{ site.url }}/assets/revision/2017/Calculus.pptx) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/Calculus.pdf)
-
-<!-- **2017s2 MATH1131/1141 Revision Slides**
-
-[Algebra Revision Slides]({{ site.url }}/assets/revision/2017/Algebra Slides.pdf)  [(solutions)]({{ site.url }}/assets/revision/2017/Algebra Solutions.pdf)
-
-[Calculus Revision Slides]({{ site.url }}/assets/revision/2017/Calculus.pptx) [(solutions)]({{ site.url }}/assets/revision/2017/Calculus.pdf) -->
 
