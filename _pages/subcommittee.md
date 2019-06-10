@@ -6,3 +6,11 @@ title_text: Say hello to our Subcommittee Members for 2019!
 ---
 
 Our subcommittee members work hard with our directors across all portfolios to bring fresh ideas to fruition. 
+
+Education
+
+Events
+
+#### Marketing 
+
+![Yuseph Ma]({{ site.images }}/spencer.jpg)
