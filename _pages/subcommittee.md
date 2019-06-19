@@ -15,14 +15,5 @@ Our subcommittee members work hard with our directors across all portfolios to b
 
 #### Marketing 
 
-<div class="horizontal-container">
-    <div class="subcom-pic-container">
-        <img class="subcom-pic" src="{{ site.images }}/spencer.jpg" alt="Yuseph Ma">
-    </div>
-    <div>
-        <h5>Yuseph Ma</h5>
-        Lucy's IT Friend :D
-    </div>
-</div>
 
 
