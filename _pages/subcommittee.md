@@ -20,7 +20,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         <img class="subcom-pic" src="{{ site.images }}/spencer.jpg" alt="Yuseph Ma">
     </div>
     <div>
-        <h4>Yuseph Ma</h4>
+        <h5>Yuseph Ma</h5>
         Lucy's IT Friend :D
     </div>
 </div>
