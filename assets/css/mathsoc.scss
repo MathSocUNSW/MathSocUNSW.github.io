@@ -38,3 +38,25 @@
 	height: 128px;
 }
 
+.sponsor-container {
+	background-color: #eeeeee;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.img-fluid {
+	max-height: 100%;
+}
+.sponsor-pic {
+	width: 200px;
+	height: 100px;
+	padding: 10px 10px 10px 10px;
+	object-fit: scale-down;
+}
+
+.sponsor-container-wrapper {
+	background: #eeeeee;
+	padding: 50px 50px 50px 50px;
+}
+
