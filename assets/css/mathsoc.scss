@@ -60,3 +60,9 @@
 	padding: 50px 50px 50px 50px;
 }
 
+.backgroundimage {
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("{{site.images}}/building.jpg");
+	background-position: center;
+	background-size: 100% 500px;
+}
+
