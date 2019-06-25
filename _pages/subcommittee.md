@@ -39,7 +39,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Abdelluh Islam</h5>
+        <h5>Abdellah Islam</h5>
             <p>Insert short description here</p>
         </div>
     </div>
