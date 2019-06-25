@@ -12,7 +12,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
 <h4>Education</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{site.images}}/building.jpg">
+        <div class="vertical-container"><img class="subcom-pic" src="{{site.images}}/logo.png">
         </div>
         <div class="vertical-container">
         <h5>Kabir Agrawal</h5>
