@@ -130,7 +130,6 @@ Our subcommittee members work hard with our directors across all portfolios to b
 </section>
 <br>
 
-<<<<<<< HEAD
 <h4>Marketing</h4>
 <section class="flex-container">
     <div class="horizontal-container">
@@ -184,11 +183,4 @@ Our subcommittee members work hard with our directors across all portfolios to b
 </section>
     
     
-=======
-#### Events
-
-#### Marketing 
-
-
->>>>>>> 5913c08f8def6fbf3dd7f045b14822d4f1046ff3
 
