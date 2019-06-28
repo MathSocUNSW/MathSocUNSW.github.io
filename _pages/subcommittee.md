@@ -24,7 +24,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Ethan Brown</h5>
-            <p>Insert short description here</p>
+            <p>Third year Advanced Maths/Computer Science student with Pure/AI major. I like frogs almost as much as I like maths. Ribbit.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -169,7 +169,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>John Wei</h5>
-            <p>Insert short description here</p>
+            <p>First year Data Science and Decisions student. Can snowboard,ice skate and surf pretty well.</p>
         </div>
     </div>
     <div class="horizontal-container">

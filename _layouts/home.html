@@ -4,36 +4,36 @@
 		{% include header.html %}
 	</head>
 	<body>
-		<div class="backgroundimage">
-		{% include navbar.html %}
-		
-		<!-- <main class="bd-masthead" id="content" role="main" style="background: #eeeeee;"> -->
-		<main>
-			<!-- <img src="{{ site.images }}/tmp_background.jpg" alt=""> -->
-			<div class="container">
-				<div class="row-md">
-					<div class="logo-container">
-						<img class="img-fluid logo" src="{{ site.images }}/logo_full.png" alt="">
+		<!-- <div class="backgroundimage"> -->
+		<div>
+			{% include navbar.html %}
+			
+			<main class="bd-masthead" id="content" role="main" style="background: #eeeeee;">
+			<!-- <main> -->
+				<div class="container">
+					<div class="row-md">
+						<div class="logo-container">
+							<img class="img-fluid logo" src="{{ site.images }}/testlogo.png" alt="">
+						</div>
 					</div>
-				</div>
-				<div class="row">
-					<div class="container mathsoc-body mb-5 pb-3">
-						<div class="text-left mx-4">
-							<h1 class="my-3 mt-4">Welcome to MathSoc!</h1>
-							<p class="lead">
-								{{ site.description }}
-							</p>
-							<p class="lead">
-								If you’re not a member already, join now (don’t forget to join us on spArc too)!
-							</p>
-							<p class="lead">
-								Check out our other pages to learn more about our society, what we do and grab our free solutions to the first year mathematics quizzes!
-							</p>
+					<div class="row">
+						<div class="container mathsoc-body mb-5 pb-3">
+							<div class="text-left mx-4">
+								<h1 class="my-3 mt-4">Welcome to MathSoc!</h1>
+								<p class="lead">
+									{{ site.description }}
+								</p>
+								<p class="lead">
+									If you’re not a member already, join now (don’t forget to join us on spArc too)!
+								</p>
+								<p class="lead">
+									Check out our other pages to learn more about our society, what we do and grab our free solutions to the first year mathematics quizzes!
+								</p>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</main>
+			</main>
 		</div>
 		
         {% include sponsors.html %}
