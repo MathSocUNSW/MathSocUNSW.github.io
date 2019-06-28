@@ -9,9 +9,11 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 {% assign now = "now" | date: "%Y/%m/%d"%}
 
-Upcoming Events
----------------------------------------------------------- 
-----------------------------------------------------------
+### Upcoming Events
+_____________________
+
+### Past Events
+
 {% assign events = site.events | sort:"show_date" %}
 {% for event in events %}
 {% assign start = event.show_date | date: "%Y/%m/%d" %}
