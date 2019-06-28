@@ -6,7 +6,7 @@
 @import "footer";
 
 .mathsoc-body {
-	background: white;
+	background: rgba(255,255,255,0.8);
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
 }
 
@@ -62,7 +62,23 @@
 
 .backgroundimage {
 	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("{{site.images}}/building.jpg");
+	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 500px;
 }
 
+.nav-link {
+	font-size: 18px;
+}
+
+.logo {
+	margin-bottom:20px;
+	margin-top:20px;
+	max-height:70%;
+	max-width:70%;	
+}
+
+.logo-container {
+	display: flex;
+	justify-content: center;
+}
