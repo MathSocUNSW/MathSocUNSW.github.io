@@ -14,26 +14,33 @@
 	display: flex;
 	
 	flex-flow: row wrap;
-	justify-content: flex-start;
+	justify-content: center;
 		
 }
 .horizontal-container {
 	display: flex;
+	overflow: visible;
+	overflow-inline: none;
 
-	margin: 1%;
-	width: 48%;
+
+	// flex-wrap: wrap;
+	margin: 20px;
+	width: 450px;
 	
 	
 }
 
 .vertical-container {
-	flex-direction: column;
+	overflow: visible;
+	align-items: center;
 
 	padding-inline: 2%;
 
 }
 
 .subcom-pic {
+	// display: flex;
+	
 	width: 128px;
 	height: 128px;
 }
