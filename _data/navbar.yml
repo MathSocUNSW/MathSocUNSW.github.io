@@ -29,7 +29,7 @@ elements:
         url: '/resources/'
       - div:
         name: 'div'
-      - first-year-solutions:
+      - solutions:
         name: 'First Year Exam Bank'
         url: '/resources/first-year-solutions/'
       - revision:

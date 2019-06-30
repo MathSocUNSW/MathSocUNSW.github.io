@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: First Year Exam Bank
 permalink: /resources/first-year-solutions/
@@ -13,4 +13,4 @@ If you find answers that are incorrect, please [send us a message]({{ site.url }
 
 Good luck studying for your quizzes 🙂
 
-[Click here to reach the solutions]({{ site.url }}/solutions/)
+[Click here to reach the solutions]({{ site.url }}/solutions/) -->
