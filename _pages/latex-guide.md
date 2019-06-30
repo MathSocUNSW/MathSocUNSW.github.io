@@ -1,9 +1,20 @@
 ---
 layout: page
-title: How to use LaTeX
+title: LaTeX Guide
 permalink: /resources/latex-guide/
-title_text: In 2015, our Education Director, Brendan Trinh, presented the first Introductory LaTeX Seminar, which aimed to convince people why LaTeX is better than Word in some instances, to provide a basic view of the structure of a LaTeX document and how to get started.
 ---
+
+LaTeX is essentially treated as an efficient, neat and effective means of typesetting, where mathematics tends to play a large role in. It is one of the most commonly used typesetting tools in existence, and arguably superior to Word in certain circumstances.
+
+---
+
+Our Education Director in 2019, Rui Tong, compiled an Introduction to LaTeX guide to help many users start off with the software and commands. Although it is intended for introductory means, it was designed to provide as much of the basics as required for generic use as well.
+
+The guide can be found [here.]({{ site.url }}/assets/files/2019_MathSoc_LaTeX_Guide.pdf)
+
+---
+
+Back in 2015, our then-Education director Brenden Trinh presented the first Introductory LaTeX seminar. This seminar covers most of the foundations with LaTeX, demonstrating how to get started and providing a basic view of a typical LaTeX document structure.
 
 The files used in the presentation can be found [here.]({{ site.url }}/assets/files/SeminarFiles2015.zip)
 

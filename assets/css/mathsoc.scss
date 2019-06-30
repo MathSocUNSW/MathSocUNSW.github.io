@@ -68,7 +68,7 @@
 }
 
 .backgroundimage {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("{{ site.images }}/tmp_background.jpg");
+	background-image: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)), url("{{ site.images }}/tmp_background.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;
