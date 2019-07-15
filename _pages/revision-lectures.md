@@ -41,9 +41,9 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Calculus]({{ site.url }}/assets/revision/2017/11_34_1_Calculus_Slides.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/11_34_1_Calculus_Solutions.pdf)
 
-##### 2017S2 MATH1231/1241 Revision Seminar Slides
+<!-- ##### 2017S2 MATH1231/1241 Revision Seminar Slides
 
 [Algebra]({{ site.url }}/assets/revision/2017/12_34_1_Algebra_Slides.pdf)  [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Algebra_Solutions.pdf)
 
-[Calculus]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Slides.pptx) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Solutions.pdf)
+[Calculus]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Slides.pptx) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Solutions.pdf) -->
 
