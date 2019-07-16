@@ -10,10 +10,8 @@
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
 }
 
-
 .flex-container {
 	display: flex;
-	
 	flex-flow: row wrap;
 	justify-content: center;
 		
@@ -22,13 +20,9 @@
 	display: flex;
 	overflow: visible;
 	overflow-inline: none;
-
-
 	//flex-wrap: wrap;
 	margin: 20px;
 	width: 400px;
-	
-	
 }
 
 .vertical-container {
@@ -99,4 +93,13 @@
 .logo-container {
 	display: flex;
 	justify-content: center;
+}
+
+.upcoming-events {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	font-size: 18px;
+	padding: 20px 200px 20px 200px;
+	background-color: aliceblue !important;
 }
