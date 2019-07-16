@@ -10,7 +10,20 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 {% assign now = "now" | date: "%Y/%m/%d"%}
 
 ### Upcoming Events
-_____________________
+
+<!-- <div class="eventsbox">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Funswmathsoc%2Fposts%2F2387233164633342&width=800" width="800" height="500" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</div> -->
+<br>
+Jul 18 - 
+<a href="https://www.facebook.com/events/467378877388201/">MathSoc Presents: Free Sausage Sizzle</a>
+
+Jul 23 - 
+<a href="https://www.facebook.com/events/322659288642026/">MathSoc and IMC Present: Careers in Trading</a>
+
+
+
+---------------------------------------------------------
 
 ### Past Events
 
