@@ -41,9 +41,11 @@
 .subcom-pic {
 	// display: flex;
 	
+	object-fit: contain;
 	width: 128px;
 	height: 128px;
-	padding: 10px 10px 10px 10px;
+	padding-right: 10px;
+	transform: rotate(90deg);
 }
 
 .sponsor-container {
