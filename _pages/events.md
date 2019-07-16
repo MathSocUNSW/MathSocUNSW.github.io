@@ -25,7 +25,21 @@ Jul 23 -
 
 ---------------------------------------------------------
 
+
+_____________________
+
 ### Past Events
+<br>
+Jul 03 - <a href="https://www.facebook.com/events/2063513330438249/">MathSoc & Macquarie Presents: STEM Career Pathways at Macquarie</a>
+
+Jun 28 - <a href="https://www.facebook.com/events/341424543424488/">UNSW MathSoc Presents: 2019 Hoodies (early bird)</a>
+
+Jun 26 - <a href="https://www.facebook.com/events/2282740158633986/">STEM Alternate Pathways Evening</a>
+
+Apr 30 - <a href="https://www.facebook.com/events/266993567539817/">MathSoc Presents: Math1131/1141 Revision Seminar</a>
+
+Apr 26 - <a href="https://www.facebook.com/events/281336312750931/">MathSoc Presents: Math2011/2111 Revision Seminar</a>
+
 
 {% assign events = site.events | sort:"show_date" %}
 {% for event in events %}
