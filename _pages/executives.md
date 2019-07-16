@@ -121,7 +121,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Lucy Qiu - IT Director</h5>
-            <p>Fourth year Software Engineering student.</p>
+            <p>Fourth year Software Engineering student. I run.</p>
         </div>
 	</div>
 </section>

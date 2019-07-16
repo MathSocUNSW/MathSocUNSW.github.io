@@ -16,7 +16,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Kabir Agrawal</h5>
-            <p>Insert short description here</p>
+            <p>Third year Advanced Maths/Actuarial Studies student with Pure Maths major. I'm part of the FBI.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -32,7 +32,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Gerald Huang</h5>
-            <p>Insert short description here</p>
+            <p>Second year Computer Science/Maths. Deprived of sleep 16 hours a day.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -40,7 +40,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Abdellah Islam</h5>
-            <p>Insert short description here</p>
+            <p>Second year Advanced Maths student with Pure Maths major. I live off of free food events at uni.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -48,7 +48,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Laeeque Jamdar</h5>
-            <p>Insert short description here</p>
+            <p>First year data science and decisions student. I have too many things on my plate.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -56,7 +56,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Yasin Khan</h5>
-            <p>Insert short description here</p>
+            <p>1st year computer science student. Love playing League of Legends, die hard TSM fan.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -72,7 +72,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Jeffrey Yang</h5>
-            <p>Insert short description here</p>
+            <p>Second year Actuarial Studies/Advanced Maths student but soon to be Comp Sci/Advanced Maths student. Has never drank before and is a part time vegan.</p>
         </div>
     </div>
 </section>
@@ -100,7 +100,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Celeste Thompson</h5>
-            <p>Insert short description here</p>
+            <p>Second year Chemical/Biomedical engineering student. Preparing for a solitary life in the Australian wilderness with 50 cats and 50 blankets to keep me company.</p>
         </div>
     </div>
     <div class="horizontal-container">
