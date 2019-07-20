@@ -15,13 +15,12 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Funswmathsoc%2Fposts%2F2387233164633342&width=800" width="800" height="500" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </div> -->
 <br>
-Jul 18 - 
-<a href="https://www.facebook.com/events/467378877388201/">MathSoc Presents: Free Sausage Sizzle</a>
 
-Jul 23 - 
-<a href="https://www.facebook.com/events/322659288642026/">MathSoc and IMC Present: Careers in Trading</a>
+Jul 23 - <a href="https://www.facebook.com/events/322659288642026/">MathSoc and IMC Present: Careers in Trading</a>
 
+Jul 30 - <a href="https://www.facebook.com/events/2370907999838564/">UNSW MathSoc Trivia Night</a>
 
+Aug 7 - <a href="https://www.facebook.com/events/453369988576987/">Data and Analytics with Ernst & Young</a>
 
 ---------------------------------------------------------
 
@@ -30,6 +29,9 @@ _____________________
 
 ### Past Events
 <br>
+
+Jul 18 - <a href="https://www.facebook.com/events/467378877388201/">MathSoc Presents: Free Sausage Sizzle</a>
+
 Jul 03 - <a href="https://www.facebook.com/events/2063513330438249/">MathSoc & Macquarie Presents: STEM Career Pathways at Macquarie</a>
 
 Jun 28 - <a href="https://www.facebook.com/events/341424543424488/">UNSW MathSoc Presents: 2019 Hoodies (early bird)</a>
