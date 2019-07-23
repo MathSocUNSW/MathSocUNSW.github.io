@@ -47,3 +47,19 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Calculus]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Slides.pptx) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Solutions.pdf) -->
 
+<div>
+	<h6>
+		MATH1231/MATH1241 - Mathematics 1B (Labs)
+	</h6>
+	<div>
+		<a href="{{ solutions_url }}/MATH1231_MATH1241/MATH12_34_1_Algebra_Solutions.pdf">
+			Lab Test 2 - Algebra Sample Solutions
+		</a>
+	</div>
+	<div>
+		<a href="{{ solutions_url }}/MATH1231_MATH1241/MATH12_34_1_Calculus_Solutions.pdf">
+			Lab Test 2 - Calculus Sample Solutions
+		</a>
+	</div>
+	<br>
+</div>
