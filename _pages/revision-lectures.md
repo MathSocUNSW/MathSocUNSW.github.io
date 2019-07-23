@@ -47,7 +47,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Calculus]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Slides.pptx) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Solutions.pdf) -->
 
-<div>
+<!-- <div>
 	<h6>
 		MATH1231/MATH1241 - Mathematics 1B (Labs)
 	</h6>
@@ -62,4 +62,4 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</a>
 	</div>
 	<br>
-</div>
+</div> -->
