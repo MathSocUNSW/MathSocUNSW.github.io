@@ -2,7 +2,7 @@ title: UNSW Mathematics Society
 short_title: UNSW MathSoc
 # TODO
 email: contact@mathsoc.unsw.edu.au
-baseurl: 
+baseurl: ""
 images: "https://mathsoc.unsw.edu.au/assets/img"
 url: "https://mathsoc.unsw.edu.au"
 permalink: pretty
