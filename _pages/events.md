@@ -16,21 +16,18 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 </div> -->
 <br>
 
-Jul 23 - <a href="https://www.facebook.com/events/322659288642026/">MathSoc and IMC Present: Careers in Trading</a>
-
 Jul 30 - <a href="https://www.facebook.com/events/2370907999838564/">UNSW MathSoc Trivia Night</a>
 
 Aug 2 - <a href="https://www.facebook.com/events/1321595847994794/">Interfaculty Power Rangers Pub Crawl</a>
 
 Aug 7 - <a href="https://www.facebook.com/events/453369988576987/">Data and Analytics with Ernst & Young</a>
 
----------------------------------------------------------
-
-
 _____________________
 
 ### Past Events
 <br>
+
+Jul 23 - <a href="https://www.facebook.com/events/322659288642026/">MathSoc and IMC Present: Careers in Trading</a>
 
 Jul 18 - <a href="https://www.facebook.com/events/467378877388201/">MathSoc Presents: Free Sausage Sizzle</a>
 
