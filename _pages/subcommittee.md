@@ -88,7 +88,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}subcomittee/WinstonS.jpg">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/WinstonS.jpg">
         </div>
         <div class="vertical-container">
         <h5>Winston Sun</h5>
@@ -133,7 +133,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
 <h4>Marketing</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/VincentC.jpg">
         </div>
         <div class="vertical-container">
         <h5>Vincent Chen</h5>
@@ -165,7 +165,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JohnW.png">
         </div>
         <div class="vertical-container">
         <h5>John Wei</h5>

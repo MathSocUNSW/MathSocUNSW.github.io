@@ -9,7 +9,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
 <h4>The Executive Body</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/EugeniaC.jpg">
         </div>
         <div class="vertical-container">
         <h5>Eugenia Tsao - President</h5>
@@ -17,7 +17,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/AndrewA.png">
         </div>
         <div class="vertical-container">
         <h5>Andrew Antony - Vice President</h5>
@@ -53,7 +53,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
 <h4>The Board of Directors</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/RuiT.jpg">
         </div>
         <div class="vertical-container">
         <h5>Rui Tong - Education Director</h5>
@@ -61,7 +61,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JamesG.jpg">
         </div>
         <div class="vertical-container">
         <h5>James Gao - Education Director</h5>
@@ -69,7 +69,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/ArnavR.jpg">
         </div>
         <div class="vertical-container">
         <h5>Arnav Roy - Events Director</h5>
@@ -109,7 +109,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
 	</div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JamesL.jpg">
         </div>
         <div class="vertical-container">
         <h5>James Lu - Sponsorship Director</h5>
