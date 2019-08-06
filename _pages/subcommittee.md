@@ -88,7 +88,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}subcomittee/WinstonS.jpg">
         </div>
         <div class="vertical-container">
         <h5>Winston Sun</h5>
