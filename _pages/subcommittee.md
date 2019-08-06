@@ -157,7 +157,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/subcommittee/YusephM.jpg">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/YusephM.jpg">
         </div>
         <div class="vertical-container">
         <h5>Yuseph Ma</h5>
