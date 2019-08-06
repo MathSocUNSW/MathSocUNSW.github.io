@@ -9,7 +9,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
 <h4>The Executive Body</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/EugeniaC.jpg">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/EugeniaT.jpg">
         </div>
         <div class="vertical-container">
         <h5>Eugenia Tsao - President</h5>
