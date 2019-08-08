@@ -13,7 +13,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
   
 ##### 2019T2 MATH1231/1241 Revision Seminar Slides 
 
-[Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf)
+[Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Algebra-2019-solutions1.pdf)
 
 ##### 2019T2 MATH2121/2221 Revision Seminar Slides 
 

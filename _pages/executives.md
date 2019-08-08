@@ -117,7 +117,7 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
 	</div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/LucyQ.jpg">
         </div>
         <div class="vertical-container">
         <h5>Lucy Qiu - IT Director</h5>
