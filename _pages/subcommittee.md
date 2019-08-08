@@ -12,7 +12,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
 <h4>Education</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{site.images}}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{site.images}}/TeamPhotos/KabirA.jpg">
         </div>
         <div class="vertical-container">
         <h5>Kabir Agrawal</h5>
@@ -20,7 +20,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/EthanB.png">
         </div>
         <div class="vertical-container">
         <h5>Ethan Brown</h5>
@@ -60,7 +60,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/SupriyaS.jpg">
         </div>
         <div class="vertical-container">
         <h5>Supriya Segal</h5>
@@ -68,7 +68,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JefferyY.jpg">
         </div>
         <div class="vertical-container">
         <h5>Jeffrey Yang</h5>
@@ -173,7 +173,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/LaurenW.PNG">
         </div>
         <div class="vertical-container">
         <h5>Lauren Wu</h5>
