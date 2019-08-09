@@ -15,9 +15,9 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Algebra-2019-solutions1.pdf)
 
-##### 2019T2 MATH2121/2221 Revision Seminar Slides 
+##### 2019T2 MATH2121/2221 (Differential Equations) Revision Seminar Slides 
 
-[Differential Equations]({{ site.url }}/assets/revision/MATH2121_MATH2221.pdf)
+[Differential Equations (all)]({{ site.url }}/assets/revision/MATH2121_MATH2221.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH2121_MATH2221_2019_Solutions1.pdf)
 
 ##### 2019T1 MATH1131/1141 Revision Seminar Slides 
 
