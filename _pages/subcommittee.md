@@ -28,7 +28,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GeraldH.jpg">
         </div>
         <div class="vertical-container">
         <h5>Gerald Huang</h5>
@@ -52,7 +52,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/YasinK.jpg">
         </div>
         <div class="vertical-container">
         <h5>Yasin Khan</h5>
@@ -64,7 +64,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Supriya Segal</h5>
-            <p>Insert short description here</p>
+            <p>Second year Advanced Maths/Computer Science student. Brunch eater extraordinaire, bookworm and a swimmer.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -84,7 +84,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Dimas Sanjoyo</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -92,7 +92,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Winston Sun</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -108,7 +108,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Chris Wu</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -116,7 +116,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Flora Zhang</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -124,7 +124,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Philton Zhu</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
 </section>
@@ -137,15 +137,15 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Vincent Chen</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/IsabellaF.jpg">
         </div>
         <div class="vertical-container">
         <h5>Isabella Falanga</h5>
-            <p>Insert short description here</p>
+            <p>First year data science student. I do problems like <img src="http://latex.codecogs.com/gif.latex? \int_0^{23} 3\,dx" border="0"/></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -153,7 +153,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Ashleigh Feng</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -177,7 +177,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Lauren Wu</h5>
-            <p>Insert short description here</p>
+            <p></p>
         </div>
     </div>
 </section>
