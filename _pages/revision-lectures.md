@@ -13,7 +13,9 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
   
 ##### 2019T2 MATH1231/1241 Revision Seminar Slides 
 
-[Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Algebra-2019-solutions1.pdf)
+[Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Algebra-2019-Solutions.pdf)
+
+[Calculus]({{ site.url }}/assets/revision/MATH12341-Calculus-2019.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Calculus-2019-Solutions1.pdf)
 
 ##### 2019T2 MATH2121/2221 (Differential Equations) Revision Seminar Slides 
 
@@ -40,9 +42,11 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [<span style="color:#F94DF3">MATH2011/2111 Solutions</span>]({{ site.url }}/assets/revision/2_01_11_Calculus_Solutions_all.pdf)
 
-##### 2017T2 MATH1231/1241 Revision Seminar Slides 
+##### 2017S2 MATH1231/1241 Revision Seminar Slides 
 
 [Algebra]({{ site.url }}/assets/revision/2017/12_34_1_Algebra_Slides.pdf)  [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Algebra_Solutions.pdf)
+
+[Calculus]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Slides.pdf)  [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/12_34_1_Calculus_Solutions.pdf)
 
 ##### 2017S1 MATH1131/1141 Revision Seminar Slides
 [Algebra]({{ site.url }}/assets/revision/2017/11_34_1_Algebra_Slides.pdf)  [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/11_34_1_Algebra_Solutions.pdf)

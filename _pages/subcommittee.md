@@ -169,7 +169,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>John Wei</h5>
-            <p>First year Data Science and Decisions student. Can snowboard,ice skate and surf pretty well.</p>
+            <p>First year Data Science and Decisions student. Can snowboard, ice skate and surf pretty well.</p>
         </div>
     </div>
     <div class="horizontal-container">
