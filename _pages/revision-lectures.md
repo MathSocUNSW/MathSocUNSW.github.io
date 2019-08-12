@@ -30,7 +30,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 ##### 2019T1 MATH1081 (Discrete Maths) Revision Seminar Slides
 
-[Chapter 1,2,5 - Sets, Integers & Graphs]({{ site.url }}/assets/revision/1081_Sets_Number_Graph.pdf)
+[Chapter 1,2,5 - Sets, Integers & Graphs]({{ site.url }}/assets/revision/1081_Sets_Number_Graph.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/1081_Sets_Number_Graph_Solutions.pdf)
 
 [Chapter 3,4 - Proofs & Combinatorics]({{ site.url }}/assets/revision/1081_Proofs_Combi.pdf)
 
@@ -53,10 +53,19 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Calculus]({{ site.url }}/assets/revision/2017/11_34_1_Calculus_Slides.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/2017/11_34_1_Calculus_Solutions.pdf)
 
-**2019 Team Directors:** James Gao and Rui Tong
+<br>
 
-**2019 Subcommittee:** Kabir Agarwal, Ethan Brown, Gerald Huang, Abdellah Islam, Laeeque Jamdar, Yasin Khan, Supriya Segal and Jeffrey Yang
+---
 
-**2017 Team Directors:** Aaron Hassan and Dominic Palanca
 
-**2017 Subcommittee:** James Gao, Allan Loi, Samir Mustavi and Kevin Xian
+##### 2019 Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** James Gao and Rui Tong
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Kabir Agarwal, Ethan Brown, Gerald Huang, Abdellah Islam, Laeeque Jamdar, Yasin Khan, Supriya Segal and Jeffrey Yang
+
+##### 2017 Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Aaron Hassan and Dominic Palanca
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** James Gao, Allan Loi, Samir Mustavi and Kevin Xian

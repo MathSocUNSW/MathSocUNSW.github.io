@@ -16,12 +16,16 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 </div> -->
 <br>
 
-Aug 7 - <a href="https://www.facebook.com/events/453369988576987/">Data and Analytics with Ernst & Young</a>
+Aug 13 - <a href="https://www.facebook.com/events/397235400922466/">Math2501 / Nath2601 Revision Seminars</a>
 
 _____________________
 
 ### Past Events
 <br>
+
+Aug 9 - <a href="https://www.facebook.com/events/338634147084270/">Math1231/ Math1241 Revision Seminars</a>
+
+Aug 7 - <a href="https://www.facebook.com/events/453369988576987/">Data and Analytics with Ernst & Young</a>
 
 Aug 2 - <a href="https://www.facebook.com/events/1321595847994794/">Interfaculty Power Rangers Pub Crawl</a>
 
