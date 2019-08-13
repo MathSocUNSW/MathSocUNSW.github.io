@@ -17,10 +17,6 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 [Calculus]({{ site.url }}/assets/revision/MATH12341-Calculus-2019.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Calculus-2019-Solutions1.pdf)
 
-##### 2019T2 MATH2121/2221 (Differential Equations) Revision Seminar Slides 
-
-[Differential Equations (all)]({{ site.url }}/assets/revision/MATH2121_MATH2221.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH2121_MATH2221_2019_Solutions1.pdf)
-
 ##### 2019T1 MATH1131/1141 Revision Seminar Slides 
 
 [Algebra]({{ site.url }}/assets/revision/11_34_1_Algebra.pdf)
@@ -33,6 +29,18 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 [Chapter 1,2,5 - Sets, Integers & Graphs]({{ site.url }}/assets/revision/1081_Sets_Number_Graph.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/1081_Sets_Number_Graph_Solutions.pdf)
 
 [Chapter 3,4 - Proofs & Combinatorics]({{ site.url }}/assets/revision/1081_Proofs_Combi.pdf)
+
+##### 2019T2 MATH2121/2221 (Differential Equations) Revision Seminar Slides 
+
+[Differential Equations (all)]({{ site.url }}/assets/revision/MATH2121_MATH2221.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH2121_MATH2221_2019_Solutions1.pdf)
+
+##### 2019T2 MATH2501/2601 (Linear Algebra) Revision Seminar Slides 
+
+[Linear Algebra (Part 1)]({{ site.url }}/assets/revision/MATH25601-Slides-1.pdf) [<span style="color:#F94DF3"> (Part 1 Solutions)</span>]({{ site.url }}/assets/revision/MATH25601-Slides-Solutions1.pdf)
+
+[Linear Algebra (Part 2)]({{ site.url }}/assets/revision/MATH25601-Slides-2.pdf) 
+
+[<span style="color:#F94DF3"> (Abstract Algebra Supplement Solutions)</span>]({{ site.url }}/assets/revision/MATH25601-Supplement-Solutions.pdf)
 
 ##### 2019T1 MATH2011/2111 (Multivariable Calculus) Revision Seminar Slides
 
