@@ -6,6 +6,9 @@ title_text: MathSoc has compiled a bunch of resources for the benefit of its mem
 ---
 
 Have a look at:
+
+ - [First Year Exam Bank]({{ site.url }}/resources/first-year-exam-bank/)   
+ - [Revision Lectures]({{ site.url }}/resources/revision-lectures/)
+ - [LaTeX Guide]({{ site.url }}/resources/latex-guide/)
+ - [MatLab Guide]({{ site.url }}/resources/matlab-guide/)
  - [Careers Advice]({{ site.url }}/resources/careers-advice/)
- - [First Year Solutions]({{ site.url }}/resources/first-year-solutions/)
- - [How to use LaTeX]({{ site.url }}/resources/latex-guide/)

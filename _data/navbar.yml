@@ -31,13 +31,16 @@ elements:
         name: 'div'
       - solutions:
         name: 'First Year Exam Bank'
-        url: '/resources/first-year-solutions/'
+        url: '/resources/first-year-exam-bank/'
       - revision:
         name: 'Revision Lectures'
         url: '/resources/revision-lectures/'
       - latex-guide:
         name: 'LaTeX Guide'
         url: '/resources/latex-guide/'
+      - matlab-guide:
+        name: 'MatLab Guide'
+        url: '/resources/matlab-guide/'
       - careers-advice:
         name: 'Careers Advice'
         url: '/resources/careers-advice/'
