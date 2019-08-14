@@ -16,12 +16,12 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 </div> -->
 <br>
 
-Aug 12/13 - <a href="https://www.facebook.com/events/397235400922466/">Math2501 / Math2601 Revision Seminars</a>
-
 _____________________
 
 ### Past Events
 <br>
+
+Aug 12/13 - <a href="https://www.facebook.com/events/397235400922466/">Math2501 / Math2601 Revision Seminars</a>
 
 Aug 9 - <a href="https://www.facebook.com/events/338634147084270/">Math1231/ Math1241 Revision Seminars</a>
 
