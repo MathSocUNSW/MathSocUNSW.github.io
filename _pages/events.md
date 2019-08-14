@@ -23,7 +23,7 @@ _____________________
 
 Aug 12/13 - <a href="https://www.facebook.com/events/397235400922466/">Math2501 / Math2601 Revision Seminars</a>
 
-Aug 9 - <a href="https://www.facebook.com/events/338634147084270/">Math1231/ Math1241 Revision Seminars</a>
+Aug 9 - <a href="https://www.facebook.com/events/338634147084270/">Math1231 / Math1241 Revision Seminars</a>
 
 Aug 7 - <a href="https://www.facebook.com/events/453369988576987/">Data and Analytics with Ernst & Young</a>
 
