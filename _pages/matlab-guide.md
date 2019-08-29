@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MatLab Guide
+title: MATLAB Guide
 permalink: /resources/matlab-guide/
 # title_text: 
 ---

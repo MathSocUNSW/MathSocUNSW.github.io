@@ -39,7 +39,7 @@ elements:
         name: 'LaTeX Guide'
         url: '/resources/latex-guide/'
       - matlab-guide:
-        name: 'MatLab Guide'
+        name: 'MATLAB Guide'
         url: '/resources/matlab-guide/'
       - careers-advice:
         name: 'Careers Advice'
