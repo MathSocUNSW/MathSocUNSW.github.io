@@ -77,15 +77,15 @@ title_text: The 2019 Executive of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/DerekS.jpg">
         </div>
         <div class="vertical-container">
         <h5>Derek Sun - Events Director</h5>
-            <p>Brb, being creative rn</p>
+            <p>3rd year Maths/Commerce student.</p>
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GraceL.jpg">
         </div>
         <div class="vertical-container">
         <h5>Grace Li - Marketing Director</h5>

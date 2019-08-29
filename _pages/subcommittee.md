@@ -16,7 +16,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Kabir Agrawal</h5>
-            <p>Third year Advanced Maths/Actuarial Studies student with Pure Maths major. I'm part of the FBI.</p>
+            <p>Third Year Advanced Maths/Actuarial Studies student with Pure Maths major. I'm part of the FBI.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -24,7 +24,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Ethan Brown</h5>
-            <p>Third year Advanced Maths/Computer Science student with Pure/AI major. I like frogs almost as much as I like maths. Ribbit.</p>
+            <p>Third Year Advanced Maths/Computer Science student with Pure/AI major. I like frogs almost as much as I like maths. Ribbit.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -32,7 +32,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Gerald Huang</h5>
-            <p>Second year Computer Science/Maths. Deprived of sleep 16 hours a day.</p>
+            <p>Second Year Computer Science/Maths. Deprived of sleep 16 hours a day.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -40,7 +40,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Abdellah Islam</h5>
-            <p>Second year Advanced Maths student with Pure Maths major. I live off of free food events at uni.</p>
+            <p>Second Year Advanced Maths student with Pure Maths major. I live off of free food events at uni.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -48,7 +48,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Laeeque Jamdar</h5>
-            <p>First year data science and decisions student. I have too many things on my plate.</p>
+            <p>First Year Data Science and Decisions student. I have too many things on my plate.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -56,7 +56,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Yasin Khan</h5>
-            <p>1st year computer science student. Love playing League of Legends, die hard TSM fan.</p>
+            <p>First Year Computer Science student. Love playing League of Legends, die hard TSM fan.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -64,7 +64,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Supriya Segal</h5>
-            <p>Second year Advanced Maths/Computer Science student. Brunch eater extraordinaire, bookworm and a swimmer.</p>
+            <p>Second Year Advanced Maths/Computer Science student. Brunch eater extraordinaire, bookworm and a swimmer.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -72,7 +72,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Jeffrey Yang</h5>
-            <p>Second year Actuarial Studies/Advanced Maths student but soon to be Comp Sci/Advanced Maths student. Has never drank before and is a part time vegan.</p>
+            <p>Second Year Actuarial Studies/Advanced Maths student but soon to be Comp Sci/Advanced Maths student. Has never drank before and is a part time vegan.</p>
         </div>
     </div>
 </section>
@@ -92,7 +92,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Winston Sun</h5>
-            <p></p>
+            <p>First Year Data Science and Decisions student. Are you the sin<sup>2</sup>(x) to my cos<sup>2</sup>(x) ? Coz I think you are the one for me.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -100,7 +100,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Celeste Thompson</h5>
-            <p>Second year Chemical/Biomedical engineering student. Preparing for a solitary life in the Australian wilderness with 50 cats and 50 blankets to keep me company.</p>
+            <p>Second Year Chemical/Biomedical engineering student. Preparing for a solitary life in the Australian wilderness with 50 cats and 50 blankets to keep me company.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -108,7 +108,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Chris Wu</h5>
-            <p></p>
+            <p>First Year Commerce/Computer Science student. Can not show up early to save a life.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -137,7 +137,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Vincent Chen</h5>
-            <p></p>
+            <p>First Year Data Science and Decisions student. Favourite music is sad boi music.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -145,7 +145,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Isabella Falanga</h5>
-            <p>First year data science student. I do problems like <img src="http://latex.codecogs.com/gif.latex? \int_0^{23} 3\,dx" border="0"/></p>
+            <p>First Year Data Science student. I do problems like <img src="http://latex.codecogs.com/gif.latex? \int_0^{23} 3\,dx" border="0"/></p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -153,7 +153,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Ashleigh Feng</h5>
-            <p></p>
+            <p>First Year Data Science student. Takes up to 3 business days to reply.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -161,7 +161,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Yuseph Ma</h5>
-            <p>Third year Mechanical/Biomedical engineering student. I like fried chicken.</p>
+            <p>Third Year Mechanical/Biomedical engineering student. I like fried chicken.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -169,7 +169,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>John Wei</h5>
-            <p>First year Data Science and Decisions student. Can snowboard, ice skate and surf pretty well.</p>
+            <p>First Year Data Science and Decisions student. Can snowboard, ice skate and surf pretty well.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -177,7 +177,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         </div>
         <div class="vertical-container">
         <h5>Lauren Wu</h5>
-            <p></p>
+            <p>First Year Advanced Mathematics/Computer Science student. Capable of having an existential crisis every 35 seconds. I play piano and do photography if I’m not sleeping.</p>
         </div>
     </div>
 </section>
