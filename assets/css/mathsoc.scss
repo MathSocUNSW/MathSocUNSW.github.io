@@ -85,14 +85,15 @@
 }
 
 .logo {
-	max-height: 500px;
-	max-width: 700px;	
+	object-fit: contain;
+	height: 300px;
+	width: 700px;	
 }
 
 .logo-container {
 	display: flex;
 	justify-content: center;
-	object-fit: contain;
+	// object-fit: contain;
 }
 
 .upcoming-events {
