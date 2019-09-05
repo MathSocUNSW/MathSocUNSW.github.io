@@ -68,7 +68,7 @@ If you are a keen student who enjoys or is looking to experience a career in str
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Pubcrawl.png">
+        <img src="{{ site.images }}/Events/Pubcrawl.jpg">
         <div>
             <p>Yearning for the good old days? Miss watching your favourite colourful heroes on screen?
 
@@ -119,7 +119,7 @@ Are you a keen STEM student looking to discover the kinds of paths you can take 
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Hoodies.png">
+        <img src="{{ site.images }}/Events/Hoodies.jpg">
         <div>
             <p>
 This unbearable cold proving to be out of your imagination? All these hoodies for sale but the choice is too Complex? Just choose our COMPLEX hoodies! We are back with a new hoodie design that will makes i's go 👀.These are available in black, grey, white and maroon. 
