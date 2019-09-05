@@ -12,7 +12,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 ### Upcoming Events
 <div class="flex-container">
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Ball.png">
+        <img class="events-pic" src="{{ site.images }}/Events/Ball.png">
         <div>
             <p>“Ah, we’ve been expecting you.”
 
@@ -31,15 +31,15 @@ _____________________
 <br>
 <div class="flex-container">
     <div class="events-container">
-        <img src="{{ site.images }}/Events/MATH25601.png">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH25601.png">
         <div>
-            <p>Rotation matrices turning your life upside down? No linear combinations of your marks adding up to an HD right now? Come join us at our linear algebra revision seminar as we test the BASIS of your knowledge.            
+            <p>Rotation matrices turning your life upside down? No linear combinations of your marks adding up to an HD right now? Come join us at our linear algebra revision seminar as we test the BASIS of your knowledge.           
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/397235400922466/">More Info</a>
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/MATH12341.png">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH12341.png">
         <div>
             <p>
             Did you know:
@@ -54,7 +54,7 @@ _____________________
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/EY_Analytics.png">
+        <img class="events-pic" src="{{ site.images }}/Events/EY_Analytics.png">
         <div>
             <p>Love consulting, Data and asking questions?
 
@@ -68,7 +68,7 @@ If you are a keen student who enjoys or is looking to experience a career in str
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Pubcrawl.jpg">
+        <img class="events-pic" src="{{ site.images }}/Events/Pubcrawl.jpg">
         <div>
             <p>Yearning for the good old days? Miss watching your favourite colourful heroes on screen?
 
@@ -80,7 +80,7 @@ Suit up and get into formation to ✨ POWER UP✨ on UNSW's biggest interfaculty
         </div>
     </div>
         <div class="events-container">
-        <img src="{{ site.images }}/Events/Trivia.png">
+        <img class="events-pic" src="{{ site.images }}/Events/Trivia.png">
         <div>
             <p>Thought you'd be done with midsems and living life but feeling more like Trimesters is done with you?
 
@@ -92,7 +92,7 @@ If you need any more reason to sign up, the event will be FREE with some fabulou
         </div>
     </div>
             <div class="events-container">
-        <img src="{{ site.images }}/Events/IMC_Trading.png">
+        <img class="events-pic" src="{{ site.images }}/Events/IMC_Trading.png">
         <div>
             <p>While a career in trading may not be the first thing that comes to mind for a math student, it offers an unrivaled experience full of challenging and interesting work that constantly changes.
 If you're a keen student looking to see where their expansive math degree can take them, IMC have got the place for you!   
@@ -101,7 +101,7 @@ If you're a keen student looking to see where their expansive math degree can ta
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Sausage.png">
+        <img class="events-pic" src="{{ site.images }}/Events/Sausage.png">
         <div>
             <p>
 Take a break from studying for midterm exams, and come join MathSoc for a FREE BBQ! Ketch-up with old mates and have a meaty good time as we serve you our delicious sausages.
@@ -110,7 +110,7 @@ Take a break from studying for midterm exams, and come join MathSoc for a FREE B
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/STEM_Macquarie.png">
+        <img class="events-pic" src="{{ site.images }}/Events/STEM_Macquarie.png">
         <div>
             <p>
 Are you a keen STEM student looking to discover the kinds of paths you can take in industry? Want to be at the forefront of financial innovation with one of Australia's most successful multinational banks? Or have you never really considered a path into the financial sector and are looking a pathway to lead you to your next job? Whatever your reasons, Mathsoc and Macquarie Bank are joining hands this evening to offer you the opportunity to seize your future in a STEM Career.
@@ -119,7 +119,7 @@ Are you a keen STEM student looking to discover the kinds of paths you can take 
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/Hoodies.jpg">
+        <img class="events-pic" src="{{ site.images }}/Events/Hoodies.jpg">
         <div>
             <p>
 This unbearable cold proving to be out of your imagination? All these hoodies for sale but the choice is too Complex? Just choose our COMPLEX hoodies! We are back with a new hoodie design that will makes i's go 👀.These are available in black, grey, white and maroon. 
@@ -128,7 +128,7 @@ This unbearable cold proving to be out of your imagination? All these hoodies fo
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/STEM_FMAA.jpg">
+        <img class="events-pic" src="{{ site.images }}/Events/STEM_FMAA.jpg">
         <div>
             <p>
 Are you a STEM (Science, Technology, Engineering or Maths) student considering a fast-paced, exciting career in business? Or are you still quite unsure about what path you want to take after uni? Either way, FMAA UNSW invites you to the FMAA STEM Alternate Pathways Evening, presented in association with csesoc, DataSoc, EngSoc, MathSoc, and WIT, to help you discover the endless possibilities that a STEM degree brings with it.
@@ -137,7 +137,7 @@ Are you a STEM (Science, Technology, Engineering or Maths) student considering a
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/MATH11341.png">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH11341.png">
         <div>
             <p>
 Struggling with the Riemann Hypothesis? The existence and smoothness of Navier Stokes equations just seems to be barely eluding you? Worry not, because MathSoc has assembled the greatest of sudoku masters and chess gods in one place just for you. 
@@ -146,7 +146,7 @@ Struggling with the Riemann Hypothesis? The existence and smoothness of Navier S
         </div>
     </div>
     <div class="events-container">
-        <img src="{{ site.images }}/Events/MATH20111.png">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH20111.png">
         <div>
             <p>
 CURLed up in a BALL struggling to (multiple) INTEGRATE any more math after first year? Reaching a CRITICAL point in your studies and finding no PATH to go? Feeling GREEN and needing a new math opportunity to OPEN? And most importantly, missing MATHSOC?
