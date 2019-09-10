@@ -12,4 +12,4 @@ Have a look at:
  - [LaTeX Guide]({{ site.url }}/resources/latex-guide/)
  - [MATLAB Guide]({{ site.url }}/resources/matlab-guide/)
  - [Careers Advice]({{ site.url }}/resources/careers-advice/)
- - [HSC Tips and Tricks]({{ site.url }}/assets/files/Tips-and-Tricks-booklet-2019.pdf)
+ - [HSC Tips and Trickhs]({{ site.url }}/assets/files/Tips-and-Tricks-booklet-2019.pdf)
