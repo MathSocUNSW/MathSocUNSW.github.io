@@ -168,17 +168,23 @@
 	overflow-y: scroll;
   }
 
-  .events-container {
+  .events-containerh {
 	display: flex;
 	overflow: visible;
 	overflow-inline: none;
 	flex-wrap: wrap;
-	width: 50%;
+	width: 500px;
 	padding: 10px;
+  }
+  
+  .events-containerv {
+	  overflow: visible;
+	  align-items: center;
   }
 
 .events-pic {
 	display: flex;
 	max-height: 280px;
 	justify-content: center;
+	max-width: 100%;
 }

@@ -11,7 +11,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 ### Upcoming Events
 <div class="flex-container">
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Ball.png">
         <div>
             <p>“Ah, we’ve been expecting you.”
@@ -30,7 +30,7 @@ _____________________
 ### Past Events
 <br>
 <div class="flex-container">
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH25601.png">
         <div>
             <p>Rotation matrices turning your life upside down? No linear combinations of your marks adding up to an HD right now? Come join us at our linear algebra revision seminar as we test the BASIS of your knowledge.           
@@ -38,7 +38,7 @@ _____________________
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/397235400922466/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH12341.png">
         <div>
             <p>
@@ -53,7 +53,7 @@ _____________________
             <a class="btn mathsoc-btn-white-purple" href="{{ site.baseurl }}/join/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/EY_Analytics.png">
         <div>
             <p>Love consulting, Data and asking questions?
@@ -67,7 +67,7 @@ If you are a keen student who enjoys or is looking to experience a career in str
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/453369988576987/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Pubcrawl.jpg">
         <div>
             <p>Yearning for the good old days? Miss watching your favourite colourful heroes on screen?
@@ -79,7 +79,7 @@ Suit up and get into formation to ✨ POWER UP✨ on UNSW's biggest interfaculty
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1321595847994794/">More Info</a>
         </div>
     </div>
-        <div class="events-container">
+        <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Trivia.png">
         <div>
             <p>Thought you'd be done with midsems and living life but feeling more like Trimesters is done with you?
@@ -91,7 +91,7 @@ If you need any more reason to sign up, the event will be FREE with some fabulou
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2370907999838564/">More Info</a>
         </div>
     </div>
-            <div class="events-container">
+            <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/IMC_Trading.png">
         <div>
             <p>While a career in trading may not be the first thing that comes to mind for a math student, it offers an unrivaled experience full of challenging and interesting work that constantly changes.
@@ -100,7 +100,7 @@ If you're a keen student looking to see where their expansive math degree can ta
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/322659288642026/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Sausage.png">
         <div>
             <p>
@@ -109,7 +109,7 @@ Take a break from studying for midterm exams, and come join MathSoc for a FREE B
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/467378877388201/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/STEM_Macquarie.png">
         <div>
             <p>
@@ -118,7 +118,7 @@ Are you a keen STEM student looking to discover the kinds of paths you can take 
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2063513330438249/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Hoodies.jpg">
         <div>
             <p>
@@ -127,7 +127,7 @@ This unbearable cold proving to be out of your imagination? All these hoodies fo
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/341424543424488/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/STEM_FMAA.jpg">
         <div>
             <p>
@@ -136,7 +136,7 @@ Are you a STEM (Science, Technology, Engineering or Maths) student considering a
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2282740158633986/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH11341.png">
         <div>
             <p>
@@ -145,7 +145,7 @@ Struggling with the Riemann Hypothesis? The existence and smoothness of Navier S
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/266993567539817/">More Info</a>
         </div>
     </div>
-    <div class="events-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH20111.png">
         <div>
             <p>
