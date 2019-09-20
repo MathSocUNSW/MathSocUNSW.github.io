@@ -21,6 +21,15 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/710949976011123/">More Info</a>
         </div>
     </div>
+        <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/Sports_Gala.jpg">
+        <div>
+            <p>
+            Did you know that sports is a great way to reduce stress and have fun??? Take a break from the overwhelming stress that is TRIMESTERS to join us for MATHSOC x DATASOC’s very own SOCIAL SPORTS GALA!!!!           
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2143682879271101/">More Info</a>
+        </div>
+    </div>
 </div>
 
 <br>
