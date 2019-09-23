@@ -48,3 +48,5 @@ elements:
     url: '/sponsors/'
   - name: 'Contact'
     url: '/contact/'
+  - name: 'Voting'
+    url: '/voting/'

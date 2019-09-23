@@ -1,0 +1,96 @@
+---
+layout: page
+title: Voting for 2020 MathSoc Executives
+permalink: /voting/
+title_text: Voting
+---
+
+<div>
+    <p>Hello, these are your candidates for president. To vote, please enter in your zID (without the z), choose a candidate and then click submit. If you have already voted, clicking submit will replace your previous vote.</p>
+    <p>Insert ticker for #ppl who have voted</p>
+
+    <div class="candidate">
+        <button type="button"
+        onclick="document.getElementById('result').innerHTML = Vote('5113955', 'yuseph')">
+        Yuseph</button>
+        <button type="button"
+        onclick="postData('5113950', 'president', 'rui')">
+        Vote Yuseph</button>
+    </div>
+    <div id='result'>
+    </div>
+    <div>
+        <button type="button" onclick="getResults('hello!')">show results</button>
+    </div>
+
+    <div>
+        <!-- <p>yuseph</p> -->
+        <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeKS86PV6ps0YoBgUktF50WOfKFGA51bmrHHmA3wHhpE6sW9w/viewform?embedded=true" width="640" height="1491" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+    </div>
+</div>
+
+<script>
+    const url = 'http://localhost:5000/api/v1/votes'
+    // const getResults = async (arg) => {
+    //     console.log ("arg is: ", arg);
+    //     const response = await fetch (url);
+    //     const json = await response.json();
+    //     console.log (json);
+    // }
+
+    async function getResults () {
+        const options = {
+            "method": 'GET',
+            "headers": {
+                "accept": "application/json",
+                "Content-Type": "application/json",
+                'Access-Control-Allow-Origin': '*'
+            }
+        }
+        const response = await fetch (url, options);
+        console.log (await response.json());
+    }
+        // fetch (url, {
+        //     method: 'GET',
+        //     mode: 'no-cors',
+        //     headers: {
+        //         'Content-Type': 'application/json',
+        //         'Access-Control-Allow-Origin': '*'
+        //     }
+        // })
+        // .then (function (response) {
+        //     console.log ("response: ", response)
+        //     response.json()
+        // })
+    // }
+
+    // const makeVote = async (zid, title, candidate) => {
+    //     console.log ("vote details: ", zid, title, candidate);
+        
+    // }
+    function postData (zid_, title_, candidate_) {
+        // data = {id: zid_, title: title_, candidate: candidate_};
+        data = { "id": zid_, "title": title_, "candidate": candidate_};
+        fetch (url, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: {
+                'Content-Type': 'application/json',
+                "Accept":"application/json",
+                'Access-Control-Allow-Origin': '*'
+            },
+            body: JSON.stringify(data)
+        })
+        .then (function (response) {
+            console.log ("response: ", response)
+            response.json()
+        })
+        // .then(response => {
+        //     response.json()
+        //     console.log (response.json());
+        // })
+        // .then(response => console.log ('Success: ', JSON.stringify(response)))
+        // .catch(error => console.log ('Error: ', error));
+    }
+    
+</script>
