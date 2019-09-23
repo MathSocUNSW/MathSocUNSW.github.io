@@ -12,6 +12,8 @@ elements:
         url: '/about/executives/'
       - name: 'The Subcommittee'
         url: '/about/subcommittee/'
+      - name: 'Constitution'
+        url: '/assets/files/Constitution_2017.pdf'
   - name: 'Events'
     sub-pages:
       - events:
@@ -48,5 +50,5 @@ elements:
     url: '/sponsors/'
   - name: 'Contact'
     url: '/contact/'
-  - name: 'Voting'
-    url: '/voting/'
+  # - name: 'Voting'
+    # url: '/voting/'
