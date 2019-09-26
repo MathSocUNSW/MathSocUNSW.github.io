@@ -99,7 +99,7 @@ Our subcommittee members work hard with our directors across all portfolios to b
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Celeste Thompson</h5>
+        <h5>Celeste Thomson</h5>
             <p>Second Year Chemical/Biomedical engineering student. Preparing for a solitary life in the Australian wilderness with 50 cats and 50 blankets to keep me company.</p>
         </div>
     </div>
