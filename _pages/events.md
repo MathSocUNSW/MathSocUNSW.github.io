@@ -11,10 +11,21 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 ### Upcoming Events
 <div class="flex-container">
+
+</div>
+
+<br>
+
+_____________________
+
+### Past Events
+<br>
+<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Ball.png">
         <div>
-            <p>“Ah, we’ve been expecting you.”
+            <p>
+            “Ah, we’ve been expecting you.”
 
             This year, you are cordially invited to attend an unforgettable night at the L’Aqua in Cockle Bay Wharf. Take the night in style: enjoy a 3-course dinner, UNLIMITED alcohol, exquisite views of Darling Harbour and endless dancing. There will also be a photobooth and flower wall, a roaming photographer and a DJ to guarantee a dazzling experience. So, don your sharpest suits and suavest gowns – your next mission awaits.            
             </p>
@@ -30,15 +41,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2143682879271101/">More Info</a>
         </div>
     </div>
-</div>
-
-<br>
-
-_____________________
-
-### Past Events
-<br>
-<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH25601.png">
         <div>
@@ -58,7 +60,7 @@ _____________________
             - These seminars will boost your marks to an HD?
 
             For a complete description, come chill at our term 2 revision seminar for MATH1231 and MATH1241!
-</p>
+    </p>
             <a class="btn mathsoc-btn-white-purple" href="{{ site.baseurl }}/join/">More Info</a>
         </div>
     </div>
