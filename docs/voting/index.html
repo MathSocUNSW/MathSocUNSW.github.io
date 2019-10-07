@@ -214,41 +214,6 @@
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeKS86PV6ps0YoBgUktF50WOfKFGA51bmrHHmA3wHhpE6sW9w/viewform?embedded=true" width="640" height="1491" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
 </div>
-
-<script>
-    const url = 'http://localhost:5000/api/v1/votes'
-    async function getResults () {
-        const options = {
-            "method": 'GET',
-            "headers": {
-                "accept": "application/json",
-                "Content-Type": "application/json",
-                'Access-Control-Allow-Origin': '*'
-            }
-        }
-        const response = await fetch (url, options);
-        console.log (await response.json());
-    }
-    function postData (zid_, title_, candidate_) {
-        // data = {id: zid_, title: title_, candidate: candidate_};
-        data = { "id": zid_, "title": title_, "candidate": candidate_};
-        fetch (url, {
-            method: 'POST',
-            mode: 'no-cors',
-            headers: {
-                'Content-Type': 'application/json',
-                "Accept":"application/json",
-                'Access-Control-Allow-Origin': '*'
-            },
-            body: JSON.stringify(data)
-        })
-        .then (function (response) {
-            console.log ("response: ", response)
-            response.json()
-        })
-    }
-    
-</script>
 				</div>
 			</div>
 			<!-- here -->
