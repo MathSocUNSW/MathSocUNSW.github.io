@@ -11,12 +11,58 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 ### Upcoming Events
 <div class="flex-container">
-
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/Director_Applications.jpg">
+        <div>
+            <p>
+            Applications for the UNSW Mathematics Society’s Director positions for 2020 are now open!
+            <br>
+            We're looking for passionate and driven individuals with no restrictions on past experiences or degree background so don't hesitate to apply and join our family!
+            <br>
+            As a director, you will be responsible for actively shaping the future of our society and enjoy immense freedom to pursue any vision or goals you might have alongside the current execs. You will be given the opportunity to grow personally and professionally and most importantly make long lasting friends and have heaps of fun.
+            <br>
+            ————————————————————
+            <br>
+            This year, there are 12 positions available:
+            <br>
+            3x Education Directors
+            <br>
+            2x Marketing Directors
+            <br>
+            2x Events Directors (Social)
+            <br>
+            2x Events Directors (Corporate)
+            <br>
+            2x Sponsorship Directors
+            <br>
+            1x IT Director
+            <br>
+            Find more information about each role <a href="https://mathsoc.unsw.edu.au/assets/files/Director_Roles_2020.pdf">here</a>
+            <br>
+            —————— HOW TO APPLY ——————
+            <br>
+            1. Consult the director's handbook linked above to figure out up to 2 roles best suited to you.
+            <br>
+            2. Complete some quick questions about yourself and your motivations <a href="https://app.tribespot.co/form/unswmathsoc2020directors">here</a>
+            <br>
+            ————————————————————
+            <br>
+            Applications close 11:59pm on October 28, so please get your submissions in as early as possible.
+            <br>
+            You will be contacted through email if you are successful, and an interview time will be arranged in the following weeks!
+            <br>
+            Good Luck :)
+            <br>
+            ————————————————————         
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/527000051390908/">More Info</a>
+        </div>
+    </div>
 </div>
 
 <br>
 
-_____________________
+_____________________   
 
 ### Past Events
 <br>
