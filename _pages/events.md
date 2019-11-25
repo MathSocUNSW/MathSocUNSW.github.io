@@ -12,6 +12,36 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 ### Upcoming Events
 <div class="flex-container">
     <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/11341_Workshop.jpg">
+        <div>
+            <p>
+            Is Euler's Formula running circles around your head? Is the Mean Value Theorem too mean? Don’t worry, MathSoc's here to row reduce your problems away! Stop by our workshop to receive some top tips and WAM saving techniques.
+            <br>
+            NOTE: These revision workshops will replace the typical revision seminars that we host!
+            <br>
+            <br>
+            WHEN: Week 11 Tuesday 26th November 12:00-2:00pm (Algebra)
+            <br>
+            WHERE: Red Centre Theatre
+            <br>
+            <br>
+            WHEN: Week 11 Wednesday 27th November 12:00-2:00pm (Calculus) 
+            <br>
+            WHERE: CLB 1
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/499050730689636/?event_time_id=499050734022969">More Info</a>
+        </div>
+    </div>
+</div>
+
+<br>
+
+_____________________   
+
+### Past Events
+<br>
+<div class="flex-container">
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Social_BBQ.png">
         <div>
             <p>
@@ -33,13 +63,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
         </div>
     </div>
 </div>
-
-<br>
-
-_____________________   
-
-### Past Events
-<br>
 <div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Ball.png">

@@ -11,6 +11,11 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 - Despite our best efforts in keeping our resources error-free, occasionally, one may slip past us. If you do happen to notice one, please do let us know ASAP by [clicking here]({{ site.url }}/contact/)!
 - These resources are **NOT** endorsed by the School of Mathematics and Statistics. <br><br>
   
+##### 2019T3 MATH2521/2621 Revision Seminar Slides 
+
+[Complex Analysis]({{ site.url }}/assets/revision/MATH2_56_21_Revision.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH2_56_21_Revision_Solutions.pdf)
+
+
 ##### 2019T2 MATH1231/1241 Revision Seminar Slides 
 
 [Algebra]({{ site.url }}/assets/revision/MATH12341-Algebra-2019.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH12341-Algebra-2019-Solutions.pdf)
