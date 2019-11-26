@@ -13,7 +13,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
   
 ##### 2019T3 MATH2521/2621 Revision Seminar Slides 
 
-[Complex Analysis]({{ site.url }}/assets/revision/MATH2_56_21_Revision.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH2_56_21_Revision_Solutions.pdf)
+[Complex Analysis]({{ site.url }}/assets/revision/MATH2_56_21_Revision.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH2_56_21_Revision_Slides_Solutions.pdf)
 
 
 ##### 2019T2 MATH1231/1241 Revision Seminar Slides 
