@@ -85,4 +85,4 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Aaron Hassan and Dominic Palanca
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** James Gao, Allan Loi, Samir Mustavi and Kevin Xian
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** James Gao, Allan Loi, Samir Mustavi, Kevin Xian and Alex Zhu
