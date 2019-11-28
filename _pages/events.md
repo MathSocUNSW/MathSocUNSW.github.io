@@ -10,6 +10,14 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 {% assign now = "now" | date: "%Y/%m/%d"%}
 
 ### Upcoming Events
+
+
+<br>
+
+_____________________   
+
+### Past Events
+<br>
 <div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/11341_Workshop.jpg">
@@ -33,13 +41,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
         </div>
     </div>
 </div>
-
-<br>
-
-_____________________   
-
-### Past Events
-<br>
 <div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Social_BBQ.png">
