@@ -16,6 +16,8 @@ elements:
         url: '/about/subcommittee/'
       - name: 'Director Roles'
         url: '/assets/files/Director_Roles_2020.pdf'
+      - name: 'Former Team Members'
+        url: '/about/formerteam'
   - name: 'Events'
     sub-pages:
       - events:

@@ -184,3 +184,13 @@
 	justify-content: center;
 	max-width: 100%;
 }
+
+.teamtable {
+	border: 1px solid #ccdddc;
+	border-spacing: 10em;
+	
+	th, td {
+		border: 1px solid #ddd;
+		padding: 5px;
+	}
+}
