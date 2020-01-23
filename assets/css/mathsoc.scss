@@ -99,11 +99,14 @@
 
 .upcoming-events {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	flex-wrap: wrap;
 	font-size: 18px;
 	padding: 80px 200px 20px 200px;
 	background-color: aliceblue !important;
+}
+.upcoming-events > a {
+	padding-left: 20px;
 }
 
 #navbar {
