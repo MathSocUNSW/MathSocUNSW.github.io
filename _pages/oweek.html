@@ -1,0 +1,201 @@
+---
+layout: page
+title: O-Week Signup Form
+permalink: /oweek/
+title_text: Please fill in the form below to sign up for MathSoc.
+---
+<style>
+    #dummyframe {
+        display: none;
+    }
+
+    #access {
+        display: flex;
+        justify-content: center;
+    }
+
+    #access > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #accessB {
+        margin-top: 20px;
+    }
+
+    #form > div {
+        margin-left: 10px;
+    }
+
+    input[type=text],
+    input[type=email],
+    textarea {
+        border-radius: 0;
+        border-width: 0 0 1px;
+        border-color: black;
+        background-color: transparent;
+        min-width: 250px;
+        font-size: 16px;
+        line-height: 1.15;
+    }
+
+    #formReqAnchor {
+        width: 0;
+        height: 0;
+        position: relative;
+        top: -100px;
+    }
+
+    #formReq,
+    #emailReq,
+    .reqNotif {
+        color: red;
+    }
+
+    textarea{  
+        display: block;
+        overflow: hidden;
+    }
+
+    #form > h4:not(:first-of-type) {
+        margin-top: 20px;
+    }
+</style>
+
+<iframe width="0" height="0" name="dummyframe" id="dummyframe"></iframe>
+<div id="access">
+    <div>
+        <span id="accessE" style="display: none;">Incorrect password.</span>
+        <input id="accessP" type="password" placeholder="Password" />
+        <input id="accessB" type="button" value="Unlock" />
+    </div>
+</div>
+<form action="" style="display: none;" target="dummyframe" method="POST" id="form">
+    <div id="formReqAnchor"></div>
+    <span id="formReq" style="display: none;">Please answer all required questions.</span>
+    <span id="emailReq" style="display: none;">Please enter a valid email.</span><br />
+    {% for item in site.data.forms.OWeek %}
+        <h4>{{ item.title }} {% if item.req == true %}<span class="reqNotif">*</span>{% endif %}</h4>
+        <div>
+            {% if item.sub %}
+                <span>{{ item.sub }}</span><br />
+            {% endif %}
+            {% if item.type == "radio" %}
+                {% for val in item.values %}
+                    {% unless forloop.index == 1 %}
+                        <br />
+                    {% endunless %}
+                    <label>
+                        {% if forloop.index == 1 %}
+                            <input type="radio" name="{{ item.id }}" value="{{ val }}" checked /> {{ val }}
+                        {% else %}
+                            <input type="radio" name="{{ item.id }}" value="{{ val }}" /> {{ val }}
+                        {% endif %}
+                    </label>
+                {% endfor %}
+            {% elsif item.type == "short" %}
+                <input data-req="{{ item.req }}" type="text" autocomplete="off" name="{{ item.id }}" placeholder="{{ item.value }}" value="" dir="auto" />
+            {% elsif item.type == "email" %}
+                <input data-req="{{ item.req }}" type="email" autocomplete="off" name="emailAddress" placeholder="{{ item.value }}" value="" dir="auto" />
+            {% elsif item.type == "long" %}
+                <textarea data-req="{{ item.req }}" name="{{ item.id }}" rows="2" placeholder="{{ item.value }}"></textarea>
+            {% endif %}
+        </div>
+    {% endfor %}
+    <br />
+    <input type="button" value="Submit" id="submitBtn" />
+</form>
+<span id="success" style="display: none;">Your response has been recorded, click <a href="#" id="redo">here</a> to submit another.</span>
+<script>
+    const eById = (v => document.getElementById(v));
+    const req = eById('form').querySelectorAll('[data-req=true]');
+
+    eById('submitBtn').addEventListener('click', (e) => {
+        eById('formReq').style.display = 'none';
+        eById('emailReq').style.display = 'none';
+        let valid = true;
+        req.forEach((e) => {
+            if (e.value.trim() == '')
+                valid = false;
+        });
+        if (!valid) {
+            eById('formReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('form').querySelectorAll('input[type=email]').forEach((e) => {
+            const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            if (!re.test(e.value))
+                valid = false;
+        });
+        if (!valid) {
+            eById('emailReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('dummyframe').onload = () => {
+            eById('dummyframe').src = '';
+            eById('form').reset();
+            eById('success').style.display = 'block';
+            eById('form').style.display = 'none';
+        }
+        eById('form').submit();
+        e.preventDefault();
+        return false;
+    });
+    eById('redo').addEventListener('click', (e) => {
+        eById('success').style.display = 'none';
+        eById('form').style.display = 'block';
+        e.preventDefault();
+    });
+
+    eById('form').querySelectorAll('textarea').forEach((el) => {
+        el.addEventListener('focus', (e) => {
+            e = e.target;
+            if (e.getAttribute('data-init') !== 'true')
+                e.setAttribute('data-init', 'true');
+            else
+                return false;
+            const val = e.value;
+            e.value = '';
+            e.baseScrollHeight = e.scrollHeight;
+            e.value = val;
+            console.log('a');
+        });
+        el.addEventListener('input', (e) => {
+            e = e.target;
+            e.rows = 2;
+            e.rows = 2 + Math.ceil((e.scrollHeight - e.baseScrollHeight) / 18);
+        });
+    });
+
+    const submitLogin = (e) => {
+        const xhr = new XMLHttpRequest();
+        xhr.open('POST', 'unlock.php', true);
+        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        xhr.onload = function() {
+            if (xhr.status === 200 && xhr.response !== '') {
+                eById('form').action = xhr.response;
+                eById('form').style.display = 'block';
+                eById('access').style.display = 'none';
+            } else {
+                eById('accessE').style.display = 'block';
+                eById('accessP').value = '';
+            }
+            eById('accessP').value = '';
+        };
+        xhr.send(`p=${eById('accessP').value}`);
+        e.preventDefault();
+    };
+
+    eById('accessP').addEventListener('keyup', (e) => {
+        if (e.keyCode === 13)
+            submitLogin(e);
+        eById('accessE').style.display = 'none';
+    });
+    eById('accessB').addEventListener('click', submitLogin);
+</script>
