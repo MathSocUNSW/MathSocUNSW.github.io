@@ -21,7 +21,7 @@ title_text: The 2020 Executive of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Yuseph Ma - Vice President</h5>
-            <p>Soon&trade;</p>
+            <p>Mechanical/Biomedical Engineering student. I really really really REALLY like fried chicken.</p>
         </div>
     </div>
     <div class="horizontal-container">
