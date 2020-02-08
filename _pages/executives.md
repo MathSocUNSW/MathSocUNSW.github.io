@@ -121,7 +121,7 @@ title_text: The 2020 Executive of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Isabella Falanga - Marketing Director</h5>
-            <p>Soon&trade;</p>
+            <p>Second Year Data Science student. I do problems like <img src="http://latex.codecogs.com/gif.latex? \int_0^{23} 3\,dx" border="0"/></p>
         </div>
 	</div>
     <div class="horizontal-container">
