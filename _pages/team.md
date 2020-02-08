@@ -113,7 +113,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Celeste Thomson - Marketing Director</h5>
-            <p>Soon&trade;</p>
+            <p>Third Year Chemical/Biomedical Engineering student. Prime reply time: 3am. Coming out of my cage and I've been doing: not great. Dream Halloween costume: plague doctor, but make it sexy.</p>
         </div>
 	</div>
     <div class="horizontal-container">
