@@ -80,7 +80,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Lauren Wu - Events Director</h5>
+        <h5>Lauren Wu - Events (Corporate) Director</h5>
             <p>Soon&trade;</p>
         </div>
     </div>
@@ -88,7 +88,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Winston Sun - Events Director</h5>
+        <h5>Winston Sun - Events (Corporate) Director</h5>
             <p>Second Year Data Science and Decisions student. Are you the sin<sup>2</sup>(x) to my cos<sup>2</sup>(x) ? Coz I think you are the one for me.</p>
         </div>
     </div>
@@ -96,7 +96,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Philton Zhu - Events Director</h5>
+        <h5>Philton Zhu - Events (Social) Director</h5>
             <p>Soon&trade;</p>
         </div>
     </div>
@@ -104,7 +104,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Wendy Zhang - Events Director</h5>
+        <h5>Wendy Zhang - Events (Social) Director</h5>
             <p>Not a maths student, why am I here... 🤔 Jks, love maths and been busy finding the formula to match make star-crossed lovers. Or maybe for myself?</p>
         </div>
     </div>
