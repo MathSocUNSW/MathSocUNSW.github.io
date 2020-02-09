@@ -28,16 +28,16 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Rui Tong - Treasurer</h5>
-            <p>Advanced Maths/Computer Science student. Crying my way into my 5<sup>th</sup> year. But too tired now to not underload. Has record of 154 WPM on 10fastfingers that I value as much as my math degree.</p>
+        <h5>Grace Li - Secretary</h5>
+            <p>3<sup>rd</sup> Year Science and Business student. PM me for details on joining my <del>pyramid scheme</del> personal business venture.</p>
         </div>
     </div>
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
         </div>
         <div class="vertical-container">
-        <h5>Grace Li - Secretary</h5>
-            <p>Soon&trade;</p>
+        <h5>Rui Tong - Treasurer</h5>
+            <p>Advanced Maths/Computer Science student. Crying my way into my 5<sup>th</sup> year. But too tired now to not underload. Has record of 154 WPM on 10fastfingers that I value as much as my math degree.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -97,7 +97,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Philton Zhu - Events (Social) Director</h5>
-            <p>Soon&trade;</p>
+            <p>3<sup>rd</sup> year Advanced Maths and Comp Sci kid. Only made it this far on my unhealthy addiction to caffeine and fried chicken. Will sacrifice lectures for a Zinger Box.</p>
         </div>
     </div>
     <div class="horizontal-container">
