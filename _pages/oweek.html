@@ -107,7 +107,12 @@ title_text: Please fill in the form below to sign up for MathSoc.
     <br />
     <input type="button" value="Submit" id="submitBtn" />
 </form>
-<span id="success" style="display: none;">Your response has been recorded, click <a href="#" id="redo">here</a> to submit another.</span>
+<div id="success" style="display: none;">
+    <h5>The next steps...</h5>
+    ✨ Join us on spArc <br />
+    👍 Like us on Facebook <br />
+    📷 Follow us on Instagram <br /><br />
+    Your response has been recorded, click <a href="#" id="redo">here</a> to submit another.</div>
 <script>
     const eById = (v => document.getElementById(v));
     const req = eById('form').querySelectorAll('[data-req=true]');
@@ -150,6 +155,7 @@ title_text: Please fill in the form below to sign up for MathSoc.
     eById('redo').addEventListener('click', (e) => {
         eById('success').style.display = 'none';
         eById('form').style.display = 'block';
+        eById('form').querySelector('input[type=email]').focus();
         e.preventDefault();
     });
 
