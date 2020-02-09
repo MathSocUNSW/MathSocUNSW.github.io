@@ -13,7 +13,8 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>James Gao - President</h5>
-            <p>Soon&trade;</p>
+            <p>Fifth year Actuarial Studies and Applied Maths student whose 'Executive Body' is available for inspection at any time. <br />
+            3, 11, 31, __, 131</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -29,7 +30,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Grace Li - Secretary</h5>
-            <p>3<sup>rd</sup> Year Science and Business student. PM me for details on joining my <del>pyramid scheme</del> personal business venture.</p>
+            <p>3<sup>rd</sup> Year Science and Business student. Part-time pyromaniac but only as a hobby. PM me for details on joining my <del>pyramid scheme</del> personal business venture.</p>
         </div>
     </div>
     <div class="horizontal-container">
@@ -81,7 +82,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Lauren Wu - Events (Corporate) Director</h5>
-            <p>Soon&trade;</p>
+            <p>2<sup>nd</sup> year adv Maths/comp sci student. Has a reply game worse than 3-5 business days. Loves conversational rabbit holes.</p>
         </div>
     </div>
     <div class="horizontal-container">
