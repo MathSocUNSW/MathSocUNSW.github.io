@@ -46,7 +46,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Jason Zhao - Arc Delegate</h5>
-            <p>Soon&trade;</p>
+            <p>4<sup>th</sup> year Mechanical Engineering Student. Still deciding e4 or d4.</p>
         </div>
 	</div>
 </section>
