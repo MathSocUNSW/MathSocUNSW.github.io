@@ -143,6 +143,7 @@ title_text: Please fill in the form below to sign up for MathSoc.
             return false;
         }
         eById('dummyframe').onload = () => {
+            eById('dummyframe').onload = undefined;
             eById('dummyframe').src = '';
             eById('form').reset();
             eById('success').style.display = 'block';
