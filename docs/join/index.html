@@ -208,10 +208,197 @@
 						So you've decided you would like to join us? Great!
 					</p>
 					
-					<p>To join our society, just <a href="https://goo.gl/forms/5zUnR2My2BA5RjXp1">fill out this form</a>. Make sure you come see us at O-Week, or any of our events to get your sticker!</p>
+					<p>
+    To join our society, just fill out the following form. Make sure you come see us at O-Week, or any of our events to get your sticker!<br />
+    Membership is free for any students with a major in Mathematics or Statistics, otherwise the fee is $5 for the entire year, which gains you access to our <a href="https://mathsoc.unsw.edu.au/events/">amazing events</a> and a free t-shirt!
+</p>
+<br />
+<style>
+    #dummyframe {
+        display: none;
+    }
 
-<p>Membership is free for any students with a major in Mathematics or Statistics, otherwise the fee is $5 for the entire year, which gains you access to our <a href="https://mathsoc.unsw.edu.au/events/">amazing events</a> and a free t-shirt!</p>
+    #form > div {
+        margin-left: 10px;
+    }
 
+    input[type=text],
+    input[type=email],
+    textarea {
+        border-radius: 0;
+        border-width: 0 0 1px;
+        border-color: black;
+        background-color: transparent;
+        min-width: 250px;
+        font-size: 16px;
+        line-height: 1.15;
+    }
+
+    #formReqAnchor {
+        width: 0;
+        height: 0;
+        position: relative;
+        top: -100px;
+    }
+
+    #formReq,
+    #emailReq,
+    .reqNotif {
+        color: red;
+    }
+
+    textarea{  
+        display: block;
+        overflow: hidden;
+    }
+
+    #form > h4:not(:first-of-type) {
+        margin-top: 20px;
+    }
+</style>
+
+<iframe width="0" height="0" name="dummyframe" id="dummyframe"></iframe>
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegCEw6ZGEl2kUVnK_kN7CK1e4HdQU9LqDgSXJCGg5-HQV6gg/formResponse" target="dummyframe" method="POST" id="form">
+    <div id="formReqAnchor"></div>
+    <span id="formReq" style="display: none;">Please answer all required questions.</span>
+    <span id="emailReq" style="display: none;">Please enter a valid email.</span><br />
+    
+        <h4>Email address <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                <input data-req="true" type="email" autocomplete="off" name="emailAddress" placeholder="Your email" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>First name <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                <input data-req="true" type="text" autocomplete="off" name="entry.990797104" placeholder="Your first name" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>Last name <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                <input data-req="true" type="text" autocomplete="off" name="entry.996092728" placeholder="Your last name" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>zID <span class="reqNotif">*</span></h4>
+        <div>
+            
+                <span>Please enter your ID in the form zXXXXXXX</span><br />
+            
+            
+                <input data-req="true" type="text" autocomplete="off" name="entry.880461737" placeholder="Your zID" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>What do you study? <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                <input data-req="true" type="text" autocomplete="off" name="entry.396849616" placeholder="Your answer" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>Are you an Arc member? <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                
+                    
+                    <label>
+                        
+                            <input type="radio" name="entry.2016630207" value="Yes" checked /> Yes
+                        
+                    </label>
+                
+                    
+                        <br />
+                    
+                    <label>
+                        
+                            <input type="radio" name="entry.2016630207" value="No" /> No
+                        
+                    </label>
+                
+            
+        </div>
+    
+    <br />
+    <input type="button" value="Submit" id="submitBtn" />
+</form>
+<div id="success" style="display: none;">
+    <h5>The next steps...</h5>
+    ✨ Join us on spArc <br />
+    👍 Like us on Facebook <br />
+    📷 Follow us on Instagram <br /><br />
+    Your response has been recorded, thank you.
+</div>
+<script>
+    const eById = (v => document.getElementById(v));
+    const req = eById('form').querySelectorAll('[data-req=true]');
+
+    eById('submitBtn').addEventListener('click', (e) => {
+        eById('formReq').style.display = 'none';
+        eById('emailReq').style.display = 'none';
+        let valid = true;
+        req.forEach((e) => {
+            if (e.value.trim() == '')
+                valid = false;
+        });
+        if (!valid) {
+            eById('formReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('form').querySelectorAll('input[type=email]').forEach((e) => {
+            const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            if (!re.test(e.value))
+                valid = false;
+        });
+        if (!valid) {
+            eById('emailReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('dummyframe').onload = () => {
+            eById('dummyframe').src = '';
+            eById('form').reset();
+            eById('success').style.display = 'block';
+            eById('form').style.display = 'none';
+        }
+        eById('form').submit();
+        e.preventDefault();
+        return false;
+    });
+
+    eById('form').querySelectorAll('textarea').forEach((el) => {
+        el.addEventListener('focus', (e) => {
+            e = e.target;
+            if (e.getAttribute('data-init') !== 'true')
+                e.setAttribute('data-init', 'true');
+            else
+                return false;
+            const val = e.value;
+            e.value = '';
+            e.baseScrollHeight = e.scrollHeight;
+            e.value = val;
+            console.log('a');
+        });
+        el.addEventListener('input', (e) => {
+            e = e.target;
+            e.rows = 2;
+            e.rows = 2 + Math.ceil((e.scrollHeight - e.baseScrollHeight) / 18);
+        });
+    });
+</script>
 				</div>
 			</div>
 			<!-- here -->
