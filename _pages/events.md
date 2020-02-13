@@ -14,19 +14,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/OWeek.jpg">
-        <div>
-            <p>
-            Whether or not you worship Euler, be sure to come down to the UNSW Mathematics Society stall to meet our friendly team and hear all about the events that we have planned for T1: which includes a multitude of academic support, career help and social events. If you have questions about the society, your degree, or anything at all, please do not hesitate to chat up any of our team members.
-            <hr />
-            Date: 10th-13th February <br />
-            Time: 9:00AM - 4:00PM <br />
-            Location: Main Walkway <br />
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/176074866953981/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/integration_bee_2020.jpg">
         <div>
             <p>
@@ -70,6 +57,19 @@ _____________________
 ### Past Events
 <br>
 <div class="flex-container">
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/OWeek.jpg">
+        <div>
+            <p>
+            Whether or not you worship Euler, be sure to come down to the UNSW Mathematics Society stall to meet our friendly team and hear all about the events that we have planned for T1: which includes a multitude of academic support, career help and social events. If you have questions about the society, your degree, or anything at all, please do not hesitate to chat up any of our team members.
+            <hr />
+            Date: 10th-13th February <br />
+            Time: 9:00AM - 4:00PM <br />
+            Location: Main Walkway <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/176074866953981/">More Info</a>
+        </div>
+    </div>
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Volunteer_Drive_2020.jpg">
         <div>
