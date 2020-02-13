@@ -47,9 +47,9 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             Whether you’re a figure skating pro or a first-time skater, all are welcome! So don’t get cold feet and miss out on the only event of the year where it’s acceptable to say you fell for someone 🙊.<br />
             All you need is $15 and a smile and we promise it’ll be worth your while!
             <hr />
-            Date: 10th-13th February <br />
-            Time: 9:00AM - 4:00PM <br />
-            Location: Main Walkway <br />
+            Date: 27<sup>th</sup> February <br />
+            Time: 6:00PM - 7:30PM <br />
+            Location: Ice Zoo <br />
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2437507526355026/">More Info</a>
         </div>
