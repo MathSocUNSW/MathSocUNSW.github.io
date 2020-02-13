@@ -26,6 +26,44 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/176074866953981/">More Info</a>
         </div>
     </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/integration_bee_2020.jpg">
+        <div>
+            <p>
+            Do you want to be the very best like no one ever was? Is integrating them your real test? Mathsoc’s annual Integration bee is your chance to integrate em all, so test your skills and be the next integration bee champion. Even if you aren't looking to integrate your way to the top, come watch some math gods and enjoy free pizza.
+            <hr />
+            Date: Wednesday 19<sup>th</sup> February <br />
+            Time: 2:00PM - 4:00PM <br />
+            Location: Electrical Engineering G22 <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2793148394132144/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/ice_skating_2020.jpg">
+        <div>
+            <p>
+            We’ve booked out the entire ice rink to create the perfect environment for you to have fun and meet new friends! So come slide on some ice before you slide into the DM’s of those you just met 👀. <br />
+            Whether you’re a figure skating pro or a first-time skater, all are welcome! So don’t get cold feet and miss out on the only event of the year where it’s acceptable to say you fell for someone 🙊.<br />
+            All you need is $15 and a smile and we promise it’ll be worth your while!
+            <hr />
+            Date: 10th-13th February <br />
+            Time: 9:00AM - 4:00PM <br />
+            Location: Main Walkway <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2437507526355026/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/sig_games_night_2020.jpg">
+        <div>
+            <p>
+            Join SIG Trading on Campus for a Game Theory Workshop and Board Game Night 25 Feb.<br />
+            #winning #sigsydney #siggamesnight
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="http://bit.ly/2OHoL47">Register</a>
+        </div>
+    </div>
 </div>
 _____________________   
 
@@ -72,19 +110,14 @@ _____________________
         <img class="events-pic" src="{{ site.images }}/Events/Social_BBQ.png">
         <div>
             <p>
-            Here at MathSoc we understand that trimesters are really getting onto everyone's nerves, so why not kick off the end of Week 9 with a free BBQ on us!
-
+            Here at MathSoc we understand that trimesters are really getting onto everyone's nerves, so why not kick off the end of Week 9 with a free BBQ on us! <br />
             Come down to Sam Cracknell on Friday the 15th November, from 11am-3pm to salivate over some juicy sausages or crispy hash browns, and have a chat with the new Exec Team for 2020.
-            <br>
-            ___________________________________________________________________
-
-            <br>
-
-            WHEN Week 9 Friday 15th November, 11am-3pm
-            <br>
-            WHERE Sam Cracknell
-            <br>
-            COST Free for all MathSoc members
+            <hr />
+            WHEN: Week 9 Friday 15th November, 11am-3pm
+            <br />
+            WHERE: Sam Cracknell
+            <br />
+            COST: Free for all MathSoc members
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/696897930803090/">More Info</a>
         </div>
@@ -93,8 +126,7 @@ _____________________
         <img class="events-pic" src="{{ site.images }}/Events/Ball.png">
         <div>
             <p>
-            “Ah, we’ve been expecting you.”
-
+            “Ah, we’ve been expecting you.”<br />
             This year, you are cordially invited to attend an unforgettable night at the L’Aqua in Cockle Bay Wharf. Take the night in style: enjoy a 3-course dinner, UNLIMITED alcohol, exquisite views of Darling Harbour and endless dancing. There will also be a photobooth and flower wall, a roaming photographer and a DJ to guarantee a dazzling experience. So, don your sharpest suits and suavest gowns – your next mission awaits.            
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/710949976011123/">More Info</a>
@@ -125,8 +157,7 @@ _____________________
             - You lose marks for using the word “closure” when proving something is a linear map?
             - You can do eigenvectors without back sub?
             - You can follow rules of thumb with picking between ratio test and the rest?
-            - These seminars will boost your marks to an HD?
-
+            - These seminars will boost your marks to an HD?<br />
             For a complete description, come chill at our term 2 revision seminar for MATH1231 and MATH1241!
             </p>
             <a class="btn mathsoc-btn-white-purple" href="{{ site.baseurl }}/join/">More Info</a>
@@ -135,12 +166,9 @@ _____________________
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/EY_Analytics.png">
         <div>
-            <p>Love consulting, Data and asking questions?
-
-            Are you the sort of person that people look to when solving a complex problem?
-
-            Then join us on the 7th of August for Mathsoc x Macquarie Women-in-Business x EY's Data and Analytics Event!
-
+            <p>Love consulting, Data and asking questions?<br />
+            Are you the sort of person that people look to when solving a complex problem?<br />
+            Then join us on the 7th of August for Mathsoc x Macquarie Women-in-Business x EY's Data and Analytics Event!<br />
             If you are a keen student who enjoys or is looking to experience a career in strategy consulting or Data & Analytics, then this seminar is for you!            
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/453369988576987/">More Info</a>
@@ -149,10 +177,8 @@ _____________________
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Pubcrawl.jpg">
         <div>
-            <p>Yearning for the good old days? Miss watching your favourite colourful heroes on screen?
-
-            ArtsSoc, CEVSOC, MechSoc, MathSoc and ArchSoc have got you sorted!  
-
+            <p>Yearning for the good old days? Miss watching your favourite colourful heroes on screen?<br />
+            ArtsSoc, CEVSOC, MechSoc, MathSoc and ArchSoc have got you sorted!  <br />
             Suit up and get into formation to ✨ POWER UP✨ on UNSW's biggest interfaculty pubcrawl of the year. With FREE ENTRY and DRINKS on arrival at all venues, a MYSTIC FORCE is telling us that this is a night to GO GALACTIC! 🍻🌌☄️         
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1321595847994794/">More Info</a>
@@ -161,10 +187,8 @@ _____________________
         <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Trivia.png">
         <div>
-            <p>Thought you'd be done with midsems and living life but feeling more like Trimesters is done with you?
-
-            We got you. Come along to Mathsoc's annual trivia night for a time of fun and games with friends, strangers and copious amounts of food!
-
+            <p>Thought you'd be done with midsems and living life but feeling more like Trimesters is done with you?<br />
+            We got you. Come along to Mathsoc's annual trivia night for a time of fun and games with friends, strangers and copious amounts of food!<br />
             If you need any more reason to sign up, the event will be FREE with some fabulous PRIZES to be won for the top three teams!      
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2370907999838564/">More Info</a>
@@ -228,8 +252,7 @@ _____________________
         <img class="events-pic" src="{{ site.images }}/Events/MATH20111.png">
         <div>
             <p>
-            CURLed up in a BALL struggling to (multiple) INTEGRATE any more math after first year? Reaching a CRITICAL point in your studies and finding no PATH to go? Feeling GREEN and needing a new math opportunity to OPEN? And most importantly, missing MATHSOC?
-
+            CURLed up in a BALL struggling to (multiple) INTEGRATE any more math after first year? Reaching a CRITICAL point in your studies and finding no PATH to go? Feeling GREEN and needing a new math opportunity to OPEN? And most importantly, missing MATHSOC?<br />
             For the first time ever, MathSoc is running revision seminars for SECOND year mathematics courses!
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/281336312750931/">More Info</a>
