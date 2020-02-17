@@ -14,6 +14,31 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/subcommittee_2020.jpg">
+        <div>
+            <p>
+            Are you a student looking for a way to gain more out of your uni experience? Interested in joining a wholesome, fun and exciting community looking to create lasting friendships as well as developing yourself both personally and professionally?<br />
+            At MathSoc we understand that maths can be found in nearly everything, from your normal everyday thoughts to the toughest and most abstract theorems. This is why we’re welcoming anyone to come join us no matter what degree you’re from!
+            <hr />
+            Applications close 28<sup>th</sup> Feb at 11:59PM<br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2521102398157044/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/nintendo_and_chill_2020.png">
+        <div>
+            <p>
+            Keep the fun going and come join us at WIT and MathSoc’s games night! Come meet some new friends to accompany you on your journey through university as you trap them in your flawless strategy. The perfect way to warm up your brain for a semester of HD’s. Did we mention that food and drinks will be provided? So sit back, relax and enjoy your meal as your opponents spiral further and further into defeat.
+            <hr />
+            Date: Wednesday 19<sup>th</sup> February <br />
+            Time: 4:00PM - 6:00PM <br />
+            Location: Roundhouse <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/199138841140188/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/integration_bee_2020.jpg">
         <div>
             <p>
