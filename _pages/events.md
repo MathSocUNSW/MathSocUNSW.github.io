@@ -26,32 +26,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
         </div>
     </div>
     <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/nintendo_and_chill_2020.png">
-        <div>
-            <p>
-            Keep the fun going and come join us at WIT and MathSoc’s games night! Come meet some new friends to accompany you on your journey through university as you trap them in your flawless strategy. The perfect way to warm up your brain for a semester of HD’s. Did we mention that food and drinks will be provided? So sit back, relax and enjoy your meal as your opponents spiral further and further into defeat.
-            <hr />
-            Date: Wednesday 19<sup>th</sup> February <br />
-            Time: 4:00PM - 6:00PM <br />
-            Location: Roundhouse <br />
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/199138841140188/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/integration_bee_2020.jpg">
-        <div>
-            <p>
-            Do you want to be the very best like no one ever was? Is integrating them your real test? Mathsoc’s annual Integration bee is your chance to integrate em all, so test your skills and be the next integration bee champion. Even if you aren't looking to integrate your way to the top, come watch some math gods and enjoy free pizza.
-            <hr />
-            Date: Wednesday 19<sup>th</sup> February <br />
-            Time: 2:00PM - 4:00PM <br />
-            Location: Electrical Engineering G22 <br />
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2793148394132144/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/ice_skating_2020.jpg">
         <div>
             <p>
@@ -82,6 +56,32 @@ _____________________
 ### Past Events
 <br>
 <div class="flex-container">
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/nintendo_and_chill_2020.png">
+        <div>
+            <p>
+            Keep the fun going and come join us at WIT and MathSoc’s games night! Come meet some new friends to accompany you on your journey through university as you trap them in your flawless strategy. The perfect way to warm up your brain for a semester of HD’s. Did we mention that food and drinks will be provided? So sit back, relax and enjoy your meal as your opponents spiral further and further into defeat.
+            <hr />
+            Date: Wednesday 19<sup>th</sup> February <br />
+            Time: 4:00PM - 6:00PM <br />
+            Location: Roundhouse <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/199138841140188/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/integration_bee_2020.jpg">
+        <div>
+            <p>
+            Do you want to be the very best like no one ever was? Is integrating them your real test? Mathsoc’s annual Integration bee is your chance to integrate em all, so test your skills and be the next integration bee champion. Even if you aren't looking to integrate your way to the top, come watch some math gods and enjoy free pizza.
+            <hr />
+            Date: Wednesday 19<sup>th</sup> February <br />
+            Time: 2:00PM - 4:00PM <br />
+            Location: Electrical Engineering G22 <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2793148394132144/">More Info</a>
+        </div>
+    </div>
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/OWeek.jpg">
         <div>
