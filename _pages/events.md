@@ -14,6 +14,16 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/sig_games_night_2020.jpg">
+        <div>
+            <p>
+            Join SIG Trading on Campus for a Game Theory Workshop and Board Game Night 25 Feb.<br />
+            #winning #sigsydney #siggamesnight
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="http://bit.ly/2OHoL47">Register</a>
+        </div>
+    </div>
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/subcommittee_2020.jpg">
         <div>
             <p>
@@ -41,13 +51,16 @@ Whether it be a majors talk so budding maths students can discern between a Pure
         </div>
     </div>
     <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/sig_games_night_2020.jpg">
+        <img class="events-pic" src="{{ site.images }}/Events/weekly_study_2020.jpg">
         <div>
             <p>
-            Join SIG Trading on Campus for a Game Theory Workshop and Board Game Night 25 Feb.<br />
-            #winning #sigsydney #siggamesnight
+            Already feeling the burn out with uni? Need to find some direction with your studies? Just need a quiet place to chill out and study? Then come down, relax and study with us at Mathsoc’s weekly study sessions!
+            <br />
+            Whether you’re a first year struggling to find your study limits or a second year crawling their way into multivariable calculus, everyone is welcome! Experience what it’s like to have big brain energy and enjoy a quiet place to study.
+            <hr />
+            Location and Times: See Event
             </p>
-            <a class="btn mathsoc-btn-white-purple" href="http://bit.ly/2OHoL47">Register</a>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/211918543331219/">More Info</a>
         </div>
     </div>
 </div>
