@@ -1,33 +1,35 @@
 OWeek:
-  - title: Email address
-    type: email
-    req: true
-    value: Your email
-  - title: First name
-    id: entry.990797104
-    type: short
-    req: true
-    value: Your first name
-  - title: Last name
-    id: entry.996092728
-    type: short
-    req: true
-    value: Your last name
-  - title: zID
-    id: entry.880461737
-    type: short
-    req: true
-    value: Your zID
-    sub: Please enter your ID in the form zXXXXXXX
-  - title: What do you study?
-    id: entry.396849616
-    type: short
-    req: true
-    value: Your answer
-  - title: Are you an Arc member?
-    id: entry.2016630207
-    type: radio
-    req: true
-    values:
-      - "Yes"
-      - "No"
+  link: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSegCEw6ZGEl2kUVnK_kN7CK1e4HdQU9LqDgSXJCGg5-HQV6gg/formResponse"
+  data:
+    - title: Email address
+      type: email
+      req: true
+      value: Your email
+    - title: First name
+      id: entry.990797104
+      type: short
+      req: true
+      value: Your first name
+    - title: Last name
+      id: entry.996092728
+      type: short
+      req: true
+      value: Your last name
+    - title: zID
+      id: entry.880461737
+      type: short
+      req: true
+      value: Your zID
+      sub: Please enter your ID in the form zXXXXXXX
+    - title: What do you study?
+      id: entry.396849616
+      type: short
+      req: true
+      value: Your answer
+    - title: Are you an Arc member?
+      id: entry.2016630207
+      type: radio
+      req: true
+      values:
+        - "Yes"
+        - "No"
