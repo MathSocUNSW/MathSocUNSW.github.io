@@ -14,6 +14,34 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/pi_day_2020.jpg">
+        <div>
+            <p>
+            We’re back again this year with our annual Pi Day giveaway! To celebrate the beauty of Pi we’re giving away FREE pies to MathSoc members. Get your 👀 PIEorities 👀 in order and come MEAT some new people and get a load of this 💦meat💦! So don’t be IRRATIONAL and come grab yourself a 💪 beefy 💪 pie to fill the CIRCUMFERENCE of your stomach!
+            <br />
+            Vegetarian options and drinks will be provided as well! 👁👅👁
+            <hr />
+            Date: 13<sup>th</sup> March <br />
+            Time: 11:00AM - 2:00PM <br />
+            Location: TBA <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/809101939570428/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/latex_workshop_2020.jpg">
+        <div>
+            <p>
+            CSESoc is teaming up with MathSoc to bring you a the answer to all you Latex related concerns. With Nicholas Berridge-Argent (CSE tutor) presenting you can be sure this will be a evening you don't want to miss out on!
+            <hr />
+            Date: 20<sup>th</sup> March <br />
+            Time: 4:00PM - 6:00PM <br />
+            Location: J17 Ainsworth Level 5 Design Studio <br />
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/128594621919952/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/weekly_study_2020.jpg">
         <div>
             <p>
