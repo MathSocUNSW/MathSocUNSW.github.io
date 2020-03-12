@@ -122,7 +122,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
         <div class="vertical-container">
         <h5>Isabella Falanga - Marketing Director</h5>
-            <p>Second Year Data Science student. I do problems like <img src="http://latex.codecogs.com/gif.latex? \int_0^{23} 3\,dx" border="0"/></p>
+            <p>Second Year Data Science student. I do problems like <img src="http://mathurl.com/render.cgi?%5Cint_0%5E%7B23%7D3%5C%2Cdx%5Cnocache" border="0"/></p>
         </div>
 	</div>
     <div class="horizontal-container">
