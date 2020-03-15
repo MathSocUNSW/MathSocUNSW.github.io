@@ -17,7 +17,7 @@ permalink: /about/formerteam/
 **Education Director**|Rui Tong
 **Education Director**|James Gao
 **Events Director**|Arnav Roy
-**Events Director**|Matthew Xu
+**Events Director**|Matthew Xu / Derek Sun
 **IT Director**|Lucy Qiu
 **Marketing Director**|Grace Li
 **Marketing Director**|Spencer Yang
