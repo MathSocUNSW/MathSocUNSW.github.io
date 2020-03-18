@@ -260,10 +260,29 @@
     #form > h4:not(:first-of-type) {
         margin-top: 20px;
     }
+
+    .range-outer {
+        display: flex;
+        text-align: center;
+    }
+
+    .range-outer > div {
+        padding: 10px;
+    }
+
+    .range-outer > div:first-of-type,
+    .range-outer > div:last-of-type {
+        align-self: flex-end;
+        padding-bottom: 12px;
+    }
+
+    .range-label {
+        padding-bottom: 5px;
+    }
 </style>
 
 <iframe width="0" height="0" name="dummyframe" id="dummyframe"></iframe>
-<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegCEw6ZGEl2kUVnK_kN7CK1e4HdQU9LqDgSXJCGg5-HQV6gg/formResponse" target="dummyframe" method="POST" id="form">
+<form action="https://docs.google.com/forms/u/0/d/e//formResponse" target="dummyframe" method="POST" id="form">
     <div id="formReqAnchor"></div>
     <span id="formReq" style="display: none;">Please answer all required questions.</span>
     <span id="emailReq" style="display: none;">Please enter a valid email.</span><br />

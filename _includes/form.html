@@ -40,10 +40,29 @@
     #form > h4:not(:first-of-type) {
         margin-top: 20px;
     }
+
+    .range-outer {
+        display: flex;
+        text-align: center;
+    }
+
+    .range-outer > div {
+        padding: 10px;
+    }
+
+    .range-outer > div:first-of-type,
+    .range-outer > div:last-of-type {
+        align-self: flex-end;
+        padding-bottom: 12px;
+    }
+
+    .range-label {
+        padding-bottom: 5px;
+    }
 </style>
 
 <iframe width="0" height="0" name="dummyframe" id="dummyframe"></iframe>
-<form action="{{ form.link }}" target="dummyframe" method="POST" id="form">
+<form action="https://docs.google.com/forms/u/0/d/e/{{ form.id }}/formResponse" target="dummyframe" method="POST" id="form">
     <div id="formReqAnchor"></div>
     <span id="formReq" style="display: none;">Please answer all required questions.</span>
     <span id="emailReq" style="display: none;">Please enter a valid email.</span><br />
@@ -72,6 +91,39 @@
                 <input data-req="{{ item.req }}" type="email" autocomplete="off" name="emailAddress" placeholder="{{ item.value }}" value="" dir="auto" />
             {% elsif item.type == "long" %}
                 <textarea data-req="{{ item.req }}" name="{{ item.id }}" rows="2" placeholder="{{ item.value }}"></textarea>
+            {% elsif item.type == "range" %}
+                <div class="range-outer">
+                    <div>
+                        <span>{{ item.min }}</span>
+                    </div>
+                    {% for val in item.values %}
+                        <div>
+                            <div class="range-label">
+                                <span>{{ val }}</span>
+                            </div>
+                            <div>
+                                {% if forloop.index == item.def %}
+                                    <input type="radio" name="{{ item.id }}" value="{{ val }}" checked />
+                                {% else %}
+                                    <input type="radio" name="{{ item.id }}" value="{{ val }}" />
+                                {% endif %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                    <div>
+                        <span>{{ item.max }}</span>
+                    </div>
+                </div>
+            {% elsif item.type == "checkbox" %}
+                <input type="hidden" name="{{ item.id }}_sentinel" value="" />
+                {% for val in item.values %}
+                    {% unless forloop.index == 1 %}
+                        <br />
+                    {% endunless %}
+                    <label>
+                        <input type="checkbox" name="{{ item.id }}" value="{{ val }}" /> {{ val }}
+                    </label>
+                {% endfor %}
             {% endif %}
         </div>
     {% endfor %}

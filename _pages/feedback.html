@@ -4,3 +4,6 @@ title: Help Us Improve!
 permalink: /feedback/
 title_text: If you've got any feedback from our events, let us know!
 ---
+{% assign form = site.data.forms.feedback %}
+{% assign success = "Thank you for your feedback!" %}
+{% include form.html %}

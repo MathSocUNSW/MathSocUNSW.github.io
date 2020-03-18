@@ -211,6 +211,288 @@
 					</p>
 					
 					
+
+<style>
+    #dummyframe {
+        display: none;
+    }
+
+    #form > div {
+        margin-left: 10px;
+    }
+
+    input[type=text],
+    input[type=email],
+    textarea {
+        border-radius: 0;
+        border-width: 0 0 1px;
+        border-color: black;
+        background-color: transparent;
+        min-width: 250px;
+        font-size: 16px;
+        line-height: 1.15;
+    }
+
+    #formReqAnchor {
+        width: 0;
+        height: 0;
+        position: relative;
+        top: -100px;
+    }
+
+    #formReq,
+    #emailReq,
+    .reqNotif {
+        color: red;
+    }
+
+    textarea{  
+        display: block;
+        overflow: hidden;
+    }
+
+    #form > h4:not(:first-of-type) {
+        margin-top: 20px;
+    }
+
+    .range-outer {
+        display: flex;
+        text-align: center;
+    }
+
+    .range-outer > div {
+        padding: 10px;
+    }
+
+    .range-outer > div:first-of-type,
+    .range-outer > div:last-of-type {
+        align-self: flex-end;
+        padding-bottom: 12px;
+    }
+
+    .range-label {
+        padding-bottom: 5px;
+    }
+</style>
+
+<iframe width="0" height="0" name="dummyframe" id="dummyframe"></iframe>
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSesgiNkWCWiBVuVHT6hyAvODv8BlgrMZ5pETbWwGUZkLYEcJQ/formResponse" target="dummyframe" method="POST" id="form">
+    <div id="formReqAnchor"></div>
+    <span id="formReq" style="display: none;">Please answer all required questions.</span>
+    <span id="emailReq" style="display: none;">Please enter a valid email.</span><br />
+    
+        <h4>How would you rate your experience at this event? <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                <div class="range-outer">
+                    <div>
+                        <span>Poor</span>
+                    </div>
+                    
+                        <div>
+                            <div class="range-label">
+                                <span>1</span>
+                            </div>
+                            <div>
+                                
+                                    <input type="radio" name="entry.96261411" value="1" />
+                                
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div class="range-label">
+                                <span>2</span>
+                            </div>
+                            <div>
+                                
+                                    <input type="radio" name="entry.96261411" value="2" />
+                                
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div class="range-label">
+                                <span>3</span>
+                            </div>
+                            <div>
+                                
+                                    <input type="radio" name="entry.96261411" value="3" checked />
+                                
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div class="range-label">
+                                <span>4</span>
+                            </div>
+                            <div>
+                                
+                                    <input type="radio" name="entry.96261411" value="4" />
+                                
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div class="range-label">
+                                <span>5</span>
+                            </div>
+                            <div>
+                                
+                                    <input type="radio" name="entry.96261411" value="5" />
+                                
+                            </div>
+                        </div>
+                    
+                    <div>
+                        <span>Amazing</span>
+                    </div>
+                </div>
+            
+        </div>
+    
+        <h4>What did you find the most enjoyable at this event? What did you dislike about the event? </h4>
+        <div>
+            
+            
+                <input data-req="" type="text" autocomplete="off" name="entry.1098404996" placeholder="Your answer" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>How do you think we could improve this event? Is there anything in particular you would like to see in future events? </h4>
+        <div>
+            
+            
+                <input data-req="" type="text" autocomplete="off" name="entry.1416787724" placeholder="Your answer" value="" dir="auto" />
+            
+        </div>
+    
+        <h4>Would you like to see this event again next year? <span class="reqNotif">*</span></h4>
+        <div>
+            
+            
+                
+                    
+                    <label>
+                        
+                            <input type="radio" name="entry.1869308410" value="Yes" checked /> Yes
+                        
+                    </label>
+                
+                    
+                        <br />
+                    
+                    <label>
+                        
+                            <input type="radio" name="entry.1869308410" value="No" /> No
+                        
+                    </label>
+                
+            
+        </div>
+    
+        <h4>Which event(s) would you like to see next? </h4>
+        <div>
+            
+            
+                <input type="hidden" name="entry.1715031549_sentinel" value="" />
+                
+                    
+                    <label>
+                        <input type="checkbox" name="entry.1715031549" value="Bowling Night" /> Bowling Night
+                    </label>
+                
+                    
+                        <br />
+                    
+                    <label>
+                        <input type="checkbox" name="entry.1715031549" value="Zetamac Competition" /> Zetamac Competition
+                    </label>
+                
+                    
+                        <br />
+                    
+                    <label>
+                        <input type="checkbox" name="entry.1715031549" value="Mathsoc Goes Hiking" /> Mathsoc Goes Hiking
+                    </label>
+                
+                    
+                        <br />
+                    
+                    <label>
+                        <input type="checkbox" name="entry.1715031549" value="Yoga Session" /> Yoga Session
+                    </label>
+                
+            
+        </div>
+    
+    <br />
+    <input type="button" value="Submit" id="submitBtn" />
+</form>
+<div id="success" style="display: none;">
+    Thank you for your feedback!
+</div>
+<script>
+    const eById = (v => document.getElementById(v));
+    const req = eById('form').querySelectorAll('[data-req=true]');
+
+    eById('submitBtn').addEventListener('click', (e) => {
+        eById('formReq').style.display = 'none';
+        eById('emailReq').style.display = 'none';
+        let valid = true;
+        req.forEach((e) => {
+            if (e.value.trim() == '')
+                valid = false;
+        });
+        if (!valid) {
+            eById('formReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('form').querySelectorAll('input[type=email]').forEach((e) => {
+            const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            if (!re.test(e.value))
+                valid = false;
+        });
+        if (!valid) {
+            eById('emailReq').style.display = 'block';
+            eById('formReqAnchor').scrollIntoView();
+            e.preventDefault();
+            return false;
+        }
+        eById('dummyframe').onload = () => {
+            eById('dummyframe').src = '';
+            eById('form').reset();
+            eById('success').style.display = 'block';
+            eById('form').style.display = 'none';
+        }
+        eById('form').submit();
+        e.preventDefault();
+        return false;
+    });
+
+    eById('form').querySelectorAll('textarea').forEach((el) => {
+        el.addEventListener('focus', (e) => {
+            e = e.target;
+            if (e.getAttribute('data-init') !== 'true')
+                e.setAttribute('data-init', 'true');
+            else
+                return false;
+            const val = e.value;
+            e.value = '';
+            e.baseScrollHeight = e.scrollHeight;
+            e.value = val;
+            console.log('a');
+        });
+        el.addEventListener('input', (e) => {
+            e = e.target;
+            e.rows = 2;
+            e.rows = 2 + Math.ceil((e.scrollHeight - e.baseScrollHeight) / 18);
+        });
+    });
+</script>
 				</div>
 			</div>
 			<!-- here -->
