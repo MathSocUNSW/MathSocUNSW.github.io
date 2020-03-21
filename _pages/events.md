@@ -13,6 +13,12 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 <br>
 <div class="flex-container">
+</div>
+_____________________   
+
+### Past Events
+<br>
+<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/latex_workshop_2020.jpg">
         <div>
@@ -21,7 +27,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <hr />
             Date: 20<sup>th</sup> March <br />
             Time: 4:00PM - 6:00PM <br />
-            Location: J17 Ainsworth Level 5 Design Studio <br />
+            Location: Streamed Online <br />
             </p>
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/128594621919952/">More Info</a>
         </div>
@@ -39,12 +45,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/211918543331219/">More Info</a>
         </div>
     </div>
-</div>
-_____________________   
-
-### Past Events
-<br>
-<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/pi_day_2020.jpg">
         <div>

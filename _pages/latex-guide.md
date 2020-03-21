@@ -8,6 +8,10 @@ LaTeX is essentially treated as an efficient, neat and effective means of typese
 
 ---
 
+In 2020, MathSoc teamed up with CSESoc to present a LaTeX seminar online. Thanks to Nicholas Berridge-Argent for presenting, and providing the resources [here]({{site.url}}/assets/files/2020_LaTeX_Seminar.zip)! A recording of the seminar can be found on YouTube [here](https://www.youtube.com/watch?v=YHbjvbkAVf8).
+
+---
+
 Our Education Director in 2019, Rui Tong, compiled an Introduction to LaTeX guide to help many users start off with the software and commands. Although it is intended for introductory means, it was designed to provide as much of the basics as required for generic use as well.
 
 The guide can be found [<span style="color:#F94DF3">here</span>]({{ site.url }}/assets/files/2019_MathSoc_LaTeX_Guide.pdf)

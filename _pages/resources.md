@@ -9,7 +9,7 @@ Have a look at:
 
  - [First Year Exam Bank]({{ site.url }}/resources/first-year-exam-bank/)   
  - [Revision Lectures]({{ site.url }}/resources/revision-lectures/)
- - [LaTeX Guide]({{ site.url }}/resources/latex-guide/)
+ - [LaTeX Guide/Seminar]({{ site.url }}/resources/latex-guide/)
  - [MATLAB Guide]({{ site.url }}/resources/matlab-guide/)
  - [Careers Advice]({{ site.url }}/resources/careers-advice/)
  - [HSC Tips and Tricks]({{ site.url }}/assets/files/Tips-and-Tricks-booklet-2019.pdf)
