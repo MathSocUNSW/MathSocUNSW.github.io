@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Meet the Team
-permalink: /about/team/
-title_text: The 2020 Team of the UNSW Mathematics Society
+title: Executives and Directors
+permalink: /about/masteruwuers/
+title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
 ---
 <!-- TODO descriptions, formatting -->
 
 <h4>The Executive Body</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JamesG.jpg">
         </div>
         <div class="vertical-container">
         <h5>James Gao - President</h5>
@@ -18,7 +18,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/YusephM.jpg">
         </div>
         <div class="vertical-container">
         <h5>Yuseph Ma - Vice President</h5>
@@ -26,7 +26,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GraceL.jpg">
         </div>
         <div class="vertical-container">
         <h5>Grace Li - Secretary</h5>
@@ -34,7 +34,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/RuiT.jpg">
         </div>
         <div class="vertical-container">
         <h5>Rui Tong - Treasurer</h5>
@@ -54,7 +54,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
 <h4>The Board of Directors</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/AbdellahI.jpg">
         </div>
         <div class="vertical-container">
         <h5>Abdellah Islam - Education Director</h5>
@@ -62,7 +62,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/AlexZ.png">
         </div>
         <div class="vertical-container">
         <h5>Alex Zhu - Education Director</h5>
@@ -70,7 +70,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GeraldH.jpg">
         </div>
         <div class="vertical-container">
         <h5>Gerald Huang - Education Director</h5>
@@ -78,7 +78,15 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/EthanB.png">
+        </div>
+        <div class="vertical-container">
+        <h5>Ethan Brown - IT Director</h5>
+            <p>Fourth Year Advanced Maths/Computer Science student with Pure/AI major. I like frogs almost as much as I like maths. Ribbit.</p>
+        </div>
+	</div>
+    <div class="horizontal-container">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/LaurenW.PNG">
         </div>
         <div class="vertical-container">
         <h5>Lauren Wu - Events (Corporate) Director</h5>
@@ -86,7 +94,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/WinstonS.jpg">
         </div>
         <div class="vertical-container">
         <h5>Winston Sun - Events (Corporate) Director</h5>
@@ -118,7 +126,7 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         </div>
 	</div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/IsabellaF.jpg">
         </div>
         <div class="vertical-container">
         <h5>Isabella Falanga - Marketing Director</h5>
@@ -139,14 +147,6 @@ title_text: The 2020 Team of the UNSW Mathematics Society
         <div class="vertical-container">
         <h5>Nancy Yu - Sponsorship Director</h5>
             <p>Comm/actl student who’s mastered the art of sleeping anytime anywhere. Not sure if I should be proud or worried...</p>
-        </div>
-	</div>
-    <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
-        </div>
-        <div class="vertical-container">
-        <h5>Ethan Brown - IT Director</h5>
-            <p>Fourth Year Advanced Maths/Computer Science student with Pure/AI major. I like frogs almost as much as I like maths. Ribbit.</p>
         </div>
 	</div>
 </section>
