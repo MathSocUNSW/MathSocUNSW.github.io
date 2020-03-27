@@ -118,7 +118,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/CelesteT.png">
         </div>
         <div class="vertical-container">
         <h5>Celeste Thomson - Marketing Director</h5>
