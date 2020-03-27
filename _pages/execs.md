@@ -42,7 +42,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JasonZ.png">
         </div>
         <div class="vertical-container">
         <h5>Jason Zhao - Arc Delegate</h5>
@@ -102,7 +102,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/PhiltonZ.png">
         </div>
         <div class="vertical-container">
         <h5>Philton Zhu - Events (Social) Director</h5>
@@ -134,7 +134,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
         </div>
 	</div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/ChrisW.png">
         </div>
         <div class="vertical-container">
         <h5>Chris Wu - Sponsorship Director</h5>
@@ -142,7 +142,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
         </div>
 	</div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/NancyY.png">
         </div>
         <div class="vertical-container">
         <h5>Nancy Yu - Sponsorship Director</h5>
