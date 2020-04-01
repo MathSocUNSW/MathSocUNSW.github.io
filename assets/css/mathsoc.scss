@@ -6,7 +6,7 @@
 @import "footer";
 
 .mathsoc-body {
-	background: rgba(255,255,255,0.2);
+	background: rgba(255,255,255,0.8);
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
 }
 
@@ -49,7 +49,7 @@
 }
 
 .sponsor-container {
-	background-color: rgb(255, 218, 233);
+	background-color: #eeeeee;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -70,7 +70,7 @@
 }
 
 .sponsor-container-wrapper {
-	background: rgb(255, 218, 233);
+	background: #eeeeee;
 	padding: 50px 50px 50px 50px;
 }
 
@@ -89,13 +89,11 @@
 	object-fit: contain;
 	height: 70%;
 	width: 70%;	
-	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .5), inset 0 -1px 0 rgba(0, 0, 0, .3);
 }
 
 .logo-container {
 	display: flex;
 	justify-content: center;
-	padding-bottom: 20px;
 	// object-fit: contain;
 }
 
@@ -105,7 +103,7 @@
 	flex-wrap: wrap;
 	font-size: 18px;
 	padding: 80px 200px 20px 200px;
-	background-color: rgb(253, 221, 230) !important;
+	background-color: aliceblue !important;
 }
 .upcoming-events > a {
 	padding-left: 20px;
@@ -168,7 +166,7 @@
   
   /* Style the back side */
   .flip-card-back {
-	background-color: rgb(253, 221, 230);
+	background-color: rgb(238, 238, 238);
 	color: rgb(0, 0, 0);
 	transform: rotateY(-180deg);
 	overflow-y: scroll;
@@ -191,19 +189,11 @@
 }
 
 .teamtable {
-	border: 1px solid #ddccda;
+	border: 1px solid #ccdddc;
 	border-spacing: 10em;
 	
 	th, td {
-		border: 1px solid #ccbbbf;
+		border: 1px solid #ddd;
 		padding: 5px;
 	}
-}
-
-.card-header {
-	background-color: rgb(245, 196, 213) !important;
-}
-
-.card-body {
-	background-color: rgb(255, 218, 233) !important;
 }
