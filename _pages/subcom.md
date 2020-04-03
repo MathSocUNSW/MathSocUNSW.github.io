@@ -5,7 +5,7 @@ permalink: /about/subcommunists/
 title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 ---
 
-<h4>The Education Subcommitte</h4>
+<h4>The Education Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
@@ -82,7 +82,7 @@ title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 </section>
 ----------------------------
 
-<h4>The Events (Corporate) Subcommitte</h4>
+<h4>The Events (Corporate) Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
@@ -127,7 +127,7 @@ title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 </section>
 ----------------------------
 
-<h4>The Events (Social) Subcommitte</h4>
+<h4>The Events (Social) Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
@@ -172,7 +172,7 @@ title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 </section>
 ----------------------------
 
-<h4>The HR Subcommitte</h4>
+<h4>The HR Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
@@ -193,7 +193,7 @@ title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 </section>
 ----------------------------
 
-<h4>The Marketing Subcommitte</h4>
+<h4>The Marketing Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
@@ -246,7 +246,7 @@ title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 </section>
 ----------------------------
 
-<h4>The IT Subcommitte</h4>
+<h4>The IT Subcommittee</h4>
 <section class="flex-container">
     <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/logo.png">
