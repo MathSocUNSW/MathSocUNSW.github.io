@@ -14,32 +14,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/MATH2018_2019_Seminar_2020.jpg">
-        <div>
-            <p>
-            You may have learned how to differentiate yourself from other singles in your neighbourhood. Now it’s time to take it one step further and differentiate yourself from other multivariables in that same neighbourhood in this 2 x 2 hour crash course on all things MATH2018 AND MATH2019. You wouldn’t wish to miss it. Jk … unless? … ahaha <br />
-            We shall be streaming the event so be prepared to follow in the footsteps of Leibniz and Fourier.
-            <hr />
-            Part I (Partial differentiation, Extrema values, Vector field theory, Matrices): Apr 22, 2020 @ 6 - 8PM <br />
-            Part II (ODEs, Fourier series, Laplace transforms, PDEs): Apr 24, 2020 @ 2 - 4PM
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1503822743125310/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/MATH2011_2111_Seminar_2020.jpg">
-        <div>
-            <p>
-            If you’re taking MATH2011/2111 and want to maximise your study, MathSoc’s Revision Seminar will Lagrange multiply your WAM onto the right path. <br />
-            Join us for a couple 2 hour crash courses on the two sections of the course, where our math gods present the essential content you’ll need to smash that final! Our revision seminars are online this term so you can watch from the comfort of your home. Stay tuned for a link to our stream closer to the date.
-            <hr />
-            PART I: Thursday 23rd of April, 4 PM - 6 PM <br />
-            PART II: Friday 24th of April, 10 AM - 12 PM
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/631645297681143/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH1081_Seminar_2020.jpg">
         <div>
             <p>
@@ -73,6 +47,32 @@ _____________________
 ### Past Events
 <br>
 <div class="flex-container">
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH2018_2019_Seminar_2020.jpg">
+        <div>
+            <p>
+            You may have learned how to differentiate yourself from other singles in your neighbourhood. Now it’s time to take it one step further and differentiate yourself from other multivariables in that same neighbourhood in this 2 x 2 hour crash course on all things MATH2018 AND MATH2019. You wouldn’t wish to miss it. Jk … unless? … ahaha <br />
+            We shall be streaming the event so be prepared to follow in the footsteps of Leibniz and Fourier.
+            <hr />
+            Part I (Partial differentiation, Extrema values, Vector field theory, Matrices): Apr 22, 2020 @ 6 - 8PM <br />
+            Part II (ODEs, Fourier series, Laplace transforms, PDEs): Apr 24, 2020 @ 2 - 4PM
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1503822743125310/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/MATH2011_2111_Seminar_2020.jpg">
+        <div>
+            <p>
+            If you’re taking MATH2011/2111 and want to maximise your study, MathSoc’s Revision Seminar will Lagrange multiply your WAM onto the right path. <br />
+            Join us for a couple 2 hour crash courses on the two sections of the course, where our math gods present the essential content you’ll need to smash that final! Our revision seminars are online this term so you can watch from the comfort of your home. Stay tuned for a link to our stream closer to the date.
+            <hr />
+            PART I: Thursday 23rd of April, 4 PM - 6 PM <br />
+            PART II: Friday 24th of April, 10 AM - 12 PM
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/631645297681143/">More Info</a>
+        </div>
+    </div>
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/latex_workshop_2020.jpg">
         <div>
