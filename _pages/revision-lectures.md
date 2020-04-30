@@ -13,13 +13,19 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 ##### 2020T1 MATH2011/2111 Revision Seminar Slides 
 
-[Differential Calculus]({{ site.url }}/assets/revision/MATH2011_Differential_Calculus.pdf)
+[Differential Calculus]({{ site.url }}/assets/revision/MATH2011_Differential_Calculus.pdf) (Updated 30/04/2020)
 
 [Integral Calculus]({{ site.url }}/assets/revision/MATH2011_Integral_Calculus.pdf)
 
 [Vector Calculus]({{ site.url }}/assets/revision/MATH2011_Vector_Calculus.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/Vector_Calculus_Solutions.pdf)
 
 [Analysis (MATH2111)]({{ site.url }}/assets/revision/MATH2111_Analysis_of_Rn.pdf)
+
+##### 2020T1 MATH2018/2019 Revision Seminar Slides
+
+[Seminar 1/2]({{ site.url }}/assets/revision/MATH20189_Seminar_1.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH20189_Seminar_1_Solutions.pdf)
+
+[Seminar 2/2]({{ site.url }}/assets/revision/MATH20189_Seminar_2.pdf) [<span style="color:#F94DF3"> (Solutions)</span>]({{ site.url }}/assets/revision/MATH20189_Seminar_2_Solutions.pdf)
 
 ##### 2019T3 MATH1131/1141 Final Exam Workshop Handout/Slides 
 
