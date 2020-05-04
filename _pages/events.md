@@ -13,6 +13,13 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 <br>
 <div class="flex-container">
+    
+</div>
+_____________________   
+
+### Past Events
+<br>
+<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH1081_Seminar_2020.jpg">
         <div>
@@ -41,12 +48,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/2565591930322551/">More Info</a>
         </div>
     </div>
-</div>
-_____________________   
-
-### Past Events
-<br>
-<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH2018_2019_Seminar_2020.jpg">
         <div>
