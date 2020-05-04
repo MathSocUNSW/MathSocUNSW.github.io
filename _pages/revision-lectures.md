@@ -266,6 +266,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                         <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_1_Solutions.pdf">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
+						<span> (Updated 5/05/2020)</span>
 					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2.pdf">
@@ -274,6 +275,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                         <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2_Solutions.pdf">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
+						<span> (Updated 5/05/2020)</span>
 					</li>
                 </ul>
 			</div>
