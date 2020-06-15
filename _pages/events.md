@@ -13,9 +13,56 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 <br>
 <div class="flex-container">
-    
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/games_night_2020_t2.jpg">
+        <div>
+            <p>
+            Start of term already getting you down?<br />
+            Miss being able to see and make new friends at uni?<br />
+            Mathsoc has got you covered with our Online Games Night where you’ll be able to make (and destroy) relationships playing UNO, Coup and skribbl.io!!<br />
+            Join us on our discord server for a fun night with friends and backstabbers
+            <hr />
+            Date: Sunday 21th June<br />
+            Time: 4 - 8pm<br />
+            Where: Discord!! <a href="https://discord.gg/Y7FFXxh">https://discord.gg/Y7FFXxh</a>
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/904908936644303/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/fmaa_stem_pathways_2020.jpg">
+        <div>
+            <p>
+            Are you a STEM (Science, Technology, Engineering or Maths) student unsure about what career pathway to take after uni? Or are you considering an exciting career in business and would like to learn more about the opportunities available?<br />
+            The FMAA invites you to the 2020 STEM Alternate Pathways Webinar, presented in association with EngSoc, WiT, CSESoc, SciSoc, and MathSoc from the University of New South Wales, and, Syncs, SUCE, COMM-STEM and MUGS from the University of Sydney!<br />
+            The webinar will feature a panel discussion with STEM background representatives from Australia’s leading firms across diverse industries, including management consulting, financial services and professional services. This is followed by a live Q&A session where you will be able to ask your burning questions tailored to your interests.
+            <hr />
+            Date: Wednesday, 24th June 2020 <br />
+            Time: 5:45pm - 7:00pm<br />
+            Where: Virtual / Zoom
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/245325403197175/">More Info</a>
+        </div>
+    </div>
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/Latex_workshop_2020_t2.jpg">
+        <div>
+            <p>
+            CSESoc is teaming up with MathSoc to bring you the answers to all your LaTeX questions. Nicholas Berridge-Argent (CSE tutor and MathSoc IT subcommittee member) will be presenting so you can be sure this will be an event you don't want to miss!<br />
+            LaTeX is a writing tool heavily used in mathematics and computer science and great for students enrolled in:
+            <ul>
+                <li>ALL MATH courses</li>
+                <li>COMP3121/COMP9101</li>
+            </ul>
+            <hr />
+            WHEN: 5-7pm Thursday, 2 July (Week 5)<br />
+            WHERE: Livestreamed on Youtube
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/342206156759959/">More Info</a>
+        </div>
+    </div>
 </div>
-_____________________   
+_____________________  
 
 ### Past Events
 <br>
