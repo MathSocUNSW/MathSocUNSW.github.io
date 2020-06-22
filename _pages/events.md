@@ -14,22 +14,6 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
     <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/games_night_2020_t2.jpg">
-        <div>
-            <p>
-            Start of term already getting you down?<br />
-            Miss being able to see and make new friends at uni?<br />
-            Mathsoc has got you covered with our Online Games Night where you’ll be able to make (and destroy) relationships playing UNO, Coup and skribbl.io!!<br />
-            Join us on our discord server for a fun night with friends and backstabbers
-            <hr />
-            Date: Sunday 21th June<br />
-            Time: 4 - 8pm<br />
-            Where: Discord!! <a href="https://discord.gg/Y7FFXxh">https://discord.gg/Y7FFXxh</a>
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/904908936644303/">More Info</a>
-        </div>
-    </div>
-    <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/fmaa_stem_pathways_2020.jpg">
         <div>
             <p>
@@ -67,6 +51,22 @@ _____________________
 ### Past Events
 <br>
 <div class="flex-container">
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/games_night_2020_t2.jpg">
+        <div>
+            <p>
+            Start of term already getting you down?<br />
+            Miss being able to see and make new friends at uni?<br />
+            Mathsoc has got you covered with our Online Games Night where you’ll be able to make (and destroy) relationships playing UNO, Coup and skribbl.io!!<br />
+            Join us on our discord server for a fun night with friends and backstabbers
+            <hr />
+            Date: Sunday 21<sup>st</sup> June<br />
+            Time: 4 - 8pm<br />
+            Where: Discord!! <a href="https://discord.gg/Y7FFXxh">https://discord.gg/Y7FFXxh</a>
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/904908936644303/">More Info</a>
+        </div>
+    </div>
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/MATH1081_Seminar_2020.jpg">
         <div>
