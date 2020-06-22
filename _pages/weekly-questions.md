@@ -13,12 +13,12 @@ Prizes are determined by most number of points by the end of each 4 weeks. First
 
 Good luck to everyone, and we looking forward to seeing your creative responses!
 
-<h2>Week 1</h2>
+<h2>Week 2</h2>
 Due by Saturday 27<sup>th</sup> June at 5pm.
 <h5>Easy Question</h5>
 <img src="{{ site.images }}/questions/week2e.png">
 <h5>Hard Question</h5>
-Kindly provided by Rui Tong.
+Kindly provided by Rui Tong.<br />
 <img src="{{ site.images }}/questions/week2h.png">
 
 <h2>Week 1</h2>
