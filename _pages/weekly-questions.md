@@ -13,6 +13,13 @@ Prizes are determined by most number of points by the end of each 4 weeks. First
 
 Good luck to everyone, and we looking forward to seeing your creative responses!
 
+<h2>Week 3</h2>
+Due by Saturday 4<sup>th</sup> July at 5pm.
+<h5>Easy Question</h5>
+<img src="{{ site.images }}/questions/week3e.png">
+<h5>Hard Question</h5>
+<img src="{{ site.images }}/questions/week3h.png">
+
 <h2>Week 2</h2>
 Due by Saturday 27<sup>th</sup> June at 5pm.
 <h5>Easy Question</h5>
