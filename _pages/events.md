@@ -13,21 +13,12 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 
 <br>
 <div class="flex-container">
-    <div class="events-containerh">
-        <img class="events-pic" src="{{ site.images }}/Events/fmaa_stem_pathways_2020.jpg">
-        <div>
-            <p>
-            Are you a STEM (Science, Technology, Engineering or Maths) student unsure about what career pathway to take after uni? Or are you considering an exciting career in business and would like to learn more about the opportunities available?<br />
-            The FMAA invites you to the 2020 STEM Alternate Pathways Webinar, presented in association with EngSoc, WiT, CSESoc, SciSoc, and MathSoc from the University of New South Wales, and, Syncs, SUCE, COMM-STEM and MUGS from the University of Sydney!<br />
-            The webinar will feature a panel discussion with STEM background representatives from Australia’s leading firms across diverse industries, including management consulting, financial services and professional services. This is followed by a live Q&A session where you will be able to ask your burning questions tailored to your interests.
-            <hr />
-            Date: Wednesday, 24th June 2020 <br />
-            Time: 5:45pm - 7:00pm<br />
-            Where: Virtual / Zoom
-            </p>
-            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/245325403197175/">More Info</a>
-        </div>
-    </div>
+</div>
+_____________________  
+
+### Past Events
+<br>
+<div class="flex-container">
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/Latex_workshop_2020_t2.jpg">
         <div>
@@ -45,12 +36,21 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/342206156759959/">More Info</a>
         </div>
     </div>
-</div>
-_____________________  
-
-### Past Events
-<br>
-<div class="flex-container">
+    <div class="events-containerh">
+        <img class="events-pic" src="{{ site.images }}/Events/fmaa_stem_pathways_2020.jpg">
+        <div>
+            <p>
+            Are you a STEM (Science, Technology, Engineering or Maths) student unsure about what career pathway to take after uni? Or are you considering an exciting career in business and would like to learn more about the opportunities available?<br />
+            The FMAA invites you to the 2020 STEM Alternate Pathways Webinar, presented in association with EngSoc, WiT, CSESoc, SciSoc, and MathSoc from the University of New South Wales, and, Syncs, SUCE, COMM-STEM and MUGS from the University of Sydney!<br />
+            The webinar will feature a panel discussion with STEM background representatives from Australia’s leading firms across diverse industries, including management consulting, financial services and professional services. This is followed by a live Q&A session where you will be able to ask your burning questions tailored to your interests.
+            <hr />
+            Date: Wednesday, 24th June 2020 <br />
+            Time: 5:45pm - 7:00pm<br />
+            Where: Virtual / Zoom
+            </p>
+            <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/245325403197175/">More Info</a>
+        </div>
+    </div>
     <div class="events-containerh">
         <img class="events-pic" src="{{ site.images }}/Events/games_night_2020_t2.jpg">
         <div>
