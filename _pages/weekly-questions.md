@@ -16,9 +16,11 @@ Good luck to everyone, and we looking forward to seeing your creative responses!
 <h2>Week 3</h2>
 Due by Saturday 4<sup>th</sup> July at 5pm.
 <h4>Easy Question</h4>
-<img src="{{ site.images }}/questions/week3e.png" />
+<img src="{{ site.images }}/questions/week3e.png" /><br />
+<a href="{{ site.url }}/assets/teasers/week3e.pdf" target="_blank">Solution</a> - submitted by @Lewdoki
 <h4>Hard Question</h4>
-<img src="{{ site.images }}/questions/week3h.png" />
+<img src="{{ site.images }}/questions/week3h.png" /><br />
+<a href="{{ site.url }}/assets/teasers/week3h.pdf" target="_blank">Solution</a> - submitted by James Davidson
 <br /><br />
 <h2>Week 2</h2>
 Due by Saturday 27<sup>th</sup> June at 5pm.
