@@ -13,14 +13,21 @@ Prizes are determined by most number of points by the end of each 4 weeks. First
 
 Good luck to everyone, and we looking forward to seeing your creative responses!
 
-<h2>Week 4</h2>
+<h2>Round 2 Week 1</h2>
+Due by Saturday 18<sup>th</sup> July at 5pm.
+<h4>Easy Question</h4>
+<img src="{{ site.images }}/questions/week5e.png" />
+<h4>Hard Question</h4>
+<img src="{{ site.images }}/questions/week5h.png" />
+<hr />
+<h2>Round 1 Week 4</h2>
 Due by Saturday 11<sup>th</sup> July at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week4e.png" />
 <h4>Hard Question</h4>
 <img src="{{ site.images }}/questions/week4h.png" />
 <br /><br />
-<h2>Week 3</h2>
+<h2>Round 1 Week 3</h2>
 Due by Saturday 4<sup>th</sup> July at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week3e.png" /><br />
@@ -29,7 +36,7 @@ Due by Saturday 4<sup>th</sup> July at 5pm.
 <img src="{{ site.images }}/questions/week3h.png" /><br />
 <a href="{{ site.url }}/assets/teasers/week3h.pdf" target="_blank">Solution</a> - submitted by James Davidson
 <br /><br />
-<h2>Week 2</h2>
+<h2>Round 1 Week 2</h2>
 Due by Saturday 27<sup>th</sup> June at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week2e.png" /><br />
@@ -39,7 +46,7 @@ Kindly provided by Rui Tong.<br />
 <img src="{{ site.images }}/questions/week2h.png" /><br />
 <a href="{{ site.url }}/assets/teasers/week2h.pdf" target="_blank">Solution</a> - submitted by @~~~
 <br /><br />
-<h2>Week 1</h2>
+<h2>Round 1 Week 1</h2>
 Due by Saturday 20<sup>th</sup> June at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week1e.png" /><br />
