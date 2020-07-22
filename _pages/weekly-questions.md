@@ -25,7 +25,8 @@ Due by Saturday 11<sup>th</sup> July at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week4e.png" />
 <h4>Hard Question</h4>
-<img src="{{ site.images }}/questions/week4h.png" />
+<img src="{{ site.images }}/questions/week4h.png" /><br />
+<a href="{{ site.url }}/assets/teasers/week4h.pdf" target="_blank">Solution</a> - submitted by Anonymous
 <br /><br />
 <h2>Round 1 Week 3</h2>
 Due by Saturday 4<sup>th</sup> July at 5pm.
