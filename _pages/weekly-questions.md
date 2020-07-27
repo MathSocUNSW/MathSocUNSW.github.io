@@ -13,12 +13,28 @@ Prizes are determined by most number of points by the end of each 4 weeks. First
 
 Good luck to everyone, and we looking forward to seeing your creative responses!
 
+<h2>Round 2 Week 3</h2>
+Due by Saturday 1<sup>st</sup> August at 5pm.
+<h4>Easy Question</h4>
+<img src="{{ site.images }}/questions/week7e.png" />
+<h4>Hard Question</h4>
+<img src="{{ site.images }}/questions/week7h.png" />
+<br /><br />
+<h2>Round 2 Week 2</h2>
+Due by Saturday 25<sup>th</sup> July at 5pm.
+<h4>Easy Question</h4>
+<img src="{{ site.images }}/questions/week6e.png" />
+<h4>Hard Question</h4>
+<img src="{{ site.images }}/questions/week6h.png" /><br />
+<a href="{{ site.url }}/assets/teasers/week6h.pdf" target="_blank">Solution</a> - submitted by Sarthak Sahoo
+<br /><br />
 <h2>Round 2 Week 1</h2>
 Due by Saturday 18<sup>th</sup> July at 5pm.
 <h4>Easy Question</h4>
 <img src="{{ site.images }}/questions/week5e.png" />
 <h4>Hard Question</h4>
-<img src="{{ site.images }}/questions/week5h.png" />
+<img src="{{ site.images }}/questions/week5h.png" /><br />
+<a href="{{ site.url }}/assets/teasers/week5h.pdf" target="_blank">Solution</a> - submitted by Sarthak Sahoo
 <hr />
 <h2>Round 1 Week 4</h2>
 Due by Saturday 11<sup>th</sup> July at 5pm.
