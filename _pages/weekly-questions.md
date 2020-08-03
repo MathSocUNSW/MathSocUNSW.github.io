@@ -19,10 +19,9 @@ Due by Saturday 8<sup>th</sup> August at 5pm.
 <img src="{{ site.images }}/questions/week8e.png" />
 <h4>Hard Questions</h4>
 Choose one of the following:
-<ol>
-    <li><img src="{{ site.images }}/questions/week8h1.png" /></li>
-    <li><img src="{{ site.images }}/questions/week8h2.png" /></li>
-</ol>
+<img src="{{ site.images }}/questions/week8h1.png" /><br />
+OR<br />
+<img src="{{ site.images }}/questions/week8h2.png" />
 <br /><br />
 <h2>Round 2 Week 3</h2>
 Due by Saturday 1<sup>st</sup> August at 5pm.
