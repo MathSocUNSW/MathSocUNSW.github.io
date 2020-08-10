@@ -308,6 +308,32 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 	<div class="card">
 		<div class="card-header">
 			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse2089">
+					MATH2089 - Numerical Methods and Statistics
+				</a>
+			</h5>
+		</div>
+		<div id="collapse2089" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <h5>2020T2 MATH2089 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_Numerical_Methods_Slides.pdf">
+							Numerical Methods
+						</a>
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_2099_2859_CVEN2002_Statistics_Slides.pdf">
+							Statistics (Common to MATH2099/MATH2859/CVEN2002)
+						</a>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
 				<a data-toggle="collapse" href="#collapse25601">
 					MATH2501/2601 - Linear Algebra
 				</a>
