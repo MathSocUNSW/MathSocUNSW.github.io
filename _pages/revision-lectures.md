@@ -246,12 +246,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_1.pdf">
-							Differential Calculus/Multiple Integrals (Seminar 1)
+							Differential Calculus/Multiple Integrals (Seminar 1/2)
 						</a>
 					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_2.pdf">
-							Vector Calculus/Analysis (Seminar 2)
+							Vector Calculus/Analysis (Seminar 2/2)
 						</a>
 					</li>
 					<li>
@@ -358,11 +358,29 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse25601" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+				<h5>2020T2 MATH2501/2601 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_1.pdf">
+							Seminar 1/2
+						</a>
+					</li>
+					<!-- <li>
+						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf">
+							Seminar 2/2
+						</a>
+					</li>
+					<li>
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Supplement_Solutions.pdf">
+                            <span style="color:#F94DF3">Abstract Algebra Supplement Solutions</span>
+                        </a>
+					</li> -->
+                </ul>
                 <h5>2019T2 MATH2501/2601 Revision Seminar</h5>
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1.pdf">
-							Part 1
+							Seminar 1/2
 						</a>
                         <a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1_Solutions.pdf">
                             <span style="color:#F94DF3"> (Part 1 Solutions)</span>
@@ -370,7 +388,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf">
-							Part 2
+							Seminar 2/2
 						</a>
 					</li>
 					<li>
