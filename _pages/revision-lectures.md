@@ -326,7 +326,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 						<a href="{{ site.url }}/assets/revision/2020/MATH2089_2099_2859_CVEN2002_Statistics_Slides.pdf">
 							Statistics
 						</a>
-						<span> (Common to MATH2099/MATH2859/CVEN2002)</span>
+						<span> (Common to MATH2099/MATH2859/CVEN2002) (Updated 11/08/2020)</span>
 					</li>
                 </ul>
 			</div>
