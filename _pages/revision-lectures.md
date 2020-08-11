@@ -434,6 +434,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 ---
 
 
+##### 2020 Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Gerald Huang, Abdellah Islam and Alex Zhu
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Kabir Agrawal, Henry Lam, Raymond Li, Joanna Lin, Shayekh Rouf, Rishabh Singh, Donald Tang, Karen Zhang, Gorden Zhuang
+
 ##### 2019 Team
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** James Gao and Rui Tong
