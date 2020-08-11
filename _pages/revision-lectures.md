@@ -311,7 +311,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
-							Seminar 1/1
+							Seminar 1/2
 						</a>
 					</li>
                 </ul>
