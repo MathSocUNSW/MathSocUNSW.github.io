@@ -300,38 +300,6 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 	<div class="card">
 		<div class="card-header">
 			<h5 class="mb-0">
-				<a data-toggle="collapse" href="#collapse21221">
-					MATH2121/2221 - Theory and Applications of Differential Equations
-				</a>
-			</h5>
-		</div>
-		<div id="collapse21221" class="collapse" data-parent="#accordion">
-			<div class="card-body">
-				<h5>2020T2 MATH2121/2221 Revision Seminar</h5>
-				<ul>
-					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
-							Seminar 1/2
-						</a>
-					</li>
-                </ul>
-                <h5>2019T2 MATH2121/2221 Revision Seminar</h5>
-				<ul>
-					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2121.pdf">
-							Differential Equations (all)
-						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2121_Solutions.pdf">
-                            <span style="color:#F94DF3"> (Part 1 Solutions)</span>
-                        </a>
-					</li>
-                </ul>
-			</div>
-		</div>
-	</div>
-	<div class="card">
-		<div class="card-header">
-			<h5 class="mb-0">
 				<a data-toggle="collapse" href="#collapse2089">
 					MATH2089 - Numerical Methods and Statistics
 				</a>
@@ -351,6 +319,43 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 							Statistics
 						</a>
 						<span> (Common to MATH2099/MATH2859/CVEN2002) (Updated 11/08/2020)</span>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse21221">
+					MATH2121/2221 - Theory and Applications of Differential Equations
+				</a>
+			</h5>
+		</div>
+		<div id="collapse21221" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+				<h5>2020T2 MATH2121/2221 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
+							Seminar 1/2
+						</a>
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_2.pdf">
+							Seminar 2/2
+						</a>
+					</li>
+                </ul>
+                <h5>2019T2 MATH2121/2221 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2019/MATH2121.pdf">
+							Differential Equations (all)
+						</a>
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2121_Solutions.pdf">
+                            <span style="color:#F94DF3"> (Part 1 Solutions)</span>
+                        </a>
 					</li>
                 </ul>
 			</div>
