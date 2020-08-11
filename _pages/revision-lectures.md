@@ -307,6 +307,14 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse21221" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+				<h5>2020T2 MATH2121/2221 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
+							Seminar 1/1
+						</a>
+					</li>
+                </ul>
                 <h5>2019T2 MATH2121/2221 Revision Seminar</h5>
 				<ul>
 					<li>
@@ -366,14 +374,9 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 						</a>
 					</li>
 					<!-- <li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_2.pdf">
 							Seminar 2/2
 						</a>
-					</li>
-					<li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Supplement_Solutions.pdf">
-                            <span style="color:#F94DF3">Abstract Algebra Supplement Solutions</span>
-                        </a>
 					</li> -->
                 </ul>
                 <h5>2019T2 MATH2501/2601 Revision Seminar</h5>
