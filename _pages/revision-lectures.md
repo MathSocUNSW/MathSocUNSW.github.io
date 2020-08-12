@@ -155,14 +155,11 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                             Algebra
                         </a>
                     </li>
-                    <!-- <li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus.pdf">
+                    <li>
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Calculus.pdf">
                             Calculus
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus_Solutions.pdf">
-                            <span style="color:#F94DF3"> (Part 1 Solutions)</span>
-                        </a>
-                    </li> -->
+                    </li>
                 </ul>
 				<h5>2019T2 MATH1231/1241 Revision Seminar</h5>
                 <ul>
