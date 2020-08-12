@@ -429,6 +429,28 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 			</div>
 		</div>
 	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse28901">
+					MATH2801/2901 - Theory of Statistics
+				</a>
+			</h5>
+		</div>
+		<div id="collapse28901" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <h5>2020T3 MATH2801 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
+							Theory of Statistics (all)
+						</a>
+						<span> (Collab with UNSW StatSoc)</span>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
 </div>
 
 <br>
