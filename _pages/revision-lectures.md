@@ -439,7 +439,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse28901" class="collapse" data-parent="#accordion">
 			<div class="card-body">
-                <h5>2020T3 MATH2801 Revision Seminar</h5>
+                <h5>2020T2 MATH2801 Revision Seminar</h5>
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
