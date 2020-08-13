@@ -439,22 +439,30 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse28901" class="collapse" data-parent="#accordion">
 			<div class="card-body">
-                <h5>2020T2 MATH2801 Revision Seminar</h5>
+                <!-- <h5>2020T2 MATH2801 Revision Seminar</h5> -->
+                <h5>2020T2 MATH2801 Revision Seminar (Collab with UNSW StatSoc)</h5>
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
 							Theory of Statistics (all)
 						</a>
-						<span> (Collab with UNSW StatSoc)</span>
+						<!-- <span> (Collab with UNSW StatSoc)</span> -->
 					</li>
                 </ul>
-				<h5>2020T2 MATH2901 Revision Seminar</h5>
+                <!-- <h5>2020T2 MATH2801 Revision Seminar</h5> -->
+                <h5>2020T2 MATH2901 Revision Seminar (Collab with UNSW StatSoc)</h5>
 				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_1.pdf">
+							Seminar 1/2
+						</a>
+						<!-- <span> (Collab with UNSW StatSoc)</span> -->
+					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_2.pdf">
 							Seminar 2/2
 						</a>
-						<span> (Collab with UNSW StatSoc)</span>
+						<!-- <span> (Collab with UNSW StatSoc)</span> -->
 					</li>
                 </ul>
 			</div>
