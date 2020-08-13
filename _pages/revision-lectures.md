@@ -448,6 +448,15 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 						<span> (Collab with UNSW StatSoc)</span>
 					</li>
                 </ul>
+				<h5>2020T2 MATH2901 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_2.pdf">
+							Seminar 2/2
+						</a>
+						<span> (Collab with UNSW StatSoc)</span>
+					</li>
+                </ul>
 			</div>
 		</div>
 	</div>
