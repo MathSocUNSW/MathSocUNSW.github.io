@@ -375,11 +375,11 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 							Seminar 1/2
 						</a>
 					</li>
-					<!-- <li>
+					<li>
 						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_2.pdf">
 							Seminar 2/2
 						</a>
-					</li> -->
+					</li>
                 </ul>
                 <h5>2019T2 MATH2501/2601 Revision Seminar</h5>
 				<ul>
