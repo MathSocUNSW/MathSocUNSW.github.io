@@ -446,7 +446,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
 							Theory of Statistics (all)
 						</a>
-						<!-- <span> (Collab with UNSW StatSoc)</span> -->
+						<span> (Updated 15/08/2020)</span>
 					</li>
                 </ul>
                 <!-- <h5>2020T2 MATH2801 Revision Seminar</h5> -->
