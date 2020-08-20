@@ -148,7 +148,20 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse12341" class="collapse" data-parent="#accordion">
 			<div class="card-body">
-                <h5>2019T2 MATH1231/1241 Revision Seminar</h5>
+                <h5>2020T2 MATH1231/1241 Revision Seminar</h5>
+                <ul>
+                    <li>
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Algebra.pdf">
+                            Algebra
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Calculus.pdf">
+                            Calculus
+                        </a>
+                    </li>
+                </ul>
+				<h5>2019T2 MATH1231/1241 Revision Seminar</h5>
                 <ul>
                     <li>
                         <a href="{{ site.url }}/assets/revision/2019/MATH1231_Algebra.pdf">
@@ -230,12 +243,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_1.pdf">
-							Differential Calculus/Multiple Integrals (Seminar 1)
+							Differential Calculus/Multiple Integrals (Seminar 1/2)
 						</a>
 					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_2.pdf">
-							Vector Calculus/Analysis (Seminar 2)
+							Vector Calculus/Analysis (Seminar 2/2)
 						</a>
 					</li>
 					<li>
@@ -284,6 +297,33 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 	<div class="card">
 		<div class="card-header">
 			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse2089">
+					MATH2089 - Numerical Methods and Statistics
+				</a>
+			</h5>
+		</div>
+		<div id="collapse2089" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <h5>2020T2 MATH2089 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_Numerical_Methods_Slides.pdf">
+							Numerical Methods
+						</a>
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_2099_2859_CVEN2002_Statistics_Slides.pdf">
+							Statistics
+						</a>
+						<span> (Common to MATH2099/MATH2859/CVEN2002) (Updated 11/08/2020)</span>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
 				<a data-toggle="collapse" href="#collapse21221">
 					MATH2121/2221 - Theory and Applications of Differential Equations
 				</a>
@@ -291,6 +331,19 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse21221" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+				<h5>2020T2 MATH2121/2221 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
+							Seminar 1/2
+						</a>
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_2.pdf">
+							Seminar 2/2
+						</a>
+					</li>
+                </ul>
                 <h5>2019T2 MATH2121/2221 Revision Seminar</h5>
 				<ul>
 					<li>
@@ -315,11 +368,24 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse25601" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+				<h5>2020T2 MATH2501/2601 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_1.pdf">
+							Seminar 1/2
+						</a>
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_2.pdf">
+							Seminar 2/2
+						</a>
+					</li>
+                </ul>
                 <h5>2019T2 MATH2501/2601 Revision Seminar</h5>
 				<ul>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1.pdf">
-							Part 1
+							Seminar 1/2
 						</a>
                         <a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1_Solutions.pdf">
                             <span style="color:#F94DF3"> (Part 1 Solutions)</span>
@@ -327,7 +393,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 					</li>
 					<li>
 						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf">
-							Part 2
+							Seminar 2/2
 						</a>
 					</li>
 					<li>
@@ -363,12 +429,57 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 			</div>
 		</div>
 	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse28901">
+					MATH2801/2901 - Theory of Statistics
+				</a>
+			</h5>
+		</div>
+		<div id="collapse28901" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <!-- <h5>2020T2 MATH2801 Revision Seminar</h5> -->
+                <h5>2020T2 MATH2801 Revision Seminar (Collab with UNSW StatSoc)</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
+							Theory of Statistics (all)
+						</a>
+						<span> (Updated 15/08/2020)</span>
+					</li>
+                </ul>
+                <!-- <h5>2020T2 MATH2801 Revision Seminar</h5> -->
+                <h5>2020T2 MATH2901 Revision Seminar (Collab with UNSW StatSoc)</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_1.pdf">
+							Seminar 1/2
+						</a>
+						<!-- <span> (Collab with UNSW StatSoc)</span> -->
+					</li>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_2.pdf">
+							Seminar 2/2
+						</a>
+						<!-- <span> (Collab with UNSW StatSoc)</span> -->
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
 </div>
 
 <br>
 
 ---
 
+
+##### 2020 Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Gerald Huang, Abdellah Islam and Alex Zhu
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Kabir Agrawal, Henry Lam, Raymond Li, Joanna Lin, Shayekh Rouf, Rishabh Singh, Donald Tang, Karen Zhang, Gorden Zhuang
 
 ##### 2019 Team
 
