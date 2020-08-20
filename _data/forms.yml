@@ -72,14 +72,12 @@ feedback:
     - title: Which mode of delivery would you prefer for these courses?
       id: entry.679315101
       type: radio
-      req: true
       values:
         - Live revision seminar, either in person or streamed (pending COVID-19 restrictions)
         - Pre-recorded topic videos available on YouTube
     - title: If we continue live streaming revision seminars, what would be your preferred platform?
       id: entry.1813096927
       type: radio
-      req: true
       values:
         - Live revision seminar, either in person or streamed (pending COVID-19 restrictions)
         - Pre-recorded topic videos available on YouTube
