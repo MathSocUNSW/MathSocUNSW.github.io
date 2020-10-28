@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Subcommittee
-permalink: /about/subcommunists/
+permalink: /about/subcommittee/
 title_text: The 2020 Subcommittee Team of the UNSW Mathematics Society
 ---
 
