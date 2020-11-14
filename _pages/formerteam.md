@@ -6,6 +6,29 @@ permalink: /about/formerteam/
 
 ## Executive & Directors
 
+### 2020
+
+{:.teamtable}
+**President**|James Gao
+**Vice President**|Yuseph Ma
+**Treasurer**|Rui Tong
+**Secretary**|Grace Li
+**Arc Delegate**|Jason Zhao
+**Education Director**|Gerald Huang
+**Education Director**|Abdellah Islam
+**Education Director**|Alex Zhu
+**Events (Corporate) Director**|Winston Sun
+**Events (Corporate) Director**|Lauren Wu
+**Events (Socials) Director**|Wendy Zhang
+**Events (Socials) Director**|Philton Zhu
+**IT Director**|Ethan Brown
+**Marketing Director**|Isabella Falanga
+**Marketing Director**|Celeste Thomson
+**Sponsorships Director**|Christopher Wu
+**Sponsorships Director**|Nancy Yu
+
+<br />
+
 ### 2019
 
 {:.teamtable}
@@ -118,7 +141,7 @@ permalink: /about/formerteam/
 **Events Director**|Johann Blanco
 **Events Director**|Tim Nguyen
 
-Could not find the sponsorship directors for this year
+(Missing: Sponsorships Directors)
 
 <br />
 
@@ -150,11 +173,23 @@ Could not find the sponsorship directors for this year
 
 ## Subcommittee Members
 
+### 2020
+
+{:.teamtable}
+**Education**|Kabir Agrawal<br />Henry Lam<br />Raymond Li<br />Joanna Lin<br />Shayekh Rouf<br />Rishabh Singh<br />Donald Tang<br />Karen Zhang<br />Gorden Zhuang
+**Events (Corporate)**|Catherine Kwon<br />Ting Li<br />Vedant Rampal<br />CJordan Shen<br />Vivian Wong
+**Events (Socials)**|Jason Cao<br />Merry Chu<br />Kathryn Dalton<br />Nafis Dewan<br />Angie Geng
+**HR**|Justin Clarke<br />Lauren Huynh
+**Marketing**|Sukhleen Khalsa<br />Samraggi Pant<br />Vedant Shah<br />Erica Soenarjo<br />Sue Vo<br />Claire Xue
+**IT**|Nicholas Berridge-Argent<br />Nina Tang<br />Jeffrey Yang<br />Zander Zhuang
+
+<br />
+
 ### 2019
 
 {:.teamtable}
 **Education**|Kabir Agrawal<br />Ethan Brown<br />Gerald Huang<br />Abdellah Islam<br />Laeeque Jamdar<br />Yasin Khan<br />Supriya Segal<br />Jeffrey Yang
-**Events**|Dimas Sanjoyio<br />Winston Sun<br />Celeste Thomson<br />Chris Wu<br />Flora Zhang<br />Philton Zhu
+**Events**|Dimas Sanjoyio<br />Winston Sun<br />Celeste Thomson<br />Christopher Wu<br />Flora Zhang<br />Philton Zhu
 **Marketing**|Vincent Chen<br />Isabella Falanga<br />Ashleigh Feng<br />Yuseph Ma<br />John Wei<br />Lauren Wu
 
 <br />
@@ -171,7 +206,7 @@ Could not find the sponsorship directors for this year
 
 ### 2017
 
-The subcommittee wasn't split into portfolios until 2017, but the split was loose in 2017, so isn't listed.
+General subcommittee
  - Brendon Yang
  - Alex Zhu
  - Chenxiao Qu
