@@ -12,8 +12,6 @@ elements:
       - name: 'div'
       - name: 'Executives and Directors'
         url: '/about/executive/'
-      - name: 'The Subcommittee'
-        url: '/about/subcommittee/'
       - name: 'Former Team Members'
         url: '/about/formerteam'
   - name: 'Events'

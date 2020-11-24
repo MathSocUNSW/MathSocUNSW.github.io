@@ -9,48 +9,54 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
 <h4>The Executive Body</h4>
 <section class="flex-container">
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JamesG.jpg">
-        </div>
-        <div class="vertical-container">
-        <h5>James Gao - President</h5>
-            <p>Fifth year Actuarial Studies and Applied Maths student whose 'Executive Body' is available for inspection at any time. <br />
-            3, 11, 31, __, 131</p>
-        </div>
-    </div>
-    <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/YusephM.jpg">
-        </div>
-        <div class="vertical-container">
-        <h5>Yuseph Ma - Vice President</h5>
-            <p>Mechanical/Biomedical Engineering student. I really really really REALLY like fried chicken.</p>
-        </div>
-    </div>
-    <div class="horizontal-container">
         <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GraceL.jpg">
         </div>
         <div class="vertical-container">
-        <h5>Grace Li - Secretary</h5>
+        <h5>Grace Li - President</h5>
             <p>3<sup>rd</sup> Year Science and Business student. Part-time pyromaniac but only as a hobby. PM me for details on joining my <del>pyramid scheme</del> personal business venture.</p>
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/RuiT.jpg">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/PhiltonZ.png">
         </div>
         <div class="vertical-container">
-        <h5>Rui Tong - Treasurer</h5>
-            <p>Advanced Maths/Computer Science student. Crying my way into my 5<sup>th</sup> year. But too tired now to not underload. Has record of 154 WPM on 10fastfingers that I value as much as my math degree.</p>
+        <h5>Philton Zhu - Vice President</h5>
+            <p>3<sup>rd</sup> year Advanced Maths and Comp Sci kid. Only made it this far on my unhealthy addiction to caffeine and fried chicken. Will sacrifice lectures for a Zinger Box.</p>
         </div>
     </div>
     <div class="horizontal-container">
-        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JasonZ.png">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/JustinC.jpg">
         </div>
         <div class="vertical-container">
-        <h5>Jason Zhao - Arc Delegate</h5>
-            <p>4<sup>th</sup> year Mechanical Engineering Student. Still deciding e4 or d4.</p>
+        <h5>Justin Clarke - Secretary</h5>
+            <p>Name: Justin Clarke<br />
+            Degree: 2<sup>nd</sup> Year Quantitative Data Science<br />
+            Attributes:
+            <ul>
+                <li>Strong tendency to reEeeEeeEeeE</li>
+                <li>Very tall</li>
+            </ul>
+            </p>
         </div>
-	</div>
+    </div>
+    <div class="horizontal-container">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/MerryC.jpg">
+        </div>
+        <div class="vertical-container">
+        <h5>Merry Chu - Treasurer</h5>
+            <p>2<sup>nd</sup> year actl/adv maths student trying her best not to drop out. I like karaoke, call ducks and WAM boosters that don't suddenly decide to go SY/FL^^</p>
+        </div>
+    </div>
+    <div class="horizontal-container">
+        <div class="vertical-container"><img class="subcom-pic" src="{{ site.images }}/TeamPhotos/GeraldH.jpg">
+        </div>
+        <div class="vertical-container">
+        <h5>Gerald Huang - Arc Delegate</h5>
+            <p>Science (Maths) / Computer Science kid here crawling into my third year, contemplating about when I'm going to get my growth spurt.</p>
+        </div>
+    </div>
 </section>
-<br>
+<!--<br>
 <h4>The Board of Directors</h4>
 <section class="flex-container">
     <div class="horizontal-container">
@@ -149,7 +155,7 @@ title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
             <p>Comm/actl student who’s mastered the art of sleeping anytime anywhere. Not sure if I should be proud or worried...</p>
         </div>
 	</div>
-</section>
+</section>-->
 ----------------------------
 
 
