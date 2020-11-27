@@ -15,6 +15,48 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 	<div class="card">
 		<div class="card-header">
 			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse1031">
+					MATH1031 - Mathematics for Life Sciences
+				</a>
+			</h5>
+		</div>
+		<div id="collapse1031" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <h5>2020T3 MATH1031 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH1031.pdf">
+							Mathematics for Life Sciences (all)
+						</a>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse1041">
+					MATH1041 - Statistics for Life and Social Science
+				</a>
+			</h5>
+		</div>
+		<div id="collapse1041" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+                <h5>2020T3 MATH1041 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH1041.pdf">
+							Statistics for Life and Social Science (all)
+						</a>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
 				<a data-toggle="collapse" href="#collapse1081">
 					MATH1081 - Discrete Mathematics
 				</a>
@@ -22,6 +64,14 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse1081" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+                <h5>2020T3 MATH1081 Revision Handout</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Handout.pdf">
+							Revision Handout
+						</a>
+					</li>
+                </ul>
                 <h5>2020T1 MATH1081 Revision Seminar</h5>
 				<ul>
 					<li>
@@ -415,6 +465,14 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 		</div>
 		<div id="collapse25621" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+                <h5>2020T3 MATH2521/2621 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="{{ site.url }}/assets/revision/2020/MATH2521.pdf">
+							Complex Analysis (all)
+						</a>
+					</li>
+                </ul>
                 <h5>2019T3 MATH2521/2621 Revision Seminar</h5>
 				<ul>
 					<li>
