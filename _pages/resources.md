@@ -13,3 +13,4 @@ Have a look at:
  - [MATLAB Guide]({{ site.url }}/resources/matlab-guide/)
  - [Careers Advice]({{ site.url }}/resources/careers-advice/)
  - [HSC Tips and Tricks]({{ site.url }}/assets/files/Tips-and-Tricks-booklet-2019.pdf)
+ - [First Year Guide]({{ site.url }}/assets/files/First_Year_Guide_2021.pdf)
