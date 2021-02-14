@@ -24,10 +24,13 @@ Congratulations to all winners on this amazing accomplishment.
 <a id="2021"></a>
 ###### 2021 Integration Bee
 
-Thank you to all who came to MathSoc's annual Integration Bee and made it a fun time for everyone!
-Congratulations to the winner Jake Edwards and runner-up Raymond Li, who showed the audience a spectacular finale.
+Thank you to all who took the time to compete, spectate and show support at MathSoc's annual Integration Bee! Our team thinks it was a great success and we hope you all had as much fun as we did. 
 
-We are once again releasing our questions and solutions from the bee: 
+Congratulations to the winner Jake Edwards and the runner up Jason Lin. We would like to especially mention that Jake has now managed to win this competition a whopping three times. Jake's skills were well and truly a cut above the rest, managing to dominate the competition from start to finish. 
+
+We can't also go out without mentioning that the finale was a gripping and spectacular roller coaster of emotions. From amazement, to confusion, to anticipation; our 2021 Integration Bee finale had it all. See if you can spot which one of our questions caused the contestants to grind to a halt, as we are releasing both the questions and solutions below.
+
+Finally, we would also like to congratulate Kabir Agrawal for coming in third place. The third place round was not short on entertainment either. It was a wholesome affair as both contestants after some frustration, ending up helping each other out to solve the integral.
 
 <a href="{{ solutions_url }}/integration-bee/2021_Problems_and_Solutions.pdf">2021 Integration Bee Questions and Solutions</a> <br>
 
