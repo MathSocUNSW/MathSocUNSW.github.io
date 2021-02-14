@@ -10,6 +10,7 @@ title_text: Our annual integration bee attracts the brightest, fastest, and most
 **Coming first is no easy task.**
 
 Congratulations to all winners on this amazing accomplishment.
+- [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -18,6 +19,59 @@ Congratulations to all winners on this amazing accomplishment.
 - [2015](#2015)
 - [2014](#2014)
 - [2013](#2013)
+
+---------------------------
+<a id="2021"></a>
+###### 2021 Integration Bee
+
+Thank you to all who came to MathSoc's annual Integration Bee and made it a fun time for everyone!
+Congratulations to the winner Jake Edwards and runner-up Raymond Li, who showed the audience a spectacular finale.
+
+We are once again releasing our questions and solutions from the bee: 
+
+<a href="{{ solutions_url }}/integration-bee/2021_Problems_and_Solutions.pdf">2021 Integration Bee Questions and Solutions</a> <br>
+
+<div id="2021-carousel" class="carousel slide">
+	<ol class="carousel-indicators">
+		<li data-target="#2020-carousel" data-slide-to="0" class="active"></li>
+		<li data-target="#2020-carousel" data-slide-to="1"></li>
+		<li data-target="#2020-carousel" data-slide-to="2"></li>
+		<li data-target="#2020-carousel" data-slide-to="3"></li>
+		<li data-target="#2020-carousel" data-slide-to="4"></li>
+		<li data-target="#2020-carousel" data-slide-to="5"></li>
+	</ol>
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/1.jpg">
+		</div>
+		<div class="carousel-item">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/2.jpg">
+		</div>
+		<div class="carousel-item">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/3.jpg">
+		</div>
+		<div class="carousel-item">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/4.jpg">
+		</div>
+		<div class="carousel-item">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/5.jpg">
+		</div>
+		<div class="carousel-item">
+			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/6.jpg">
+		</div>
+	</div>
+	<a class="carousel-control-prev" href="#2020-carousel" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#2020-carousel" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
+<p class="text-right">
+	<a href="#">Back to top</a>
+</p>
 
 ---------------------------
 <a id="2020"></a>
