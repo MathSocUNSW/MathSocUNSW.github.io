@@ -33,12 +33,12 @@ We are once again releasing our questions and solutions from the bee:
 
 <div id="2021-carousel" class="carousel slide">
 	<ol class="carousel-indicators">
-		<li data-target="#2020-carousel" data-slide-to="0" class="active"></li>
-		<li data-target="#2020-carousel" data-slide-to="1"></li>
-		<li data-target="#2020-carousel" data-slide-to="2"></li>
-		<li data-target="#2020-carousel" data-slide-to="3"></li>
-		<li data-target="#2020-carousel" data-slide-to="4"></li>
-		<li data-target="#2020-carousel" data-slide-to="5"></li>
+		<li data-target="#2021-carousel" data-slide-to="0" class="active"></li>
+		<li data-target="#2021-carousel" data-slide-to="1"></li>
+		<li data-target="#2021-carousel" data-slide-to="2"></li>
+		<li data-target="#2021-carousel" data-slide-to="3"></li>
+		<li data-target="#2021-carousel" data-slide-to="4"></li>
+		<li data-target="#2021-carousel" data-slide-to="5"></li>
 	</ol>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
@@ -60,11 +60,11 @@ We are once again releasing our questions and solutions from the bee:
 			<img class="d-block w-100" src="{{ site.images }}/integration-bee/2021/6.jpg">
 		</div>
 	</div>
-	<a class="carousel-control-prev" href="#2020-carousel" role="button" data-slide="prev">
+	<a class="carousel-control-prev" href="#2021-carousel" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
 	</a>
-	<a class="carousel-control-next" href="#2020-carousel" role="button" data-slide="next">
+	<a class="carousel-control-next" href="#2021-carousel" role="button" data-slide="next">
 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
 		<span class="sr-only">Next</span>
 	</a>
