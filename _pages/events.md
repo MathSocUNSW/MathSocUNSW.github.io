@@ -22,7 +22,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
             Where:
         </p>
       </p>
-      <a class="btn mathsoc-btn-white-purple" href="">More Info</a>
+      <a class="btn mathsoc-btn-white-purple" href="" target="_blank">More Info</a>
     </div>
   </div>
 -->
@@ -30,14 +30,253 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 ### Upcoming Events
 
 <br>
-<div class="flex-container"></div>
+<div class="flex-container">
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/camp_2021.jpg" alt="">
+    <div>
+      <p>
+        UNSW Data Science Society and UNSW Mathematics Society are proud to present 🔥 THE CAMPOCALYPSE OF 2021 🔥. It's a no-BRAINER🧟: if you can survive the end of the world, you can survive ANYTHING 💪.<br>
+        Join us for a JAM-PACKED weekend of fun camp activities🏃, intense challenges 🏅, good food🍝 and drinks🍻 where you can meet a bunch of new friends👯‍♂️, make memories, dance💃 till you drop at our nightly PARTIES🎉, and celebrate your survival of ONE THIRD of the academic calendar.<br>
+        The apocalypse doesn't discriminate - students from ALL years and degrees are invited to witness the end of the world 🌏💥, especially 1ST YEARS 👶 and those 2ND YEARS 🧒 who missed out on camp last year.
+        Tickets are ❗LIMITED❗ so get in quick! It's DEAD⚰️ easy - just click the link below!
+        <hr />
+        <p> When: 28th-30th May, 2021
+            <br>
+            Where: The Tops Conference Centre (51 Bendena Garden, Stanwell Tops)
+            <br>
+            Bus Departs: Central Station, 2:30pm, Friday 28th May
+            <br>
+            Bus Returns: Central Station, ~2:00pm, Sunday 30th May
+            <br>
+            Secure Your Ticket: <a href="https://forms.gle/C71xYy9AUJri7Pta9" target="_blank">Here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/4305401209487840/" target="_blank">More Info</a>
+    </div>
+  </div>
+</div>
 _____________________
 
 ### Past Events
 
 <br>
-<div class="flex-container"></div>
-_____________________
+<div class="flex-container">
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/pi_day_2021.jpg" alt="">
+    <div>
+      <p>
+        Did somebody say free pies? 😍🤩 Happy 🥧 Day cutie π's!<br>
+        In celebration of Pi Day, MathSoc is giving away free pies for all MathSoc members! 🥳<br>
+        Don’t be like π and go on forever by cramming for midterms non-stop. Take a break and treat yo self to some well deserved and delicious pies 🤤. Your wellbeing matters too! ❤️<br>
+        Please have you student ID card with your MathSoc sticker ready in order to collect your free pie 🤩
+        <hr />
+        <p> When: March 29, 2021 @ 2-4PM
+            <br>
+            Where: Naked Lady Lawn
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1151411998637299/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/panelcast_2021.jpg" alt="">
+    <div>
+      <p>
+        What can I do with a Mathematics degree? What are my job prospects? What will life be like after I graduate?<br>
+        If you've ever asked yourself questions like these, wonder no more! MathSoc is bringing you a series of Q&A panelcasts with professionals from various fields, that will answer all your burning questions and doubts!<br>
+        The first panelcast will focus on Mathematics Research, featuring FOUR of our very own UNSW Mathematicians:<br>
+        📢 Dr Thomas Britz<br>
+        📢 Dr Clara Grazian<br>
+        📢 Dr Alexander Gilbert<br>
+        📢 Michael Denes<br>
+        Though this panel discussion is aimed at undergraduate, pre-honours students who would like insight into academic research, all are welcome to join! So, if you're interested in knowing what higher Mathematics research is like, want to know more about suitable career paths into Math Research & more, register and join via the links below for an informative night!
+        <hr />
+        <p> When: March 17, 2021 @ 6-7:30PM
+            <br>
+            Where: <a href="https://unsw.zoom.us/j/87907279694" target="_blank">Zoom</a>
+            <br>
+            Register: <a href="http://bit.ly/Panelcast1" target="_blank">Here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/793344807975270/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/latex_workshop_2021.jpg" alt="">
+    <div>
+      <p>
+        CSESoc is teaming up with MathSoc to bring you the answers to all your LaTeX questions, in a workshop on LaTeX presented by Gerald Huang. 🤩 <br>
+        Calling all 1131/1141 students and students enrolled in:<br>
+        ↪️ ALL MATH courses<br>
+        ↪️ COMP3121/COMP9101<br>
+        This is the perfect event for you and will be extremely useful for your upcoming assignments. 👍<br>
+        LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation.
+        <hr />
+        <p> When: March 16th, 2021 @ 4-6PM
+            <br>
+            Where: <a href="https://unsw.zoom.us/j/82546596774" target="_blank">Zoom</a>
+            <br>
+            Register: <a href="http://bit.ly/LatexWorkshop2021" target="_blank">Here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/936197930517093/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/resume_workshop_2021.jpg" alt="">
+    <div>
+      <p>
+        Step up your resume game and your employability at our Resume Workshop! Hosted by leading data consultancy, Servian, this workshop will better prepare YOU for the recruiting season as Servian employees share their own insight into what makes an excellent resume.<br>
+        The event will consist of a 30-minute workshop where invaluable resume tips and tricks will be shared, followed by a Q&A session, then a PERSONAL student resume review session where you will have the chance for YOUR OWN RESUME to be evaluated by Servian professionals.
+        <hr />
+        <p> When: March 11, 2021 @ 4-5:30PM
+            <br>
+            Where: Science and Engineering Building G07, UNSW
+            <br>
+            Register: <a href="https://bit.ly/3suSG1b" target="_blank" >Here</a>. Don't forget to upload your resume!
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/284670036374709/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/puzzle_hunt_2021.png" alt="">
+    <div>
+      <p style="margin:0">
+        Welcome to the Puzzle Hunt of the year, jointly delivered by 🧩PuzzleSoc🧩 and 🔢MathSoc🔢‼️
+        RATIONALISE your thinking 🤔 as you work through our x+1 = 6, solve for x number of puzzles. Be careful though, as some of these clues might be quite DISCRETE! No maths knowledge is required to solve these puzzles but the PuzzleSoc team will be available on the night to give hints!💡<br>
+        Doesn't matter if you're competitive or casual- just get ready for an EXPONENTIAL 📈 amount of fun 🤩 Hope to see everyone there!<br>
+        Format:
+        <ul style="margin:0">
+          <li>Teams of up to 4 members 👯‍♀️👯‍♀️</li>
+          <li>At the start of the event we will release 4 puzzles which each team can solve at their own pace and in any order 📝</li>
+          <li>Once the 4 puzzles are solved, we will release a 5th META puzzle to the team (the meta puzzle requires the answers of the previous 4 puzzles)</li>
+          <li>The first team to solve all 4 puzzles + the meta wins! 🥇</li>
+        </ul>
+        Stay tuned as we are preparing some awesome prizes 🏆 which will be announced soon 👀
+        <hr />
+        <p> When: March 5th, 2021 @ 4-6pm
+            <br>
+            Where: TBA
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1076676322814846/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/ice_skating_2021.jpg" alt="">
+    <div>
+      <p>
+        Matrix multiplication 🔢 got you in grief 😱? Mate, trick on the ice instead and multiply✖️your respect amongst your peers.<br>
+        Mathematicians and Ice Skaters rejoice! MathSoc and IceSoc are teaming up once again to bring you a fun social night of ice skating 🥳.<br>
+        Algebra? Gonna be more like "Ow, bra" when you lose control and ram straight into that unsuspecting first year.<br>
+        Flex your ice skating prowess and meet your fellow math majors, as well as the diverse group of students making up UNSW's best ice skating club.<br>
+        Tickets are going for $19.99 ($14.99 for IceSoc Gold Members!) Book ahead to secure your spot <a href="https://unsw-mathematics-society.square.site/shop/events/5" target="_blank">here</a>, or pay on the day by cash 💵 or card 💳.<br>
+        The event is to be held at Ice Zoo in Alexandria - a short bus or car ride from uni, or easily accessible via the T8 Airport and South Line.<br>
+        We've booked out the entire rink to maximise flex potential, so don't miss out on this once-in-a-year opportunity!
+        <hr />
+        <p> When: March 4th, 2021 @ 6:15PM
+            <br>
+            Where: Ice Zoo
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/791894801408678/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/subcom_2021.png" alt="">
+    <div>
+      <p>
+        The highly anticipated ✨MATHSOC SUBCOM APPLICATIONS✨ are finally open! Whether you're a first year looking for ways to get involved at UNSW, a final year veteran wanting to expand their social circle, or anything in-between, MathSoc is eager to have you join our team! You DO NOT have to be studying a Mathematics degree to be accepted.<br>
+        As a member of one of our 🤩FIVE SUBCOMMITTEES🤩, you will be guided throughout the year by a friendly team of directors and executives who will encourage you to step out of your comfort zone, meet new people in our tight-knit community, expand your skillsets, have fun and rewarding experiences, and make treasured memories that you can take with you even after you leave university.
+        The following positions are currently up for grabs:<br>
+        ❤️ 9x Education<br>
+        🧡 6x Events (Corporate)<br>
+        💛 6x Events (Socials)<br>
+        💚 2x IT<br>
+        💙 9x Marketing<br>
+        PLEASE NOTE: the number of slots available are approximations and not set in stone. The number of subcommittee members accepted will be decided after interviews.<br>
+        Good luck with your applications! We can't wait to meet you.
+        <hr />
+        <p> When: Fill out the application by 28/02 MIDNIGHT
+            <br>
+            Where: <a href="https://bit.ly/2ZfNGAW" target="_blank">Apply here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/1053727138447044/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/peer_mentee_2021.jpg" alt="">
+    <div>
+      <p>
+        Have you just started uni and already feel a bit lost? MathSoc is proud to introduce our ✨2021 Peer Mentoring Program✨ for all you first years!<br>
+        Whether you need a study buddy, have a deep desire to know all the best microwave spots on campus, want to make a few new friends, or would like advice from a uni veteran, this program is designed to give you a helping hand as you traverse the all too rocky road of your first year at UNSW.
+        In order to be a mentee, you must be in your first year of UNSW. You are not required to be studying a Mathematics degree in order to be accepted!<br>
+        Good luck with your applications! Our mentors are excited to meet you!
+        <hr />
+        <p> When: Fill out the application by Sunday 14/02 MIDNIGHT
+            <br>
+            Where: <a href="https://bit.ly/39Y7ezW" target="_blank">Apply here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/3711444278941702/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/integration_bee_2021.jpg" alt="">
+    <div>
+      <p>
+        MathSoc cordially invites you to our 🐝Annual Integration Bee!🐝 - a fast-paced competition for those wanting to flex their integration skills. Open to anyone interested, participants will face off in a knockout competition by completing integrals until a winner prevails! Prizes are up for grabs and there will be plenty of space at the venue for social distancing. <br>
+        Good luck and may the best integral-cruncher win!
+        <hr />
+        <p> When: February 9, 2021 @ 3PM
+            <br>
+            Where: Keith Burrows Theatre
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/229772198613349/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/oweek_2021.jpg" alt="">
+    <div>
+      <p>
+        Another year, another O-Week! Stop by MathSoc's stall on campus to become an official member of our society, and pick up some ❗FREE MERCH❗ as a reward. <br>
+        We are also running a few events to kick off the year! Keep your 👀eyes peeled👀 for more details on our Facebook event pages.<br>
+        ✨ Integration Bee<br>
+        ✨ MathSoc Streams<br>
+        ✨ Subcommittee Applications<br>
+        Have a great O-Week! We can't wait to meet you.
+        <hr />
+        <p> When: Tuesday 9th - Thursday 11th February
+            <br>
+            Where: UNSW Kensington Campus
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/257374372628919/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/peer_mentoring_2021.jpg" alt="">
+    <div>
+      <p>
+        Do you want to help new uni students ease into the daunting world of higher education? Are you willing to put yourself out there as a mentor to help guide these mentees and while you're at it, get a shiny AHEGS accreditation to flaunt on your resume? <br>
+        MathSoc is currently reaching out to recruit mentors for our ✨ 2021 Peer Mentoring Program. ✨ As a mentor, you will contribute largely to the mathematics community of UNSW!
+        In order to be a mentor, you must be in second year or above. You are not required to be studying a Mathematics degree in order to be accepted!
+        Good luck with your applications!
+        <hr />
+        <p> When: Fill out the application by 24/01 MIDNIGHT
+            <br>
+            Where: <a href="http://bit.ly/3ovWbCP" target="_blank">Apply here</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/459540218764685/" target="_blank">More Info</a>
+    </div>
+  </div>
+</div>
+
+---
 
 ### 2020 Events
 
