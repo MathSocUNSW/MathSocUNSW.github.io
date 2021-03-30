@@ -32,7 +32,7 @@ We can't also go out without mentioning that the finale was a gripping and spect
 
 Finally, we would also like to congratulate Kabir Agrawal for coming in third place. The third place round was not short on entertainment either. It was a wholesome affair as both contestants after some frustration, ending up helping each other out to solve the integral.
 
-<a href="{{ solutions_url }}/integration-bee/2021_Problems_and_Solutions.pdf">2021 Integration Bee Questions and Solutions</a> <br>
+<a href="{{ solutions_url }}/integration-bee/2021_Problems_and_Solutions.pdf" target="_blank">2021 Integration Bee Questions and Solutions</a> <br>
 
 <div id="2021-carousel" class="carousel slide">
 	<ol class="carousel-indicators">
@@ -85,8 +85,8 @@ Congratulations to the winner Jake Edwards and runner-up Raymond Li, who showed 
 
 We are once again releasing our questions and solutions from the bee: 
 
-<a href="{{ solutions_url }}/integration-bee/2020/2020_Integration_bee_Questions.pdf">2020 Integration Bee Questions</a> <br>
-<a href="{{ solutions_url }}/integration-bee/2020/2020_Integration_bee_Solutions.pdf">2020 Integration Bee Solutions</a>
+<a href="{{ solutions_url }}/integration-bee/2020/2020_Integration_bee_Questions.pdf" target="_blank">2020 Integration Bee Questions</a> <br>
+<a href="{{ solutions_url }}/integration-bee/2020/2020_Integration_bee_Solutions.pdf" target="_blank">2020 Integration Bee Solutions</a>
 
 <div id="2020-carousel" class="carousel slide">
 	<ol class="carousel-indicators">
@@ -144,8 +144,8 @@ A massive thank you to Edited by Bea for photographing our event!
 
 This year, we are releasing the questions and answers for the questions. Feel free to use them and give your brain a workout:
 
-<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Questions.pdf">2019 Integration Bee Questions</a> <br>
-<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Answers.pdf">2019 Integration Bee Answers</a>
+<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Questions.pdf" target="_blank">2019 Integration Bee Questions</a> <br>
+<a href="{{ solutions_url }}/integration-bee/2019/2019_MathSoc_Integration_Bee_Answers.pdf" target="_blank">2019 Integration Bee Answers</a>
 
 <div id="2019-carousel" class="carousel slide">
 	<ol class="carousel-indicators">

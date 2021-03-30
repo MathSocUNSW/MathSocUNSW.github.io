@@ -25,7 +25,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T3 MATH1031 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH1031.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH1031.pdf" target="_blank">
 							Mathematics for Life Sciences (all)
 						</a>
 					</li>
@@ -46,7 +46,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T3 MATH1041 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH1041.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH1041.pdf" target="_blank">
 							Statistics for Life and Social Science (all)
 						</a>
 					</li>
@@ -67,7 +67,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T3 MATH1081 Revision Handout</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Handout.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Handout.pdf" target="_blank">
 							Revision Handout
 						</a>
 					</li>
@@ -75,21 +75,21 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T1 MATH1081 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Part_1.pdf" target="_blank">
 							Chapter 1,2,5 - Sets, Integers & Graphs
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Sets_Functions_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Sets_Functions_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Sets and Functions Solutions)</span>
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Relations_Graphs_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Relations_Graphs_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Relations and Graphs Solutions)</span>
                         </a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH1081_Part_2.pdf" target="_blank">
 							Chapter 3,4 - Proofs & Combinatorics
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Proofs_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1081_Proofs_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
@@ -97,15 +97,15 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T1 MATH1081 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_1.pdf" target="_blank">
 							Chapter 1,2,5 - Sets, Integers & Graphs
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_1_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_1_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH1081_Part_2.pdf" target="_blank">
 							Chapter 3,4 - Proofs & Combinatorics
 						</a>
 					</li>
@@ -126,15 +126,15 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T1 MATH1131/1141 Revision Seminar</h5>
                 <ul>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Algebra.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Algebra.pdf" target="_blank">
                             Algebra
                         </a>
                     </li>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Calculus.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Calculus.pdf" target="_blank">
                             Calculus
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1131_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
                     </li>
@@ -142,10 +142,10 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T3 MATH1131/1141 Final Exam Workshop</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH1131_Workshop_Handout.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH1131_Workshop_Handout.pdf" target="_blank">
 							Algebra and Calculus
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Workshop_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Workshop_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
@@ -153,15 +153,15 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T1 MATH1131/1141 Revision Seminar</h5>
                 <ul>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Algebra.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Algebra.pdf" target="_blank">
                             Algebra
                         </a>
                     </li>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Calculus.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Calculus.pdf" target="_blank">
                             Calculus
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1131_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
                     </li>
@@ -169,18 +169,18 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2017S1 MATH1131/1141 Revision Seminar</h5>
                 <ul>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Algebra.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Algebra.pdf" target="_blank">
                             Algebra
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Algebra_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Algebra_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
                     </li>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Calculus.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Calculus.pdf" target="_blank">
                             Calculus
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1131_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
                     </li>
@@ -201,12 +201,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T2 MATH1231/1241 Revision Seminar</h5>
                 <ul>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Algebra.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Algebra.pdf" target="_blank">
                             Algebra
                         </a>
                     </li>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Calculus.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH1231_Calculus.pdf" target="_blank">
                             Calculus
                         </a>
                     </li>
@@ -214,18 +214,18 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<h5>2019T2 MATH1231/1241 Revision Seminar</h5>
                 <ul>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Algebra.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Algebra.pdf" target="_blank">
                             Algebra
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Algebra_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Algebra_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
                     </li>
                     <li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus.pdf" target="_blank">
                             Calculus
                         </a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH1231_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Part 1 Solutions)</span>
                         </a>
                     </li>
@@ -233,18 +233,18 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2017S2 MATH1231/1241 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2017/MATH1231_Algebra.pdf">
+						<a href="{{ site.url }}/assets/revision/2017/MATH1231_Algebra.pdf" target="_blank">
 							Algebra
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1231_Algebra_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1231_Algebra_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2017/MATH1231_Calculus.pdf">
+						<a href="{{ site.url }}/assets/revision/2017/MATH1231_Calculus.pdf" target="_blank">
 							Calculus
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2017/MATH1231_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2017/MATH1231_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
@@ -265,26 +265,26 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T1 MATH2011/2111 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Differential_Calculus.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Differential_Calculus.pdf" target="_blank">
 							Differential Calculus
 						</a>
                         <span> (Updated 30/04/2020)</span>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Integral_Calculus.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Integral_Calculus.pdf" target="_blank">
 							Integral Calculus
 						</a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Vector_Calculus.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2011_Vector_Calculus.pdf" target="_blank">
 							Vector Calculus
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH2011_Vector_Calculus_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH2011_Vector_Calculus_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2111_Analysis_of_Rn.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2111_Analysis_of_Rn.pdf" target="_blank">
 							Analysis (MATH2111)
 						</a>
 					</li>
@@ -292,17 +292,17 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T1 MATH2011/2111 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_1.pdf" target="_blank">
 							Differential Calculus/Multiple Integrals (Seminar 1/2)
 						</a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2011_Part_2.pdf" target="_blank">
 							Vector Calculus/Analysis (Seminar 2/2)
 						</a>
 					</li>
 					<li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2011_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2011_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3">Solutions</span>
                         </a>
 					</li>
@@ -323,19 +323,19 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T1 MATH2018/2019 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_1.pdf" target="_blank">
 							Seminar 1/2
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_1_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_1_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 						<span> (Updated 5/05/2020)</span>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2.pdf" target="_blank">
 							Seminar 2/2
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2020/MATH2018_Part_2_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 						<span> (Updated 5/05/2020)</span>
@@ -357,12 +357,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T2 MATH2089 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2089_Numerical_Methods_Slides.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_Numerical_Methods_Slides.pdf" target="_blank">
 							Numerical Methods
 						</a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2089_2099_2859_CVEN2002_Statistics_Slides.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2089_2099_2859_CVEN2002_Statistics_Slides.pdf" target="_blank">
 							Statistics
 						</a>
 						<span> (Common to MATH2099/MATH2859/CVEN2002) (Updated 11/08/2020)</span>
@@ -384,12 +384,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<h5>2020T2 MATH2121/2221 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_1.pdf" target="_blank">
 							Seminar 1/2
 						</a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2121_Part_2.pdf" target="_blank">
 							Seminar 2/2
 						</a>
 					</li>
@@ -397,10 +397,10 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T2 MATH2121/2221 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2121.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2121.pdf" target="_blank">
 							Differential Equations (all)
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2121_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2121_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Part 1 Solutions)</span>
                         </a>
 					</li>
@@ -421,12 +421,12 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 				<h5>2020T2 MATH2501/2601 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_1.pdf" target="_blank">
 							Seminar 1/2
 						</a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2501_Part_2.pdf" target="_blank">
 							Seminar 2/2
 						</a>
 					</li>
@@ -434,20 +434,20 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T2 MATH2501/2601 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1.pdf" target="_blank">
 							Seminar 1/2
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_1_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Part 1 Solutions)</span>
                         </a>
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2501_Part_2.pdf" target="_blank">
 							Seminar 2/2
 						</a>
 					</li>
 					<li>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Supplement_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2501_Supplement_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3">Abstract Algebra Supplement Solutions</span>
                         </a>
 					</li>
@@ -468,7 +468,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T3 MATH2521/2621 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2521.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2521.pdf" target="_blank">
 							Complex Analysis (all)
 						</a>
 					</li>
@@ -476,10 +476,10 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2019T3 MATH2521/2621 Revision Seminar</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2019/MATH2521.pdf">
+						<a href="{{ site.url }}/assets/revision/2019/MATH2521.pdf" target="_blank">
 							Complex Analysis (all)
 						</a>
-                        <a href="{{ site.url }}/assets/revision/2019/MATH2521_Solutions.pdf">
+                        <a href="{{ site.url }}/assets/revision/2019/MATH2521_Solutions.pdf" target="_blank">
                             <span style="color:#F94DF3"> (Solutions)</span>
                         </a>
 					</li>
@@ -501,7 +501,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T2 MATH2801 Revision Seminar (Collab with UNSW StatSoc)</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2801.pdf" target="_blank">
 							Theory of Statistics (all)
 						</a>
 						<span> (Updated 15/08/2020)</span>
@@ -511,13 +511,13 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
                 <h5>2020T2 MATH2901 Revision Seminar (Collab with UNSW StatSoc)</h5>
 				<ul>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_1.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_1.pdf" target="_blank">
 							Seminar 1/2
 						</a>
 						<!-- <span> (Collab with UNSW StatSoc)</span> -->
 					</li>
 					<li>
-						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_2.pdf">
+						<a href="{{ site.url }}/assets/revision/2020/MATH2901_Part_2.pdf" target="_blank">
 							Seminar 2/2
 						</a>
 						<!-- <span> (Collab with UNSW StatSoc)</span> -->
@@ -532,6 +532,7 @@ Huge thanks to our Education team who worked tirelessly to bring you this materi
 
 ---
 
+<!-- TODO 2021 Team -->
 
 ##### 2020 Team
 
