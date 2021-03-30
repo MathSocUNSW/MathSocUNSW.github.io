@@ -342,6 +342,3 @@ _____________________
 ----------------------------------------------------------
 {% endif %}
 {% endfor %}
-
-
-<!-- TODO better information about events, slideshow? -->

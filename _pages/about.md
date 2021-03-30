@@ -5,7 +5,6 @@ permalink: /about/
 title_text: Welcome to the official website of the University of New South Wales' (UNSW) Mathematics Society!
 ---
 
-<!-- TODO formatting, revise -->
 UNSW Mathematics Society (MathSoc) is the society for mathematics students, however membership is open to anyone, and everyone, who has an interest in mathematics. Affiliated with Arc @ UNSW and with the School of Mathematics and Statistics – we are one of the largest societies at UNSW, boasting a member count over 3,000.
 
 We have three main aims:
