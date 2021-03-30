@@ -20,7 +20,7 @@ The reality is quite different. Mathematics offers a wealth of opportunities in 
 
 Further, there are exciting new fields that push the envelope of what was thought possible. For instance, the field of biostatistics is opening up new areas of research that uses statistics and mathematics to quantify results. In a similar vein, the School of Mathematics and Statistics hosts an applied research centre that applies mathematics to the real world. The Australian Centre for Commercial Mathematics tackles real-world problems in transportation and logistics, energy, mining and even manufacturing – by applying a mathematical method to solve problems.
 
-Moreover, the Australian Mathematical Sciences Institute publish a spectacular recurring magazine called “Maths ad(d)s”, which showcases job advertisements looking for mathematics or statistics trained graduates. See them [here.](https://amsi.org.au/publication-categories/publications/maths-adds-pub/)
+Moreover, the Australian Mathematical Sciences Institute publish a spectacular recurring magazine called “Maths ad(d)s”, which showcases job advertisements looking for mathematics or statistics trained graduates. See them [here.](https://amsi.org.au/publication-categories/publications/maths-adds-pub/) <!-- FIXME Link is dead-->
 
 Mathematicians are constantly needed in a more complex society, and are prized for their analytic and problem solving skills – along with their mastery of numbers. Let’s face it, not a lot of people are undaunted by numbers.
 
@@ -28,8 +28,9 @@ And that’s where you come in.
 
 More information can be found from the School of Mathematics and Statistics:
 
-[https://www.maths.unsw.edu.au/highschool/careers-mathematics-statistics](https://www.maths.unsw.edu.au/highschool/careers-mathematics-statistics)
+<ul>
+    <li><a href="https://www.maths.unsw.edu.au/highschool/careers-mathematics-statistics" target="_blank">https://www.maths.unsw.edu.au/highschool/careers-mathematics-statistics</a></li>
+    <li><a href="https://www.maths.unsw.edu.au/futurestudents/careers" target="_blank">https://www.maths.unsw.edu.au/futurestudents/careers</a></li>
+</ul>
 
-[https://www.maths.unsw.edu.au/futurestudents/careers](https://www.maths.unsw.edu.au/futurestudents/careers)
-
-…and if that’s not enough for you, MathSoc holds special careers and industry themed events from time to time – so check out our Facebook page or News/Events page here on the website, to ensure you don’t miss out on networking with potential employers!
+…and if that’s not enough for you, MathSoc holds special careers and industry themed events from time to time – so check out our <a href="{{site:facebook}}" target="_blank">Facebook</a> page or <a href="/events">News/Events</a> page here on the website, to ensure you don’t miss out on networking with potential employers!
