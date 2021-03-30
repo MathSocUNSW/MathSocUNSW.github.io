@@ -1,11 +1,8 @@
 {
     "private": true,
-    "devDependencies": {
-        "live-server": "^1.2.1"
-    },
     "scripts": {
         "build": "bundle exec jekyll build",
         "build:watch": "bundle exec jekyll build --watch",
-        "dev": "node server.js"
+        "dev": "bundle exec jekyll serve"
     }
 }
