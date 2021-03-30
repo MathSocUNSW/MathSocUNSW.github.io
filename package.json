@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "bundle exec jekyll build",
+        "build:watch": "bundle exec jekyll build --watch",
+        "dev": "bundle exec jekyll serve"
+    }
+}
