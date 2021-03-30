@@ -1,11 +1,12 @@
-var path = require("path");
-var express = require("express");
+const liveServer = require("live-server");
 
-var app = express();
+const params = {
+  port: 8080,
+  host: "localhost",
+  root: "docs",
+  open: true,
+  file: "index.html",
+  logLevel: 2, // 0 = errors only, 1 = some, 2 = lots
+};
 
-app.use(express.static(path.join(__dirname, "docs")));
-app.set("port", process.env.PORT || 8080);
-
-var server = app.listen(app.get("port"), function () {
-  console.log("listening on port ", server.address().port);
-});
+liveServer.start(params);
