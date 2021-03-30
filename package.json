@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "devDependencies":{
+        "express":"^4.17.1"
+    },
+    "scripts": {
+        "build": "bundle exec jekyll build",
+        "dev": "node server.js"
+    }
+}
