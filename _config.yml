@@ -40,9 +40,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - build
-  - package-lock.json
   - package.json
-  - server.js
 
   
 # custom variables
