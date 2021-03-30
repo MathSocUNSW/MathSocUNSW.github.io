@@ -2,7 +2,7 @@
 layout: page
 title: Executives and Directors
 permalink: /about/executive/
-title_text: The 2020 Executive and Director Team of the UNSW Mathematics Society
+title_text: The 2021 Executive and Director Team of the UNSW Mathematics Society
 ---
 <!-- TODO descriptions, formatting -->
 
