@@ -10,7 +10,7 @@ title_text: The UNSW Mathematics Society holds several kinds of events that aim 
 
 <!-- Events Template -->
 <!--
-  <div class="events-containerh">
+  <div class="events-containerh" endDate="">
     <img class="events-pic" style="margin-bottom: 10px" src="/assets/img/Events/2021/" alt="">
     <div>
       <p>
@@ -26,8 +26,8 @@ title_text: The UNSW Mathematics Society holds several kinds of events that aim 
   </div>
 -->
 <h3 style="padding-bottom: 10px;">Upcoming Events</h3>
-<div class="flex-container">
-  <div class="events-containerh">
+<div class="flex-container" id="upcoming-events">
+  <div class="events-containerh" endDate="9/05/2021">
     <img class="events-pic" style="margin-bottom: 10px" src="/assets/img/Events/2021/speed_friending_2021.png" alt="">
     <div>
       <p>
@@ -43,7 +43,7 @@ title_text: The UNSW Mathematics Society holds several kinds of events that aim 
       <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/458047345253197/" target="_blank">More Info</a>
     </div>
   </div>
-  <div class="events-containerh">
+  <div class="events-containerh" endDate="30/05/2021">
     <img class="events-pic" style="margin-bottom: 10px" src="/assets/img/Events/2021/camp_2021.jpg" alt="">
     <div>
       <p>
@@ -70,7 +70,7 @@ title_text: The UNSW Mathematics Society holds several kinds of events that aim 
 
 <hr/>
 <h3 style="padding-bottom: 10px;">Past Events</h3>
-<div class="flex-container">
+<div class="flex-container" id="past-events">
   <div class="events-containerh">
     <img class="events-pic" style="margin-bottom: 10px" src="/assets/img/Events/2021/pi_day_2021.jpg" alt="">
     <div>
@@ -664,3 +664,23 @@ title_text: The UNSW Mathematics Society holds several kinds of events that aim 
     </div>
   </div>
 </div>
+
+<script>
+  const upcomingEvents = document.getElementById('upcoming-events');
+  const pastEvents = document.getElementById('past-events');
+  console.log(Date.now())
+  for (const event of upcomingEvents.children) {
+    const endDate = event.getAttribute('endDate');
+    if (endDate !== null) {
+      const dateInfo = endDate.split('/') // [day, month, year]
+      if (dateInfo.length !== 3) continue;
+      const eventDate = new Date(Date.parse(`${dateInfo[2]}-${dateInfo[1]}-${dateInfo[0]}`)); // YYYY-MM-DD
+      if (isNaN(eventDate.getTime())) continue;
+      if (eventDate.getTime() - Date.now() <= 0) { // date has already passed
+        // Move it from upcomingEvents to pastEvents
+        upcomingEvents.removeChild(event);
+        pastEvents.prepend(event);
+      }
+    }
+  }
+</script>
