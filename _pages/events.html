@@ -5,9 +5,8 @@ permalink: /events/
 title_text: The UNSW Mathematics Society holds several kinds of events that aim to include everyone in the society.
 ---
 
-Whether it be a majors talk so budding maths students can discern between a Pure or Applied major – or if you’re one of the more sporty in the society and aspire to be the next Lionel Messi – MathSoc is sure to have an event for you!
-
-{% assign now = "now" | date: "%Y/%m/%d"%}
+<p>Whether it be a majors talk so budding maths students can discern between a Pure or Applied major – or if you’re one of the more sporty in the society and
+  aspire to be the next Lionel Messi – MathSoc is sure to have an event for you!</p>
 
 <!-- Events Template -->
 <!--
@@ -26,10 +25,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
     </div>
   </div>
 -->
-
-### Upcoming Events
-
-<br>
+<h3 style="padding-bottom: 10px;">Upcoming Events</h3>
 <div class="flex-container">
   <div class="events-containerh">
     <img class="events-pic" src="/assets/img/Events/2021/speed_friending_2021.png" alt="">
@@ -71,11 +67,9 @@ Whether it be a majors talk so budding maths students can discern between a Pure
     </div>
   </div>
 </div>
-_____________________
 
-### Past Events
-
-<br>
+<hr/>
+<h3 style="padding-bottom: 10px;">Past Events</h3>
 <div class="flex-container">
   <div class="events-containerh">
     <img class="events-pic" src="/assets/img/Events/2021/pi_day_2021.jpg" alt="">
@@ -292,11 +286,8 @@ _____________________
   </div>
 </div>
 
----
-
-### 2020 Events
-
-<br>
+<hr />
+<h3 style="padding-bottom: 10px;">2020 Events</h3>
 <div class="flex-container">
   <div class="events-containerh">
     <img class="events-pic" src="{{ site.images }}/Events/Latex_workshop_2020_t2.jpg">
@@ -673,15 +664,3 @@ _____________________
     </div>
   </div>
 </div>
-
-{% assign events = site.events | sort:"show_date" %}
-{% for event in events %}
-{% assign start = event.show_date | date: "%Y/%m/%d" %}
-{% assign end = event.hide_date | date: "%Y/%m/%d" %}
-{% if start <= now and now <= end %}
-{{ event }}
-
----
-
-{% endif %}
-{% endfor %}
