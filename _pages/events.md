@@ -32,6 +32,22 @@ Whether it be a majors talk so budding maths students can discern between a Pure
 <br>
 <div class="flex-container">
   <div class="events-containerh">
+    <img class="events-pic" src="/assets/img/Events/2021/speed_friending_2021.png" alt="">
+    <div>
+      <p>
+        Haven't made many friends at uni and nervous 😟 about socialising? Still feeling the aftereffects of quarantine loneliness? 😭 Or perhaps you're overseas 🌎 or studying exclusively online and haven't met any peers yet?<br>
+        We've got a solution for you! Speed friending - the platonic version of speed dating 😘, without the potential for emotional trauma and trust issues🙅‍♀️🙅‍♂️.<br>
+        Join us online as we embark on an evening of fun and bonding that will leave everybody feeling refreshed and more connected to fellow peers👯‍♀️👯‍♂️. With games such as Scribblio, Among Us, Scattegories and Codenames to look forward to, MathSoc is here to help nudge you towards developing meaningful relationships with a wide range of people! ❤️
+        <hr />
+        <p> When: April 9, 2021 @ 6-8PM
+            <br>
+            Where: <a href="https://discord.gg/Y7FFXxh" target="_blank">MathSoc Discord</a>
+        </p>
+      </p>
+      <a class="btn mathsoc-btn-white-purple" href="https://www.facebook.com/events/458047345253197/" target="_blank">More Info</a>
+    </div>
+  </div>
+  <div class="events-containerh">
     <img class="events-pic" src="/assets/img/Events/2021/camp_2021.jpg" alt="">
     <div>
       <p>
@@ -40,7 +56,7 @@ Whether it be a majors talk so budding maths students can discern between a Pure
         The apocalypse doesn't discriminate - students from ALL years and degrees are invited to witness the end of the world 🌏💥, especially 1ST YEARS 👶 and those 2ND YEARS 🧒 who missed out on camp last year.
         Tickets are ❗LIMITED❗ so get in quick! It's DEAD⚰️ easy - just click the link below!
         <hr />
-        <p> When: 28th-30th May, 2021
+        <p> When: May 28-30, 2021
             <br>
             Where: The Tops Conference Centre (51 Bendena Garden, Stanwell Tops)
             <br>
