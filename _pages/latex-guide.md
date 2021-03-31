@@ -3,9 +3,16 @@ layout: page
 title: LaTeX Guide
 permalink: /resources/latex-guide/
 ---
-<!-- TODO: Add 2021 version? -->
 
 LaTeX is essentially treated as an efficient, neat and effective means of typesetting, where mathematics tends to play a large role in. It is one of the most commonly used typesetting tools in existence, and arguably superior to Word in certain circumstances.
+
+---
+
+MathSoc teamed up with CSESoc again to present another LaTeX seminar in 2021. Special thanks to Gerald Huang for presenting and providing his <a href="/assets/files/2021LaTeXWorkshop.pdf" target="_blank">slides<a>.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VxbnjOuGLFo" allowfullscreen></iframe>
+</div>
 
 ---
 
