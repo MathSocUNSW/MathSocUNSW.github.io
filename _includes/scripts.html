@@ -1,8 +1,6 @@
 <script src="{{ site.cdn.jquery }}" integrity="{{ site.cdn.jquery_hash }}" crossorigin="anonymous"></script>
 <script src="{{ site.cdn.popper }}" integrity="{{ site.cdn.popper_hash }}" crossorigin="anonymous"></script>
 <script src="{{ site.cdn.bootstrap_js }}" integrity="{{ site.cdn.bootstrap_js_hash }}" crossorigin="anonymous"></script>
-{% if page.scripts %}
-	{% for script in page.scripts %}
-		<script src="{{ site.url }}/assets/js/{{ script }}"></script>
-	{% endfor %}
-{% endif %}
+{% if page.scripts %} {% for script in page.scripts %}
+<script src="/assets/js/{{ script }}"></script>
+{% endfor %} {% endif %}

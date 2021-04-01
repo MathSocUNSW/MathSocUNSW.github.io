@@ -31,8 +31,8 @@ OWeek:
       type: radio
       req: true
       values:
-        - "Yes"
-        - "No"
+        - 'Yes'
+        - 'No'
 feedback:
   id: 1FAIpQLSesgiNkWCWiBVuVHT6hyAvODv8BlgrMZ5pETbWwGUZkLYEcJQ
   data:

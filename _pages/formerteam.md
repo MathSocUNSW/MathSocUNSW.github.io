@@ -207,23 +207,24 @@ permalink: /about/formerteam/
 ### 2017
 
 General subcommittee
- - Brendon Yang
- - Alex Zhu
- - Chenxiao Qu
- - James Gao
- - Angela Li
- - Sunchit Sethi
- - Keshav Kotecha
- - Samir Mustavi
- - Elie Sikh
- - Wijekoon Mudiyanselage Oshadhi Nirmanee Wijekoon
- - Baktiar Niloy
- - Justin Huang
- - Allan Loi
- - Gal Aharon
- - Leon Xu
- - Kevin Ge
- - Daniel Tanios
- - Kevin Xian
- - Sida Wang
- - Kevin Pham
+
+- Brendon Yang
+- Alex Zhu
+- Chenxiao Qu
+- James Gao
+- Angela Li
+- Sunchit Sethi
+- Keshav Kotecha
+- Samir Mustavi
+- Elie Sikh
+- Wijekoon Mudiyanselage Oshadhi Nirmanee Wijekoon
+- Baktiar Niloy
+- Justin Huang
+- Allan Loi
+- Gal Aharon
+- Leon Xu
+- Kevin Ge
+- Daniel Tanios
+- Kevin Xian
+- Sida Wang
+- Kevin Pham

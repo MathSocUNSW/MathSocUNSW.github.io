@@ -1,39 +1,43 @@
 <header class="navbar navbar-expand navbar-light flex-column flex-md-row mathsoc-navbar" id="navbar">
-	<a class="navbar-brand mr-0 mr-md-2" href="{{ site.baseurl }}" aria-label="MathSoc">
-		{%- include icons/mathsoc.svg width="36" height="36" class="d-block" -%}
-	</a>
+  <a class="navbar-brand mr-0 mr-md-2" href="" aria-label="MathSoc">
+    {%- include icons/mathsoc.svg width="36" height="36" class="d-block" -%}
+  </a>
 
-	<div class="navbar-nav-scroll">
-		<ul class="navbar-nav bd-navbar-nav flex-row flex-wrap">
-			{% for nav-item in site.data.navbar.elements %}
-				{% if nav-item.sub-pages %}
-					{% assign actives = nav-item.sub-pages | map: 'url' %}
-					<li class="nav-item dropdown {% if actives contains page.url %}active{% endif %}">
-						<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ nav-item.name }}</a>
-						<div class="dropdown-menu">
-							{% for item in nav-item.sub-pages %}
-								{% if item.name == 'div' %}
-									<div class="dropdown-divider"></div>
-								{% else %}
-									<a class="dropdown-item" href="{{ site.baseurl | append: item.url }}">{{ item.name }}</a>
-								{% endif %}
-							{% endfor%}
-						</div>
-					</li>
-				{% else %}
-					<li class="nav-item">
-						<a class="nav-link {% if page.url == nav-item.url %}active{% endif %}" href="{{ site.baseurl }}{{ nav-item.url }}">{{ nav-item.name }}</a>
-					</li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-	</div>
+  <div class="navbar-nav-scroll">
+    <ul class="navbar-nav bd-navbar-nav flex-row flex-wrap">
+      {% for nav-item in site.data.navbar.elements %} {% if nav-item.sub-pages %} {% assign actives = nav-item.sub-pages
+      | map: 'url' %}
+      <li class="nav-item dropdown {% if actives contains page.url %}active{% endif %}">
+        <a
+          class="nav-link dropdown-toggle"
+          data-toggle="dropdown"
+          href="#"
+          role="button"
+          aria-haspopup="true"
+          aria-expanded="false"
+          >{{ nav-item.name }}</a
+        >
+        <div class="dropdown-menu">
+          {% for item in nav-item.sub-pages %} {% if item.name == 'div' %}
+          <div class="dropdown-divider"></div>
+          {% else %}
+          <a class="dropdown-item" href="{{ site.baseurl | append: item.url }}">{{ item.name }}</a>
+          {% endif %} {% endfor%}
+        </div>
+      </li>
+      {% else %}
+      <li class="nav-item">
+        <a class="nav-link {% if page.url == nav-item.url %}active{% endif %}" href="{{ nav-item.url }}"
+          >{{ nav-item.name }}</a
+        >
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+  </div>
 
-	<ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-
-	</ul>
-	<a href="http://www.facebook.com/unswmathsoc">
-		<img src="{{ site.baseurl }}/assets/img/fb_logo.png" width="36px" height="36px" style="margin-right: 10px" />
-	</a>
-	<!--<a class="btn mathsoc-btn-white-purple" href="{{ site.baseurl }}/join/">Join Now</a>-->
+  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex"></ul>
+  <a href="http://www.facebook.com/unswmathsoc" target="_blank">
+    <img src="/assets/img/fb_logo.png" width="36px" height="36px" style="margin-right: 10px" />
+  </a>
+  <!--<a class="btn mathsoc-btn-white-purple" href="/join/">Join Now</a>-->
 </header>

@@ -4,6 +4,7 @@ title: Careers Advice
 permalink: /resources/careers-advice/
 title_text: So you want to use mathematics in your career? Fantastic!
 ---
+
 Unfortunately though, you may have seen or read some of the rumours going on about how maths doesn’t lend itself to jobs. You might have heard that the only thing a maths degree is good for, is to be a teacher or lecturer. But this is simply not true!
 
 Mathematics lends itself to a diverse and varied career path. Though you probably wouldn’t think it. While jobs such as ‘economist’, ‘physicist’ and ‘chemist’, for example, are well-defined and known generally in society – the same does not hold true for ‘mathematician’. Think to yourself right now – do you know any person whose job title is ‘mathematician’?
