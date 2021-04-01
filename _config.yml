@@ -41,6 +41,9 @@ exclude:
   - vendor/ruby/
   - build
   - package.json
+  - package-lock.json
+  - .vscode/
+  - .prettierrc.json
 
   
 # custom variables

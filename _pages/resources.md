@@ -7,10 +7,10 @@ title_text: MathSoc has compiled a bunch of resources for the benefit of its mem
 
 Have a look at:
 
- - [First Year Exam Bank]({{ site.url }}/resources/first-year-exam-bank/)   
- - [Revision Lectures]({{ site.url }}/resources/revision-lectures/)
- - [LaTeX Guide/Seminar]({{ site.url }}/resources/latex-guide/)
- - [MATLAB Guide]({{ site.url }}/resources/matlab-guide/)
- - [Careers Advice]({{ site.url }}/resources/careers-advice/)
- - [HSC Tips and Tricks]({{ site.url }}/assets/files/Tips-and-Tricks-booklet-2019.pdf)
- - [First Year Guide]({{ site.url }}/assets/files/First_Year_Guide_2021.pdf)
+- [First Year Exam Bank](/resources/first-year-exam-bank/)
+- [Revision Lectures](/resources/revision-lectures/)
+- [LaTeX Guide/Seminar](/resources/latex-guide/)
+- [MATLAB Guide](/resources/matlab-guide/)
+- [Careers Advice](/resources/careers-advice/)
+- [HSC Tips and Tricks](/assets/files/Tips-and-Tricks-booklet-2019.pdf)
+- [First Year Guide](/assets/files/First_Year_Guide_2021.pdf)

@@ -1,200 +1,198 @@
 ---
 ---
 
-@import "navbar";
-@import "button";
-@import "footer";
+@import 'navbar';
+@import 'button';
+@import 'footer';
 
 .mathsoc-body {
-	background: rgba(255,255,255,0.8);
-	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
 }
 
 .flex-container {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: center;
-		
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
 .horizontal-container {
-	display: flex;
-	overflow: visible;
-	overflow-inline: none;
-	//flex-wrap: wrap;
-	margin: 20px;
-	width: 400px;
+  display: flex;
+  overflow: visible;
+  overflow-inline: none;
+  //flex-wrap: wrap;
+  margin: 20px;
+  width: 400px;
 }
 
 .vertical-container {
-	overflow: visible;
-	align-items: center;
+  overflow: visible;
+  align-items: center;
 
-	padding-left: 10px;
-
+  padding-left: 10px;
 }
 
 .subcom-pic {
-	// display: flex;
-	
-	object-fit: contain;
-	width: 128px;
-	height: 128px;
-	border-radius: 50%;
+  // display: flex;
+
+  object-fit: contain;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
 }
 
 .eventsbox {
-
-	display: flex;
-	justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .sponsor-container {
-	background-color: #eeeeee;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .img-fluid {
-	max-height: 100%;
-	
+  max-height: 100%;
 }
 
 .sponsor-container > a {
-	width: 200px;
-    height: 100px;
-    padding: 10px;
-    line-height: 80px;
-    text-align: center;
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  line-height: 80px;
+  text-align: center;
 }
 
 .sponsor-container-wrapper {
-	background: #eeeeee;
-	padding: 50px 50px 50px 50px;
+  background: #eeeeee;
+  padding: 50px 50px 50px 50px;
 }
 
 .backgroundimage {
-	background-image: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)), url("{{ site.images }}/tmp_background.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 100% 100%;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),
+    url('{{ site.images }}/tmp_background.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
 }
 
 .nav-link {
-	font-size: 18px;
+  font-size: 18px;
 }
 
 .logo {
-	object-fit: contain;
-	height: 70%;
-	width: 70%;	
+  object-fit: contain;
+  height: 70%;
+  width: 70%;
 }
 
 .logo-container {
-	display: flex;
-	justify-content: center;
-	// object-fit: contain;
+  display: flex;
+  justify-content: center;
+  // object-fit: contain;
 }
 
 .upcoming-events {
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
-	font-size: 18px;
-	padding: 80px 200px 20px 200px;
-	background-color: aliceblue !important;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: 18px;
+  padding: 80px 200px 20px 200px;
+  background-color: aliceblue !important;
 }
 .upcoming-events > a,
 .upcoming-events > .sep {
-	padding-left: 20px;
+  padding-left: 20px;
 }
 
 #navbar {
-	position: fixed;
-	top: 0px;
-	width: 100%;
-	z-index: 9999;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 9999;
 }
 
 .card {
-	position: static;
+  position: static;
 }
 
 .flip-container {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .flip-card {
-	width: 250px;
-	height: 250px;
-	perspective: 1000px; /* Remove this if you don't want the 3D effect */
-  }
-  
-  /* This container is needed to position the front and back side */
-  .flip-card-inner {
-	position: relative;
-	width: 100%;
-	height: 100%;
-	text-align: center;
-	transition: transform 0.5s;
-	transform-style: preserve-3d;
-  }
-  
-  /* Do an horizontal flip when you move the mouse over the flip box container */
-  .flip-card:hover .flip-card-inner {
-	transform: rotateY(-180deg);	
-  }
-  
-  /* Position the front and back side */
-  .flip-card-front, .flip-card-back {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	-webkit-backface-visibility: hidden;
-	border-radius: 15px;
-	
-  }
-  
-  /* Style the front side (fallback if image is missing) */
-  .flip-card-front {
-	background-color: transparent;
-	color: black;
-  }
-  
-  /* Style the back side */
-  .flip-card-back {
-	background-color: rgb(238, 238, 238);
-	color: rgb(0, 0, 0);
-	transform: rotateY(-180deg);
-	overflow-y: scroll;
-  }
+  width: 250px;
+  height: 250px;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
 
-  .events-containerh {
-	display: flex;
-	overflow: visible;
-	// overflow-inline: none;
-	flex-wrap: wrap;
-	width: 500px;
-	margin: 10px;
-  }
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(-180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  border-radius: 15px;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: transparent;
+  color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: rgb(238, 238, 238);
+  color: rgb(0, 0, 0);
+  transform: rotateY(-180deg);
+  overflow-y: scroll;
+}
+
+.events-containerh {
+  display: flex;
+  overflow: visible;
+  // overflow-inline: none;
+  flex-wrap: wrap;
+  width: 500px;
+  margin: 10px;
+  align-items: flex-start;
+}
 
 .events-pic {
-	display: flex;
-	// max-height: 280px;
-	justify-content: center;
-	max-width: 100%;
+  display: flex;
+  // max-height: 280px;
+  justify-content: center;
+  max-width: 100%;
 }
 
 .teamtable {
-	border: 1px solid #ccdddc;
-	border-spacing: 10em;
-	
-	th, td {
-		border: 1px solid #ddd;
-		padding: 5px;
-	}
+  border: 1px solid #ccdddc;
+  border-spacing: 10em;
+
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
 }
