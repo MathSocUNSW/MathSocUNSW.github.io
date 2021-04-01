@@ -170,13 +170,12 @@
 }
 
 .events-containerh {
-  display: flex;
+  // display: flex;
   overflow: visible;
   // overflow-inline: none;
   flex-wrap: wrap;
   width: 500px;
   margin: 10px;
-  align-items: flex-start;
 }
 
 .events-pic {
