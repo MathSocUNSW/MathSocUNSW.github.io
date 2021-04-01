@@ -46,8 +46,6 @@ elements:
       - careers-advice:
         name: 'Careers Advice'
         url: '/resources/careers-advice/'
-  - name: 'Weekly Questions'
-    url: '/teasers/'
   - name: 'Sponsors'
     url: '/sponsors/'
   - name: 'Contact'
