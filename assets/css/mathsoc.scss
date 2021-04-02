@@ -205,6 +205,13 @@
     padding-right: 90px;
     padding-top: 20px;
   }
+  h1,
+  h2,
+  h3,
+  h4,
+  .contact-text {
+    text-align: center;
+  }
 }
 
 @media (max-width: 575px) {
@@ -216,5 +223,15 @@
 @media (max-width: 536px) {
   .upcoming-events {
     margin-top: 150px;
+  }
+}
+
+@media (max-width: 699px) {
+  .sponsor-container-wrapper {
+    text-align: center;
+    padding-top: 0;
+  }
+  .sponsor-container {
+    justify-content: center;
   }
 }
