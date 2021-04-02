@@ -195,6 +195,10 @@
   }
 }
 
+#nav-facebook-link {
+  display: none;
+}
+
 @media (max-width: 767px) {
   #facebook-box {
     display: none;
@@ -211,6 +215,9 @@
   h4,
   .contact-text {
     text-align: center;
+  }
+  #nav-facebook-link {
+    display: block;
   }
 }
 
