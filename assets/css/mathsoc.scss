@@ -194,3 +194,27 @@
     padding: 5px;
   }
 }
+
+@media (max-width: 767px) {
+  #facebook-box {
+    display: none;
+  }
+  .upcoming-events {
+    margin-top: 100px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .upcoming-events {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+@media (max-width: 536px) {
+  .upcoming-events {
+    margin-top: 150px;
+  }
+}
