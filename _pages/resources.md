@@ -14,3 +14,4 @@ Have a look at:
 - [Careers Advice](/resources/careers-advice/)
 - [HSC Tips and Tricks](/assets/files/Tips-and-Tricks-booklet-2019.pdf)
 - [First Year Guide](/assets/files/First_Year_Guide_2021.pdf)
+- [MATH1131/1141 Revision Sheet](/assets/files/Essential_Formulas_and_Theorems.pdf)
