@@ -583,7 +583,11 @@ _Please note that_
 
 ---
 
-<!-- TODO 2021 Team -->
+##### 2020 Team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Gorden Zhuang, John Kameas, Raymond Li
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Bruce Chen, Felix Cao, Isaiah Iliffe, Jay Liang, Joanna Lin, Jordy Grant, Lisa Huang, Steve Jang, Wendy Ji, Yvonne Huang
 
 ##### 2020 Team
 
