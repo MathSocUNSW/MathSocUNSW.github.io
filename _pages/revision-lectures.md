@@ -357,11 +357,6 @@ _Please note that_
 											MATH2018/2019 Workshop 2021T1
 										</a>
 									</li>
-									<li>
-										<a href="/assets/revision/2021/Parabolic_Equation.mlx" target="_blank">
-											Parabolic Equation (MATLAB)
-										</a>
-									</li>
                 </ul>
 								<h5>2020T1 MATH2018/2019 Revision Seminar</h5>
 				<ul>
@@ -402,6 +397,11 @@ _Please note that_
 									<li>
 										<a href="/assets/revision/2021/MATH2089_Workshop_Term_1_2021.pdf" target="_blank">
 											MATH2089 Workshop 2021T1
+										</a>
+									</li>
+									<li>
+										<a href="/assets/revision/2021/Parabolic_Equation.mlx" target="_blank">
+											Parabolic Equation (MATLAB)
 										</a>
 									</li>
                 </ul>
