@@ -65,7 +65,7 @@ _Please note that_
 		</div>
 		<div id="collapse1081" class="collapse" data-parent="#accordion">
 			<div class="card-body">
-                <h5>2021T1 MATH1131/1141 Revision Seminar</h5>
+                <h5>2021T1 MATH1081 Revision Seminar</h5>
 								<ul>
 									<li>
 										<a href="/assets/revision/2021/MATH1081_Workshop_Term_1_2021.pdf" target="_blank">
