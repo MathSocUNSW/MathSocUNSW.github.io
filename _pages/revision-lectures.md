@@ -583,11 +583,11 @@ _Please note that_
 
 ---
 
-##### 2020 Team
+##### 2021 Team
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Gorden Zhuang, John Kameas, Raymond Li
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Directors:** Raymond Li, John Kameas, Gorden Zhuang
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Bruce Chen, Felix Cao, Isaiah Iliffe, Jay Liang, Joanna Lin, Jordy Grant, Lisa Huang, Steve Jang, Wendy Ji, Yvonne Huang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Subcommittee:** Felix Cao, Bruce Chen, Jordy Grant, Lisa Huang, Yvonne Huang, Isaiah Iliffe, Jay Liang, Joanna Lin, Steve Jang, Wendy Ji
 
 ##### 2020 Team
 
