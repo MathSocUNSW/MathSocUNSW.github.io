@@ -2,8 +2,8 @@ title: UNSW Mathematics Society
 short_title: UNSW MathSoc
 email: contact@mathsoc.unsw.edu.au # TODO check if email still works
 baseurl: ""
-images: "https://mathsocunsw.github.io/assets/img"
-url: "https://mathsocunsw.github.io"
+images: "https://mathsocunsw.github.io/assets/img" # will need to update this
+url: "https://mathsocunsw.github.io" # will need to update this
 permalink: pretty
 description: The UNSW Mathematics Society (MathSoc) is the society for mathematics students at the University of New South Wales, with membership open to anyone who has an interest in mathematics. We are affiliated with Arc @ UNSW and with the School of Mathematics and Statistics, and with over 3,000 members we are one of the largest societies at UNSW.
 

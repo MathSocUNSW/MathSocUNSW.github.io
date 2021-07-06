@@ -43,6 +43,9 @@ elements:
       - matlab-guide:
         name: 'MATLAB Guide'
         url: '/resources/matlab-guide/'
+      - r-workshop:
+        name: 'R Workshop'
+        url: '/resources/r-workshop'
       - careers-advice:
         name: 'Careers Advice'
         url: '/resources/careers-advice/'
