@@ -34,4 +34,4 @@ More information can be found from the School of Mathematics and Statistics:
     <li><a href="https://www.maths.unsw.edu.au/futurestudents/careers" target="_blank">https://www.maths.unsw.edu.au/futurestudents/careers</a></li>
 </ul>
 
-…and if that’s not enough for you, MathSoc holds special careers and industry themed events from time to time – so check out our <a href="{{site:facebook}}" target="_blank">Facebook</a> page or <a href="/events">News/Events</a> page here on the website, to ensure you don’t miss out on networking with potential employers!
+…and if that’s not enough for you, MathSoc holds special careers and industry themed events from time to time – so check out our <a href="{{site.facebook}}" target="_blank">Facebook</a> page or <a href="/events">News/Events</a> page here on the website, to ensure you don’t miss out on networking with potential employers!
