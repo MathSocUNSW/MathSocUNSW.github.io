@@ -462,6 +462,27 @@ _Please note that_
 	<div class="card">
 		<div class="card-header">
 			<h5 class="mb-0">
+				<a data-toggle="collapse" href="#collapse21221">
+					MATH2400 - Finite Mathematics
+				</a>
+			</h5>
+		</div>
+		<div id="collapse21221" class="collapse" data-parent="#accordion">
+			<div class="card-body">
+				<h5>2021T2 MATH2400 Revision Seminar</h5>
+				<ul>
+					<li>
+						<a href="/assets/revision/2021/MATH2400_Workshop.pdf" target="_blank">
+							MATH2400 Workshop 2021T2
+						</a>
+					</li>
+                </ul>
+			</div>
+		</div>
+	</div>
+	<div class="card">
+		<div class="card-header">
+			<h5 class="mb-0">
 				<a data-toggle="collapse" href="#collapse25601">
 					MATH2501/2601 - Linear Algebra
 				</a>
