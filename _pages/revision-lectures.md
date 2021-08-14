@@ -132,19 +132,6 @@ _Please note that_
 		</div>
 		<div id="collapse11341" class="collapse" data-parent="#accordion">
 			<div class="card-body">
-                <h5>2021T2 MATH1131/1141 Revision Seminar</h5>
-								<ul>
-									<li>
-										<a href="/assets/revision/2021/MATH123141_Revision_Seminar__Algebra_Term_2_2021.pdf" target="_blank">
-											Algebra
-										</a>
-									</li>
-									<li>
-										<a href="/assets/revision/2021/MATH12311241_Revision_Slides___Calculus_Term_2_2021.pdf" target="_blank">
-											Calculus
-										</a>
-									</li>
-								</ul>
                 <h5>2021T1 MATH1131/1141 Revision Seminar</h5>
 								<ul>
 									<li>
@@ -233,6 +220,19 @@ _Please note that_
 		</div>
 		<div id="collapse12341" class="collapse" data-parent="#accordion">
 			<div class="card-body">
+                <h5>2021T2 MATH1231/1241 Revision Seminar</h5>
+								<ul>
+									<li>
+										<a href="/assets/revision/2021/MATH123141_Revision_Seminar__Algebra_Term_2_2021.pdf" target="_blank">
+											Algebra
+										</a>
+									</li>
+									<li>
+										<a href="/assets/revision/2021/MATH12311241_Revision_Slides___Calculus_Term_2_2021.pdf" target="_blank">
+											Calculus
+										</a>
+									</li>
+								</ul>
                 <h5>2020T2 MATH1231/1241 Revision Seminar</h5>
                 <ul>
                     <li>
