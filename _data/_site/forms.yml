@@ -1,0 +1,94 @@
+OWeek:
+  id: 1FAIpQLSegCEw6ZGEl2kUVnK_kN7CK1e4HdQU9LqDgSXJCGg5-HQV6gg
+  data:
+    - title: Email address
+      type: email
+      req: true
+      value: Your email
+    - title: First name
+      id: entry.990797104
+      type: short
+      req: true
+      value: Your first name
+    - title: Last name
+      id: entry.996092728
+      type: short
+      req: true
+      value: Your last name
+    - title: zID
+      id: entry.880461737
+      type: short
+      req: true
+      value: Your zID
+      sub: Please enter your ID in the form zXXXXXXX
+    - title: What do you study?
+      id: entry.396849616
+      type: short
+      req: true
+      value: Your answer
+    - title: Are you an Arc member?
+      id: entry.2016630207
+      type: radio
+      req: true
+      values:
+        - 'Yes'
+        - 'No'
+feedback:
+  id: 1FAIpQLSesgiNkWCWiBVuVHT6hyAvODv8BlgrMZ5pETbWwGUZkLYEcJQ
+  data:
+    - title: Please select the event(s) you attended
+      id: entry.807808748
+      type: checkbox
+      values:
+        - MATH1231/1241 Revision Seminar
+        - MATH2089 Revision Seminar
+        - MATH2121/2221 Revision Seminar
+        - MATH2501/2601 Revision Seminar
+    - title: How would you rate your experience at this event?
+      id: entry.96261411
+      type: range
+      req: true
+      min: Poor
+      max: Amazing
+      values:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+      def: 3
+    - title: What did you find the most enjoyable at this event? What did you dislike about the event?
+      id: entry.1098404996
+      type: short
+      value: Your answer
+    - title: How do you think we could improve this event? Is there anything in particular you would like to see in future events?
+      id: entry.1416787724
+      type: short
+      value: Your answer
+    - title: Please specify what MATH courses you plan on studying next term
+      id: entry.2091612071
+      type: short
+      value: Your courses
+    - title: Which mode of delivery would you prefer for these courses?
+      id: entry.679315101
+      type: radio
+      values:
+        - Live revision seminar, either in person or streamed (pending COVID-19 restrictions)
+        - Pre-recorded topic videos available on YouTube
+    - title: If we continue live streaming revision seminars, what would be your preferred platform?
+      id: entry.1813096927
+      type: radio
+      values:
+        - Twitch
+        - YouTube
+        - Either is fine
+    - title: Which event(s) would you like to see next?
+      id: entry.1715031549
+      type: checkbox
+      values:
+        - Career Information Session
+        - Zetamac Competition
+        - Networking Fundamentals
+        - MathSoc Goes Hiking
+        - Programming for Maths Students
+        - Socially Distanced Yogo Session
